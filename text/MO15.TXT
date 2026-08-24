@@ -1,0 +1,33 @@
+#BIBLE#
+23.37-39
+NONE
+19.41-44
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - Sanctuary of "Dominus Flevit"
+At this site, Jesus wept over Jerusalem.
+In 1955, the modern chapel was constructed in the shape of a tear-drop by the architect Antonio Barluzzi. It stands on the ruins of an ancient church of which a beautiful mosaic pavement (7th century) has been preserved.
+#end_english#
+#italiano#
+Monte Oliveto -- Santuario del "Dominus Flevit"
+In questo luogo, Gesù ha pianto su Gerusalemme.
+La Cappella moderna è stata costruita a forma di una lacrima dall'architetto Antonio Barluzzi in 1955 sulle rovine di una chiesa antica dalla quale è stato conservato un bellissimo mosaico di pavimento raffigurante della frutta dipinta ( Settimo Secolo ).
+#end_italiano#
+#espanol#
+Monte de los Olivos - Santuario del "Dominus Flevit"
+En este lugar se conmemora el llanto del Señor ante la vista de Jerusalén.
+La iglesia, cuya forma recuerda una lágrima, fue construida por A. Barluzzi en 1955, sobre las ruinas de otras anteriores que se remontan a la época bizantina. Aquí construyeron los turcos una mezquita en honor de "Issa El-Mansurie", es decir "Jesús el Triunfador". Hay restos de un osario del siglo I y un mosaico del VII.
+#end_espanol#
+#francais#
+Le Mont des Oliviers -- Sanctuaire du " Dominus Flevit "
+Sur ce lieu, Jésus a pleuré sur Jérusalem.
+La chapelle moderne a été construite selon la forme d'une larme, par l'architecte Antonio Barluzzi en 1955, dans les ruines d'une ancienne église, sur la quelle est préservée une mosaïque représentant un fruit (7ième siècle).
+#end_francais#
+#deutch#
+Der Ölberg
+Außenansicht der Dominus-Flevit-Kapelle 
+An der traditionellen Route der Palmsonntagsprozession befindet sich seit dem 5. Jahrhundert eine Kapelle zum Gedenken daran, dass Jesus bei seinem ersten Anblick der Stadt Jerusalem über sie weinte. Eine Kirche der Kreuzfahrerzeit und eine spätere Moschee wurden in unmittelbarer Nachbarschaft in einem Gelände entdeckt, dass seit dem 16. vorchristlichen Jahrhundert als Friedhof genutzt wurde und die größte römische Nekropole in der Umgebung Jerusalems bildete. über den Fundamenten der byzantinischen Kapelle des 5. Jahrhunderts und inmitten einer wunderschönen Gartenanlage errichtete Antonio Barluzzi 1955 eine moderne Kapelle, die in Form einer Träne gestaltet ist. Ihr berühmtes Westfenster, das im Bild von außen zu sehen ist, gibt den Blick auf die Stadt frei, über die Jesus Tränen vergoß.
+#end_deutch#
+
+

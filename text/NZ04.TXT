@@ -1,0 +1,40 @@
+#BIBLE#
+26.31-35;26.69-75
+14.26-31;14.66-72
+22.31-34;22.55-65
+13.36-38;18.15-27
+#end_BIBLE#
+#english#
+St. Peter in Gallicantu
+The stairway from Mount Zion to the Kidronvalley that Jesus took after the Last Supper to reach the Mount of Olives.
+Jesus predicts Peter's denial -
+[Matthew 26,31-35; Mark 14,26-31; Luke 22,31-34; John 13,36-38]
+Peter denies Jesus three times -
+[Matthew 26,69-75; Mark 14,66-72; Luke 22,55-65; John 18,15-27]
+#end_english#
+#italiano#
+San Pietro in Gallicantu
+Le scale dal Monte Sion fino alla valle di Kedron che Gesù ha preso dopo L'Ultima Cena per arrivare al Monte degli Ulivi.
+Gesù predice il rinegamento di Pietro -
+[ Matteo 26,31-35, Marco 14,26-31, Luca 22,31-34, Giovanni 13,36-38 ]
+Pietro nega Gesù tre volte -
+[ Matteo 26,69-75, Marco 14,66-72, Luca 22,55-65, Giovanni 18,15-27 ]
+#end_italiano#
+#espanol#
+S. Pedro in Gallicantu.
+Escalera del tiempo de Jesús, por la que probablemente pasó varias veces la noche del Jueves Santo, para descender a Getsemaní desde el Cenáculo, y regresar al palacio de Caifás después del Prendimiento.
+Jesús predice la negación de Pedro -
+ (Mateo 26,31-35, Marcos 14,26-31, Lucas 22,31-34, Juan 13,36-38)
+Pedro niega a Jesús tres veces-
+ (Mateo 26,69-75, Marcos 14,66-72, Lucas 22,55-65, Juan 18,15-27)
+#end_espanol#
+#francais#
+Saint Pierre en Gallicante
+L'escalier allant du Mont Sion à la vallée du Cédron, que Jésus emprunta après le Dernier Repas, pour rejoindre le mont des Oliviers.
+#end_francais#
+#deutch#
+Der Zionsberg - Antike Treppe bei St. Peter in Gallicantu
+Vom Abendmahlssaal aus führt der traditionelle Weg, der auch heute noch von zahlreichen Pilgerinnen und Pilgern am Gründonnerstagabend begangen wird, vorbei an der Kirche St. Peter in Gallicantu, die an die Verleugnung Jesu durch Petrus "beim Hahnenschrei" erinnert, hinunter ins Kidrontal und hinüber zur Kirche der Nationen in Getsemani. Im Gelände der Kirche St. Peter in Gallicantu wurde eine Treppe aus der Zeit Jesu freigelegt, die ebenfalls ins Kidrontal führt und die Jesus nach dem Letzten Abendmahl benutzt haben könnte.
+#end_deutch#
+
+

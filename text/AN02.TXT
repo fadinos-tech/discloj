@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth (2)
+A town in lower Galilee, not far from the Sea of Galilee. This is where the Annunciation took place, and where Jesus spent his childhood.
+#end_english#
+#italiano#
+Nazaret  (2)
+Una città della Galilea vicina al lago di Tiberiade.
+Che ha testimoniato l'annuncio della nascita di Gesù e la sua vita.
+#end_italiano#
+#espanol#
+Nazaret (2)
+Nazaret se encuentra sobre una pequeña cadena montañosa, a medio camino entre el Mar
+Mediterráneo y el Lago de Galilea.
+En este pequeño pueblo, hace dos mil años, el Arcángel Gabriel anunció a María que sería la Madre del Salvador por obra del Espíritu Santo. Aquí pasó Jesús su infancia y los 30 años de su vida oculta.
+#end_espanol#
+#francais#
+Nazareth (2)
+Une ville de basse Galilée, non loin du Lac du Tibériade.
+Cette ville fut témoin de l'Annonce de l'Ange à Marie et de l'enfance de Jésus.
+#end_francais#
+#deutch#
+Nazareth - Umgebung der Verkündigungsbasilika
+Im Bildzentrum ist der wuchtige Komplex der modernen, römisch-katholischen Verkündigungsbasilika zu sehen. Links schließt sich der Konvent der Franziskaner an, die diese Kirche betreuen, und am äußersten linken unteren Bildrand befindet sich die ebenfalls römisch-katholische Josefskirche. Diese zusammengehörige Anlage erhebt sich mitten im heutigen Stadtzentrum, an der Nahtstelle von verwinkelten Basarstraßen mit orientalischem Flair im Vordergrund und modernen Geschäftsstraßen im Hintergrund.
+#end_deutch#
+
+

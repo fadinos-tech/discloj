@@ -1,0 +1,36 @@
+#BIBLE#
+27.34-36
+15.23-24
+NONE
+19.23-24
+#end_BIBLE#
+#english#
+Via Dolorosa - Tenth Station of the Cross
+Jesus is stripped of his garments.
+These stairs were a direct access to the Calvary site. The four following stations are inside the Church of the Holy Sepulchre.
+#end_english#
+#italiano#
+Via Dolorosa -- Decima Stazione:
+" Gesù spogliato dalle vesti "
+La Basilica del Santo Sepolcro.
+Queste scale erano l'unica strada che conduceva al calvario. Le seguenti Quattro Stazioni sono dentro la Basilica.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Décima Estación:
+"Jesús es despojado de sus vestiduras".
+Imagen de la Basílica del Santo Sepulcro.
+La escalera exterior comunicaba antaño directamente con el Calvario, ahora clausurada y que da acceso a la Capilla de los Francos. Las 4 Estaciones siguientes, incluyendo la Resurrección del Señor, están dentro de la Basílica.
+#end_espanol#
+#francais#
+Via Dolorosa – La dixième station du Chemin de la Croix
+Jésus est dépouillé de ses vêtements.
+Basilique du saint Sépulcre.
+Ces marches donnaient accès directement à l'emplacement du Calvaire. Les quatre station suivantes sont a l'intérieur de la basilique. 
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die zehnte Station des Kreuzweges
+"Jesus wird seiner Kleider beraubt."
+Diese und die nächsten vier Stationen befinden sich bereits innerhalb der Grabeskirche. Die Stufen bilden den direkten Zugang nach Golgotha.
+#end_deutch#
+
+

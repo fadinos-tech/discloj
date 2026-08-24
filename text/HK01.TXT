@@ -1,0 +1,31 @@
+#BIBLE#
+4.13-17
+1.14-15
+4.14-15
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+The memorial church built upon the house of St. Peter in Capernaum, erected in 1990.
+#end_english#
+#italiano#
+Cafarnao -  la città di Gesù
+Il memoriale sopra la casa di San Pietro a Cafarnao ,costruito nel 1990.
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+La casa de San Pedro ya era lugar de veneración a finales del siglo I. 
+Sobre ella se construyó una iglesia en los siglo IV-V, que visitó la peregrina Egeria, y por encima de los restos de ambas, casa e iglesia, se levantó en 1990 la nueva iglesia, el "Memorial de S. Pedro".
+#end_espanol#
+#francais#
+Capharnaüm - L'église mémorial
+Les ruines de l'église byzantine qui fut construite au-dessus de la maison de St. Pierre.
+Elle se trouvent en-dessous de la nouvelle église bâtie en 1990.
+(Mathieu 4,13-17;Marc 1,14-15; Luc 4,14-15).
+#end_francais#
+#deutch#
+Kafarnaum - Außenansicht der Petruskirche
+Im Hintergrund sind das tiefblaue Wasser des Sees Gennesaret, am Horizont die ansteigenden Hügel der Golanhöhen und links hinten die griechisch-orthodoxe Kirche von Kafarnaum mit ihren roten Kuppeln zu sehen. Das Zentrum des Bildes beherrscht aber die Kirche, die erst 1990 durch den italienischen Architekten Ildo Avetta über den Ruinen des sogenannten "Haus des Petrus" errichtet wurde. Sie nimmt die achteckige Form der Kirche aus dem 5. Jahrhundert auf, deren Fundamente sie unter ihrer Stelzenkonstruktion birgt. Teile des achteckigen Mosaiks des antiken Baus sind vor der Petruskirche ausgestellt.
+#end_deutch#
+
+

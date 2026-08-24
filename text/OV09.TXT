@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Fourth Station of the Cross
+Jesus meets his mother.
+The Chapel of Our Lady of the Spasm marks the spot where the Virgin Mary encountered her son.
+#end_english#
+#italiano#
+Via Dolorosa -- Quarta Stazione
+"Gesù incontra sua Madre".
+La Cappella di nostra Signora dello Spasmo ricorda il luogo dove la Vergine Maria ha incontrato suo figlio.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Cuarta Estación
+"Jesús encuentra a su Madre".
+La Capilla que señala la Cuarta Estación es conocida también como de Nuestra Señora del Espasmo. Está, como la Tercera, en el Vicariato Armenio - Católico.
+#end_espanol#
+#francais#
+Via Dolorosa – La quatrième station du Chemin de la Croix
+Jésus rencontre sa mère.
+La chapelle Notre Dame du Spasme marque l'endroit où la Vierge Marie a rencontré son fils.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die vierte Station des Kreuzweges
+"Jesus begegnet seiner Mutter."
+Die "Kapelle der Schmerzen Marias" erinnert daran, daß die Jungfrau Maria ihrem Sohn begegnete.
+#end_deutch#
+
+

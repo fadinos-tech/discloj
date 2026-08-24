@@ -1,0 +1,29 @@
+#BIBLE#
+21.1-11
+NONE
+19.28-40
+12.12-19
+#end_BIBLE#
+#english#
+Bethphage
+The entrance to the chapel.
+#end_english#
+#italiano#
+Betfage
+L'entrata alla Cappella
+#end_italiano#
+#espanol#
+Betfagé
+Entrada a la iglesia
+#end_espanol#
+#francais#
+Bethphagé
+L'entrée de la chapelle.
+#end_francais#
+#deutch#
+Der Ölberg
+Eingang zur römisch-katholischen Kirche in Betfage
+Hinter dem ersten Eingangstor, dessen Schattenriß im Bildvordergund zu erkennen ist, eröffnet ein Torturm den Durchgang zum eigentlichen Kirchenbau. Der 1883 zeitgleich mit der Kirche errichtete Turm erinnert mit seiner Form an die Bedeutung dieses Ortes in der Kreuzfahrerzeit: Schon die Kreuzfahrer besaßen an dieser Stelle nahe des strategisch wichtigen Ölbergkamms zwei Wachtürme. Dem Einzug Jesu nach Jerusalem widmeten sie einen mit prächtigen Fresken gestalteten Felsblock, der ihnen als der Stein galt, von dem aus Jesus den Esel bestiegen habe.
+#end_deutch#
+
+

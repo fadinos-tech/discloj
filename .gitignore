@@ -1,0 +1,26 @@
+# secrets & deps
+secrets/
+node_modules/
+
+# generated output (rebuild with npm run parse/media/build/native)
+dist/media/
+dist/site/
+dist/native-www/
+dist/*.apk
+dist/video_convert.log
+*.log
+
+# original disc masters (too heavy for git — kept locally in photos/, Video/)
+photos/
+Video/
+TESTDE/
+
+# native build artifacts
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+ios/App/Pods/
+ios/App/App/public/
+ios/App/output/
+android/app/src/main/assets/public/

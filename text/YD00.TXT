@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Dormition Abbey - Mount Zion
+The basilica was built 1858 to commemorate the place of the Virgin Mary's eternal sleep.
+#end_english#
+#italiano#
+Monte Sion -- Abbazia della Dormizione
+La Basilica è stata costruita nel 1858, per commemorare la Dormizione della Vergine Maria.
+#end_italiano#
+#espanol#
+Monte Sion -- Abadía de la Dormición
+La Basílica, construida en 1858, conmemora la Dormición de la Virgen María.
+#end_espanol#
+#francais#
+Abbaye de la Dormition - Mont Sion
+La basilique a été construite en 1858, pour commémorer le lieu de la mort de la Vierge Marie.
+#end_francais#
+#deutch#
+Der Zionsberg - Die Dormitio-Abtei
+Die Basilika der deutschen Benediktiner wurde von 1898 bis 1910 zum Gedenken an den Tod Marias errichtet.
+#end_deutch#
+
+

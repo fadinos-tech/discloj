@@ -1,0 +1,32 @@
+#BIBLE#
+28.1-7
+16.1-8
+24.1-12
+20.1-10
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+The entrance to the Holy Tomb, Chapel of the Angel.
+Inside the statue, is a piece of the round rock that was used to close the Holy Tomb.
+#end_english#
+#italiano#
+Gerusalemme -- Basilica del Santo Sepolcro
+L' ingresso alla Santa Tomba, Capella dell'Angelo. 
+La statua in mezzo, è un pezzo della pietra che chiudeva la Santa Tomba.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+Capilla del Angel.
+El Edículo de la Resurrección está formado por la Tumba Vacía del Señor y una antecámara llamada Capilla del Angel, en el centro de la cual hay un relicario de mármol conteniendo un fragmento de la piedra que sellaba la tumba, sobre la que se sentó el ángel la mañana de Pascua anunciando a las mujeres que Jesús había resucitado.
+#end_espanol#
+#francais#
+Jérusalem - Basilique du Saint Sépulcre.
+A l'entrée du tombeau: la chapelle de l'Ange. 
+Au milieu, à l'intérieur de la statue, il y a un morceau de la pierre ronde qui fut utilisée pour fermer le Saint Tombeau.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Der Vorraum des Heiligen Grabes wird Engelskapelle genannt. In einem Marmorschrein in seiner Mitte befindet sich ein Stück eines Rollsteins, der zum Verschließen von Gräbern benutzt wurde.
+#end_deutch#
+
+

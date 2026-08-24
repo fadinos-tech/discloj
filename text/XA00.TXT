@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+24.50-53
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - The Ascension
+This is the traditional site of the Ascension of Christ. In 378 A.D., a round building was erected to commemorate the Ascension. It was rebuilt in an octagonal shape by the Crusaders, and what is left of it today is the Moslem building called "Ambomon" (meaning 'On the top').
+#end_english#
+#italiano#
+Monte Degli Ulivi -- L'Ascensione
+E il luogo tradizionale dell'Ascensione del Signore, un edificio rotondo costruito nel 378 d.C. per commemorare l'Ascensione, è stato ricostruito in una forma ottagonale dai Crociati, quello che è rimasto ora, è l'edificio musulmano chiamato "Ambomon" (che significa 'sulla vettà).
+#end_italiano#
+#espanol#
+Monte de los Olivos. Edículo de la Ascensión
+Antes del año 378 se construyó, en el lugar tradicional de la Ascensión del Señor, un edificio de planta circular a cielo abierto, llamado "Imbomon", (la "Altura") destruido por los persas el 614, reedificado por el Patriarca Modesto, y más tarde por los Cruzados. Lo musulmanes lo destruyeron todo en el s. XIII, a excepción del Edículo central, en octógono, que cerraron con una cúpula.
+#end_espanol#
+#francais#
+Mont des Oliviers - L'Ascension 
+C'est ici le site traditionnel de L'Ascension de Notre Seigneur. En 378 ap J.C, un bâtiment rond avait été construit pour commémorer L'Ascension. Il a été reconstruit en forme octogonale par les croisés, et ce qui reste actuellement est un monument musulman appelé "Ambomon" (ce qui signifie "Au sommet").
+#end_francais#
+#deutch#
+Der Ölberg - Die Himmelfahrtsmoschee
+Der Ölberg ist die traditionelle Stelle der Himmelfahrt des Herrn. Vor 374 n. Chr. entstand hier ein Rundbau zum Gedenken an die Himmelfahrt, der den Namen "Imbomon" (= "auf der Spitze") trug. Nach mehreren Zerstörungen wurde die Anlage von den Kreuzfahrern in achteckiger Form wiederaufgebaut und so später als Moschee übernommen.
+#end_deutch#
+
+

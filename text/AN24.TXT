@@ -1,0 +1,39 @@
+#BIBLE#
+1.18-25;2.19-23
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church 
+The Church was built over the house of Joseph.
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+La chiesa è stata costruita sulla casa di Giuseppe. [dentro (1)]
+( Un angelo del Signore appare a Giuseppe nel sogno
+Matteo 1,18-25 -- La nascita di Gesù
+Matteo 2,19-23 -- Il ritorno a Nazaret )
+#end_italiano#
+#espanol#
+Nazaret - Iglesia de San José. 
+La actual iglesia está construida sobre otra de la época cruzada, 
+en el lugar mismo donde, desde época inmemorial, se venera el recuerdo
+de la Sagrada familia.
+ (Un ángel del Señor se aparece a José en sueños  
+    Mateo 1,18-25--El Nacimiento de Jesús.
+    Mateo 2,19-23--El Regreso a Nazaret. )
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Saint Joseph.
+Construite au dessus de la maison de Joseph [l'intérieur (1)]
+(Un Ange du Seigneur se fait apparaît a Joseph en rêve
+Mathieu 1,18-25 - La naissance de Jésus-Christ 
+Mathieu 2,19-23 - Le retour a Nazareth)
+#end_francais#
+#deutch#
+Nazareth - Innenraum der Josefskirche
+Die Josefskirche auf dem Gelände der Verkündigungsbasilika birgt in ihrer Krypta Reste einer Höhlenwohnung aus der Zeit Jesu mit Silos, Zisternen und anderen Spuren des Alltagslebens, die traditionell als das "Haus Josefs" bezeichnet wird. Sie ist mindestens der vierte Kirchenbau an dieser Stelle: Schon im 7. Jahrhundert berichtet Bischof Arkulf von zwei großen Kirchen nebeneinander; die Kreuzfahrer errichteten hier eine dreischiffige Basilika; ein kleiner Bau von 1858 bestand nicht lange, und die heutige Kirche wurde 1914 durch Fr. Wendelin Hinterkeuser OFM aus Deutschland auf den Grundmauern der Kreuzfahreranlage fertiggestellt.
+#end_deutch#
+
+

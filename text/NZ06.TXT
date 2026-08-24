@@ -1,0 +1,36 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane
+From the Aramaic "gat semen," meaning: oil press.
+Gethsemane was the favourite place of retreat of Christ and his disciples. It became the site agony (the betrayal by Judas and Jesus' arrest). The Basilica of the Agony is also being called the Church of all Nations, because many countries contributed towards its reconstruction. Architect Antonio Barluzzi rebuilt the church in 1924.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani 
+La parola "gatsemane" è di origine aramaica, e significa "pressa d'olio".
+Il Getsemani era un luogo preferito da Gesù e dai suoi discepoli dove ritirarsi (L'arresto di Gesù). La chiesa dell'Agonia, chiamata anche la chiesa di tutte le nazioni grazie al contributo di tanti paesi per costruirla. La chiesa è stata costruita nel 1924, dall'architetto Antonio Barluzzi.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní (2)
+Su nombre procede del arameo "gat semane", que significa "prensa de aceite".
+Getsemaní era un lugar de retiro frecuentado por Jesús y sus discípulos, en la falda del monte de los Olivos, junto al torrente Cedrón.
+En el Huerto de los Olivos se desarrolló la noche de la agonía de Jesús, la traición de Judas y el prendimiento del Señor la noche del Jueves Santo.
+La Basílica de la Agonía se llama también "de todas las naciones", por la contribución de muchos países en su construcción, obra de A. Barluzzi (1924).
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani 
+Vient de l'araméen "Get semen " signifiant pressoir a olives.
+Gethsemani la retraite la plus fréquentée par Jésus et ses disciples, est devenue le lieu de l'agonie (la trahison de Judas et l'arrestation de Jésus). L'église de l'agonie est aussi appelée "Eglise de toutes les nations", car beaucoup de pays ont contribués à sa construction. L'église a été reconstruite en 1924, par l'architecte Antonio Barrluzzi.
+#end_francais#
+#deutch#
+Der Ölberg
+Frontansicht der Kirche der Nationen in Getsemani
+Die Lokalisierung von Todesangst, Verrat und Verhaftung Jesu an dieser Stelle geht auf das 4. Jahrhundert zurück. Aus derselben Zeit stammt auch die erste Kirche, eine dreischiffige Basilika, in der bereits ein Stück Naturstein als Felsen der Todesangst Jesu verehrt wurde. Sie war inspirierend für den Bau der heutigen Kirche, in die der Felsen und einige byzantinische Bauteile integriert sind. Zwei aufeinanderfolgende kreuzfahrerzeitliche Kirchen hingegen hatten eine andere Ausrichtung und sind in ihren Resten seitlich der modernen Kirche zu sehen.
+Diese wurde von 1919 bis 1924 unter dem italienischen Architekten Antonio Barluzzi errichtet, der sich stilistisch an der klassisch römischen Architektur der Zeit Jesu orientierte und versuchte, die Todesangst Jesu im Dämmerlicht des Innenraumes umzusetzen. Das großflächige Giebelmosaik von Giulio Bargellini stellt Christus in der Mitte in rotem Gewand als Mittler zwischen Gott und der Menschheit dar. Sowohl die Gebete der Leidenden zur rechten wie der ohnmächtigen Herrscher zur linken nimmt er auf - entsprechend der lateinischen Textzeile in Anlehnung an den Hebräerbrief: "Er brachte Gebete und Bitten [...] mit lautem Schreien und unter Tränen dar und ist erhört worden wegen seiner Gottesfurcht". Die Hirsche neben dem Kreuz sind eine Interpretation des 42. Psalms: "Wie der Hirsch lechzt nach frischem Wasser, so lechzt meine Seele, Gott, nach dir."
+#end_deutch#
+
+

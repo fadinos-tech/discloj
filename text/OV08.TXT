@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Third Station of the Cross
+For the first time, Jesus falls down under the weight of the Cross.
+On the El-Wad street, above the entrance to the chapel, the sculpture of Thaddeus Zielinsky depicts Jesus, falling down under the weight of the Cross.
+#end_english#
+#italiano#
+Via Dolorosa -- Terza Stazione:
+"Gesù cade la prima volta"
+La scultura di Thaddeus Zkielinsky poste sull'entrata della Cappella nella strada El-wadi, Rappresenta Gesù caduto sotto il peso della Croce.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Tercera Estación:
+"Jesús cae por primera vez".
+Un relieve del escultor T. Zielinsky a la entrada de la Capilla, en la calle El-Wadi, señala la Tercera Estación.
+#end_espanol#
+#francais#
+Via Dolorosa – La troisième station du Chemin de la Croix
+Jésus tombe sous la Croix pour la première fois. La sculpture de Thaddeus Zielinsky au dessus de l'entrée de la chapelle, dans la rue El-wad représente Jésus tombant sous le poids de la Croix. 
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die dritte Station des Kreuzweges
+"Jesus fällt zum ersten Mal unter dem Kreuz."
+Die Skulptur von Thaddäus Zielinsky über dem Eingang zur Kapelle in der El-Wad-Straße zeigt Jesus, wie er unter dem Kreuz zusammenbricht.
+#end_deutch#
+
+

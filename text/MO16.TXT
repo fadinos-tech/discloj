@@ -1,0 +1,29 @@
+#BIBLE#
+23.37-39
+NONE
+19.41-44
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - Sanctuary of "Dominus Flevit" 
+A view of Jerusalem from the window behind the altar.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Santuario del "Dominus Flevit"
+La finestra  di fronte all'altare si apre sul panorama di Gerusalemme.
+#end_italiano#
+#espanol#
+Monte de los Olivos - Santuario del "Dominus Flevit"
+A través de la artística ventana que hay tras el altar se ve la ciudad de Jerusalén.
+#end_espanol#
+#francais#
+Le Mont des Oliviers -- Sanctuaire du " Dominus Flevit "
+La fenêtre devant l'autel montre la ville de Jérusalem.
+#end_francais#
+#deutch#
+Der Ölberg
+Blick aus dem Fenster der Dominus-Flevit-Kapelle
+Die 1955 in Form einer Träne gestaltete Kapelle eröffnet durch ihr einziges Fenster den Blick nach Westen auf die Stadt Jerusalem, den biblischen Anlaß der Tränen Jesu: Im Zentrum markiert der muslimische Felsendom den Ort des Tempels zur Zeit Jesu. Der damalige Tempelplatz hatte eine noch größere Längsausdehnung als der im Fenster sichtbare Ausschnitt der Stadtmauer. Hinter dem Felsendom sind links der viereckige Turm der deutschen lutherischen Erlöserkirche und rechts die Kuppel der Anastasis, der sogenannten Grabeskirche, zu sehen. Die schmiedeeiserne Fenstergestaltung weist darüber hinaus mit stilisierten Ölzweigen im Halbbogen, einer angedeuten Dornenkrone in der Waagerechten und dem Kelch im Zentrum auf das Leiden Jesu hin.
+#end_deutch#
+
+

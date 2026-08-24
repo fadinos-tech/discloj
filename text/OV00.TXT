@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jerusalem - Via Dolorosa
+Via Dolorosa, the "Way of Sorrow" or the "Way of the Cross"
+Winding along the narrow streets of Jerusalem's Old City, it leads from the El-Omariya School (next to the Convent of the Lashing) to the Church of the Holy Sepulchre. This is the route Jesus is said to have followed while carrying his cross from Pilate's Judgement Hall to Calvary, the site of the Crucifixion.
+Along this route are the "Fourteen Stations of the Cross." Each station marks an event of sacred memory with a chapel for reflection.
+#end_english#
+#italiano#
+Gerusalemme -- Via Dolorosa
+La Via Dolorosa, "Cammino della Croce"
+Lungo le strette strade della città vecchia di Gerusalemme,si va dal convento dell' "Ecce Home" alla Basilica del Santo Sepolcro. Questo è il tradizionale percorso che ha fatto Gesù portando la sua croce dalla sala del guidizio di Pilato fino al Calvario, il luogo della crocifissione.Lungo questo percorso ci sono le "Quattordici Stazioni della Croce" , ogni stazione marca un evento della Passione,con delle cappelle per la riflessione.
+#end_italiano#
+#espanol#
+Jerusalén -- Vía Dolorosa
+La Vía Dolorosa, Vía Crucis o Camino de la Cruz, es el itinerario aproximado que siguió Jesús desde el Pretorio, donde fue juzgado y condenado por Pilato, hasta el Gólgota o Calvario, donde tuvo lugar la crucifixión, con su sepultura y resurrección a pocos metros. Las Catorce Estaciones, comenzando en la Escuela Omariya y terminando en la Basílica del Santo Sepulcro están señaladas a lo largo de la Vía Dolorosa, y la mayoría cuentan con una capilla apropiada para la oración.
+#end_espanol#
+#francais#
+Via Dolorosa
+Via Dolorosa " Chemin des Douleurs " ou " Chemin de Croix ".
+Etroit et sinueux tout au long des rues de la vielle ville de Jérusalem, il s'étend depuis le couvent de " L'Ecce Homo " jusqu'à la basilique du saint Sépulcre. C'est la route traditionnelle que Jésus a suivi en portant sa croix, depuis le palais de Pilate jusqu'au Calvaire lieu de la crucifixion. Tout au long de ce chemin se trouvent les "quatorze stations de la croix " chaque station faisant mémoire d'un événement sacré, avec des chapelles pour la méditation.
+#end_francais#
+#deutch#
+Die Via Dolorosa
+Die Via Dolorosa, der "Kreuzweg", schlängelt sich durch die engen Straßen der Jerusalemer Altstadt von der El-Omarije-Schule nahe des "Ecce Homo"-Klosters zur Grabeskirche. Der Tradition nach ist Jesus diesen Weg sein Kreuz tragend vom Gerichtsgebäude des Pilatus bis nach Golgotha, dem Kreuzigungsort, gegangen. Entlang des Weges markieren vierzehn Kreuzwegstationen die einzelnen Glaubensereignisse; verschiedene Kapellen laden zur Besinnung ein.
+#end_deutch#
+
+

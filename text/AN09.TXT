@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+The west entrance of the Basilica of the Annunciation.
+#end_english#
+#italiano#
+Nazaret 
+La Basilica dell'Annunciazione
+[ L'entrata est, (9) ]
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación
+Entrada oriental (9) 
+#end_espanol#
+#francais#
+Nazareth
+L'Eglise de l'Annonciation.
+[L'entrée côté ouest(9)].
+#end_francais#
+#deutch#
+Nazareth - Südportal der Verkündigungsbasilika
+Die Südfassade mit ihrem meist geschlossenen Eingang in die Unterkirche thematisiert die Person Marias: Hier ist das Portal von einer Marienstatue gekrönt; die Bronzetüren von US-amerikanischen und italienischen Künstlern stellen Szenen aus dem Leben Marias und Motive aus dem alttestamentlichen Hohenlied dar; in den roten Sandsteinbändern ist der Hymnus des "Salve Regina" zu lesen.
+#end_deutch#
+
+

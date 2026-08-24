@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of St. Cathrine
+Built next to the Church of Nativity, St. Catherine's is in the custody of the Franciscans.
+In the church's inner court there is a statue of St. Jerome.
+#end_english#
+#italiano#
+Betlemme - La chiesa di Santa Caterina 
+Situata vicino alla chiesa della Natività, è sotto la custodia dei Francescani.
+Nel cortile interno c'è una statua di San Girolamo.
+#end_italiano#
+#espanol#
+Belén - Iglesia de Sta. catalina
+Unida a la Basílica de la Natividad está la iglesia de Sta. Catalina, parroquia latina de Belén, de los PP. Franciscanos. Una estatua de San Jerónimo preside el hermoso claustro del siglo XII que lleva su nombre.
+#end_espanol#
+#francais#
+Bethléem – L'église Ste. Catherine.
+Située juste à côté de l'église de la Nativité, elle est sous la garde des Franciscains.
+Dans sa cour intérieure, il y a une statue de St. Jérôme.
+#end_francais#
+#deutch#
+Betlehem - Kreuzgang der Katharinenkirche
+Unmittelbar nördlich an die Geburtsbasilika angebaut, steht die römisch-katholische Kirche der Heiligen Katharina von Alexandrien, die von der Franziskaner-Kustodie des Heiligen Landes betreut wird. Von ihrem Vorgängerbau aus der Kreuzfahrerzeit ist der schlichte und einladende Kreuzgang in großen Teilen noch erhalten. In seiner Mitte erhebt sich eine Statue des Kirchenvaters Hieronymus, der von 386 bis 420 in Betlehem gelebt hat.
+#end_deutch#
+
+

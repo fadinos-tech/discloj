@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth
+A town in lower Galilee not far from the sea of Galilee. 
+This is where the Annunciation took place and where Jesus spent his childhood.
+#end_english#
+#italiano#
+Nazaret
+Una città della Galilea vicino al lago di Tiberiade.
+Che ha testimoniato l'annuncio della nascita di Gesù e la sua vita e dove l'Angelo Gabriele ha annuciato al Vergine che, sarebbe diventata la madre del Signore per opera dello Spirito Santo (diese ?bersetzung hat gefehlt).
+#end_italiano#
+#espanol#
+Nazaret 
+Nazaret se encuentra sobre una pequeña cadena montañosa, a medio camino entre el Mar Mediterráneo y el Lago de Galilea.
+En este pequeño pueblo, hace dos mil años, el Arcángel Gabriel anunció a María que sería la Madre del Salvador por obra del Espíritu Santo.
+Aquí pasó Jesús su infancia y los 30 años de su vida oculta.
+#end_espanol#
+#francais#
+Nazareth
+Une ville de basse Galilée, non loin du Lac de Tibériade.
+Cette ville fut témoin de l'annonce de l'Ange à Marie et de l'enfance de Jésus.
+#end_francais#
+#deutch#
+Nazareth - Stadtzentrum von Norden
+Nazareth liegt in den etwa 400 Meter hohen Hügeln Untergaliläas, die die fruchtbare Jesreel-Ebene, die "Kornkammer" Israels im Norden begrenzen. Es bildet heute das bedeutendste arabische Zentrum im Norden Israels zwischen Haifa an der Küste und dem knapp 30 Kilometer entfernten See Gennesaret im Osten. Die Stadt wird von 60.000 Menschen bewohnt, zu 60 % Muslime, zu 40 % Christen, während die jüdische Bevölkerung im nahegelegenen Nazareth Illit lebt.
+Zur Zeit Jesu hingegen war Nazareth ein gänzlich unbedeutendes Dorf, abseits der wichtigen Handelsstraßen und im Schatten des hellenistischen Kulturzentrums Sepphoris 5 Kilometer nördlich. Die mit Jesus verbundene Bedeutung Nazareths ist aber so groß, dass Christinnen und Christen bis heute auf Hebräisch und Arabisch "Nazarener", also "Nozrim" oder "Nasara", genannt werden. Biblisch gilt Nazareth als die Heimatstadt Jesu. Hier erlebte Maria die Verkündigung seiner Geburt; hier erfuhr der erwachsene Jesus aber auch die Ablehnung seiner Mitmenschen.
+Die christliche Tradition hat in Nazareth zahllose Kirchen und Klöster der verschiedenen Konfessionen hinterlassen. Am bekanntesten ist die moderne, römisch-katholische Verkündigungsbasilika im Zentrum des Bildes und der heutigen Stadt und die griechisch-orthodoxe Gabrielskirche, die von ihr durch mehrere hundert Meter verwinkelter Basarstraßen getrennt ist.
+#end_deutch#

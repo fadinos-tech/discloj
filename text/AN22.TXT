@@ -1,0 +1,27 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The Greek Orthodox Church of the Annunciation
+Wall and ceiling paintings that show the archangel Gabriel greeting the Virgin Mary. 
+#end_english#
+#italiano#
+Nazaret - La Chiesa Greca Ortodossa  dell'Annunciazione 
+Pitture a muro mostrano l'angelo Gabriele che saluta la Vergine Maria .       
+#end_italiano#
+#espanol#Nazaret - Iglesia Greco-Ortodoxa de la Anunciación o de S. Gabriel.
+Pintura mural representando el saludo del Arcángel S. Gabriel a María, según el Protoevangelio apócrifo de Santiago.
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Grecque-Orthodoxe de l'Annonciation.
+Peintures sur les murs et le plafond montrent l'Archange Gabriel en train de saluer la Vierge Marie.
+#end_francais#
+#deutch#
+Nazareth
+Gewölbemalerei im Innenraum der griechisch-orthodoxen Verkündigungs - oder Gabrielskirche
+Dieses Wandgemälde der rumänischen Künstler Michael und Gabriel Marosan von 1977 und 1978 nimmt im Gewölbe des Kirchenschiffs das Thema der Verkündigung auf. Wieder ist der Engel, wie in der ikonographischen Tradition üblich, als eilende Botengestalt mit erhobener Hand, Maria mit blauem und rotem Gewand dargestellt.
+Auffällig ist, dass diese Szene genau dem orthodoxen Verständnis entspricht: Maria hat einen Krug in der Hand und steht an einem Fluss oder Bach; die Stadt ist im Hintergrund nur schwach zu erkennen. Über dem Bild wacht im Medaillon eine Gottvater-Gestalt; daneben sind in Rottönen vielflügelige Wesen, sogenannte Serafim, abgebildet. Sechs Schriftbänder präsentieren in sechs Sprachen die ersten Sätze des "Ave Maria": "Gegrüßet seist Du, Maria! Du bist voll der Gnade. Der Herr ist mit dir. Du bist gesegnet unter den Frauen." Die erste arabische Zeile mag für westeuropäische Menschen ungewohnt sein. Um so mehr macht sie deutlich, dass Christentum im Land der Bibel nicht in erster Linie durch die Reisenden aus aller Welt geprägt wird, sondern vor allem von den einheimischen, arabischsprechenden Menschen gelebt wird.
+#end_deutch#

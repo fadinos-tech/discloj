@@ -1,0 +1,30 @@
+#BIBLE#
+4.13-17
+1.14-15
+4.14-15
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+The ruins of the Byzantine church that was built over the house of St. Peter. Today, these ruins - as well as the house of St. Peter - are inside a new church, built in 1990.
+#end_english#
+#italiano#
+Cafarnao - La città di Gesù
+Le rovine della chiesa Bizantina che era costruita sopra la casa di San pietro, si trova sotto la nuova chiesa costruita nel 1990.
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+La iglesia del "Memorial de S. Pedro" se construyó en 1990, elevada sobre la Casa de S. Pedro y las ruinas de la iglesia bizantina, para dejar intactos los restos, que pueden verse también desde el interior de la nueva iglesia.
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+Les ruines de l'église byzantine qui fut construite au-dessus de la maison de St. Pierre. 
+Elle se trouvent en-dessous de la nouvelle église bâtie en 1990.
+#end_francais#
+#deutch#
+Kafarnaum - Ruinen unter der Petruskirche
+Die moderne Kirche überspannt in ihrer Stelzenbauweise Vorgängerbauten der ersten fünf Jahrhunderte. Zur Zeit Jesu muß man sich hier ein Wohnviertel desselben Musters wie viele in Kafarnaum vorstellen: ein Innenhof, um den die Häuser mehrerer Familien gruppiert waren.
+Möglicherweise war schon am Ende des ersten Jahrhunderts ein Raum ungewöhnlich sorgfältig verputzt, der für gemeinschaftliche Zusammenkünfte genutzt worden sein könnte. Im 4. Jahrhundert wurde die Wohninsel von einer quadratischen Umfriedungsmauer mit zwei Eingängen umgeben; ein zentraler Raum mit Vorraum war besonders aufwendig ausgestattet, und dort gefundene Inschriften lassen darauf schließen, dass frühe Christen und Christinnen hier ein ehemaliges Wohnhaus zu einer Hauskirche umgestaltet haben. Die Pilgerin Egeria, die Kafarnaum gegen Ende des 4. Jahrhunders besucht hat, überliefert: "In Kafarnaum aber ist aus dem Haus des Fürsten der Apostel [= Petrus] eine Kirche gemacht worden." In der zweiten Hälfte des 5. Jahrhunderts wurden sämtliche vorherigen Bauten zugeschüttet und über ihnen eine Kirche in Form mehrerer konzentrischer Achtecke mit einer östlichen Apsis und kunstvollen Mosaikböden errichtet. Die Fundamente des zentralen Oktogons sind im Bild zu sehen.
+#end_deutch#
+
+

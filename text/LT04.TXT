@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Tabgha 
+The Church of the First Feeding of the Multitude (Interior)
+Part of the Byzantine mosaic floor. A mosaic of the bird symbolizing immortality.
+#end_english#
+#italiano#
+Tabgha
+La chiesa della prima moltipicazione del pane  [ Interno, Mosaico ]
+Una parte del mosaico Bizantino. Il mosaico dell'uccello simbolizza l'immortalità.
+#end_italiano#
+#espanol#
+Tabgha
+Iglesia de la Multiplicación de los Panes y los Peces. 
+Detalle de mosaico bizantino. 
+#end_espanol#
+#francais#
+Tabgha
+L'église de la Multiplication des Pains (intérieur, mosaïque)
+Partie de la mosaïque byzantine au sol, mosaïque de l'oiseau symbolisant l'immortalité.
+#end_francais#
+#deutch#
+Tabgha
+Bodenmosaiken in der Kirche der Brotvermehrung
+Der Fußboden der byzantinischen Kirche des 5. Jahrhunderts muß nahezu vollständig mit Mosaiken ausgestaltet gewesen sein. Etwa zwei Drittel davon sind heute noch erhalten. Während Haupt- und Seitenschiffe mit teppichartigen geometrischen Mustern ausgelegt waren, wiesen die nördlichen und südlichen Querschiffe figürliche Darstellungen auf - möglicherweise eine Novität im damaligen Palästina, die das Eindringen hellenistisch-römischer Elemente in die byzantinische Kunst markiert. Beide Flächen zeigen in hervorragender Qualität eine üppige Nillandschaft mit 22 verschiedenen Tieren und einem Nilometer, einem turmartigen Nilstandsanzeiger. Der im Bild sichtbare Ausschnitt stellt einen Pfau vor einer blühenden Pflanze dar.
+#end_deutch#
+
+

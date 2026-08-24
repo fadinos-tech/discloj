@@ -1,0 +1,32 @@
+#BIBLE#
+1.18-25
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church 
+A painted window commemorating the engagement of Mary and Joseph. 
+["do not be afraid to take Mary home as your wife," Matthew 1,18-25]
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+Sotto la chiesa, una finestra dipinta commemora il fidanzamento di Maria e Guiseppe. 
+( "... non temere di prendere con te Maria, tua sposa,.." Matteo 1,18-25 ). 
+#end_italiano#
+#espanol#
+Nazaret - Iglesia de San José
+Vidriera, bajo la iglesia, representando los esponsales de José y María
+(" no tengas miedo de tomar a María como esposa". Mateo 1,18-25).
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Saint Joseph.
+En bas de l'église, une fenêtre peinte commémorant les fiançailles de Marie et de Joseph
+"... n'ayez pas peur de prendre Marie chez vous en qualité d'épouse, ..." (Mathieu 1,18-25).
+#end_francais#
+#deutch#
+Nazareth - Fenster in der Krypta der Josefskirche
+Die Krypta befindet sich kaum unter Bodenniveau, sodass drei kleine, bunt gestaltete Fenster Licht in die drei Apsiden dringen lassen. Dieses Fenster setzt die Verlobung von Maria und Josef in Szene.
+#end_deutch#
+
+

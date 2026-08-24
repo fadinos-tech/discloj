@@ -1,0 +1,30 @@
+#BIBLE#
+6.9-13
+NONE
+11.2-4
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - The Convent of the Pater Noster
+This was the first Church to be built on the mountain, between the year 326 A.D. and 333 A.D., then it was destroyed, rebuilt by the Crusaders, and destroyed again. Finally the French DE LA TOUR D'AUVERGNE bought the land in the year 1868 and reconstructed the church. Beneath the church is the Grotto of the Lord's Prayer, where Jesus tought the Our Father to his disciples. In the cloisters and inside the church, the Lord's Prayer is written on the walls in over 80 languages.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Chiesa del Pater Noster
+Questa è la prima chiesa costruita sulla montagna ,tra il 326 e il 333 DC, distrutta e ricostruita dai Crociati, poi di nuovo distrutta. I francesi de LA TOUR D'AVVERGNE hanno acquistato il terreno nell'anno 1868 e ricostruito la chiesa. Sotto vi è la Grotta dove Gesù ha insegnato a pregare, per cui è chiamata: "La Grotta della preghiera del Signore". Nei corridoi e dentro la chiesa, la Preghiera del Signore è scritta sui muri in più di 80 lingue.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Iglesia del Pater Noster
+La Basílica "Eleona" fue la primera construida en el Monte de los Olivos por Sta. Elena en el año 326, incluyendo en la cripta bajo el presbiterio la gruta del Padre Nuestro. Según una antiquísima tradición, anterior a Sta. Elena, el Señor se reunía aquí con frecuencia con los Apóstoles, y en este lugar les enseñó el Padre Nuestro. La "Eleona" fue destruida por los persas en el 614, y reconstruida por los cruzados en el s. XII. En 1868 la Princesa de la Tour d'Auvergne fundó un Carmelo, y en 1902 se inició la construcción de la iglesia del sagrado Corazón, que quedó sin terminar y destruyó el pórtico occidental del claustro, cuyas paredes están recubiertas con el texto del Padre Nuestro en más de 80 idiomas y 20 alfabetos.
+#end_espanol#
+#francais#
+Mont des Oliviers -- Eglise du "Notre Père"
+C'est la première église a avoir été construite sur le mont des Oliviers entre 326 et 333 ap J.c puis elle a été détruite, reconstruite par les croisés et redétruite. Enfin la princesse française de la Tour d'Auvergne a acheté le terrain en 1868, et fait reconstruire l'église. Sous l'église se trouve la grotte, appelée la grotte des enseignements, où Jésus a enseigné le "Notre Père". Dans le cloître et à l'intérieur de l'église, la prière du "Notre Père" est inscrite sur les murs en plus de 80 langues.
+#end_francais#
+#deutch#
+Der Ölberg
+Kreuzgang der Eleona-Kirche
+Oberhalb der Dominus-Flevit-Kapelle und seitlich der Himmelfahrtsmoschee befindet sich auf dem Kamm des Ölbergs eine seit dem frühen 4. Jahrhundert vielfach verehrte Grotte. Bereits Kaiser Konstantin ließ über ihr, wie über der Geburtsgrotte in Betlehem und über der Jerusalemer Grabhöhle, eine prachtvolle Basilika errichten, die zunächst "Kirche der Apostel" oder "Eleona" genannt und mit den Lehrreden des Auferstandenen und seiner Himmelfahrt in Verbindung gebracht wurde. Erst nach deren Zerstörung 614 wandelte sich die Tradition: Die Kreuzfahrer verstanden unter der Lehre Jesu vor allem die Lehre des Vaterunsers und errichteten hier im 12. Jahrhundert entsprechend eine Paternoster-Kirche. 1857 erwarb die französische Adelige Aurelie de la Tour d'Auvergne das inzwischen zerstörte Gelände und errichtete in der Folgezeit den im Bild sichtbaren historisierenden Kreuzgang und ein Karmeliterinnenkloster.
+Spätere Versuche, die konstantinische Basilika zu rekonstruieren, blieben unvollendet, sodass die Grotte der Lehre heute nicht überbaut ist. Im Kreuzgang und in der neuzeitlichen Klosterkirche ist das Vaterunser in über 100 Sprachen auf Kacheln aus einheimischer Keramikproduktion zu lesen.
+#end_deutch#
+
+

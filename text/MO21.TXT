@@ -1,0 +1,29 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - The Russian Church of St. Mary Magdalene
+In 1888, Alexander III built this church just above the Basilica of the Agony.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- La Chiesa Russa di Maria Maddalena
+E stata costruita nel 1888 da Alessandro III. Proprio sopra la chiesa dell'Agonia.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Iglesia Rusa de Sta. María Magdalena
+Fue construida en 1888 por iniciativa del zar Alejandro III, en clásico estilo ruso, en un lugar próximo al Huerto de los Olivos y la Basílica de la Agonía.
+#end_espanol#
+#francais#
+Mont des Oliviers
+L'église russe de Ste Marie Madeleine.
+Elle a été construite en 1888 par Alexandre III, juste au dessus de l'église de l'agonie.
+#end_francais#
+#deutch#
+Der Ölberg - Außenansicht der Maria-Magdalena-Kirche
+Auf halber Höhe der stadtzugewandten Seite des Ölbergs befindet sich eines seiner Wahrzeichen. Die russisch-orthodoxe Kirche mit den sieben vergoldeten Zwiebeltürmen wurde 1888 durch Zar Alexander III. an vorher unbebauter Stelle errichtet. Zum Andenken an seine Mutter Maria Alexandrowna wurde die in russischem Barock ausgestaltete Kirche Maria Magdalena geweiht. Als einzige Kirche auf dem Ölberg lokalisiert sie kein bestimmtes biblisches Ereignis, sondern thematisiert die Auferstehung und das Leben der Heiligen. Der Zugang zur Kirche und dem üppig blühenden Garten ist durch die zurückgezogenen russisch-orthodoxen Nonnen zeitlich streng limitiert, lohnt sich aber, um ein Stück Ölberg-Natur zu erleben.
+#end_deutch#
+
+

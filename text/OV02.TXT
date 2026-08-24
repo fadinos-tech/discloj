@@ -1,0 +1,32 @@
+#BIBLE#
+27.27-31
+15.16-20
+23.24-25
+19.17-17
+#end_BIBLE#
+#english#
+Via Dolorosa - Second Station of the Cross (1)
+Here Jesus lifts up the Cross.
+The Franciscan Chapel of Flagellation, and the Chapel of Condemnation, commemorate the sites where Jesus was scourged and given the Cross to bear.
+#end_english#
+#italiano#
+Via Dolorasa -- Seconda Stazione: "Gesù è caricato della Croce". (1)
+Le cappelle Francescane della Condanna e della flagellazione che ricordano il luogo dove Gesù è stato flagellato e caricato della croce.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Segunda Estación:
+"Jesús carga con la Cruz".
+Frente a la escuela musulmana (Primera Estación) está el convento franciscano de la Flagelación, con sus dos capillas, la de la Flagelación, restaurada por Barluzzi en 1927, y la de la Condena, de 1903, recordando el castigo de los azotes y la entrega de la cruz tras la condena. Una parte del suelo de la Capilla de la Condena es un pavimento romano de grandes lastras, como el "Enlosado" o "Litóstrotos" del Evangelio.
+#end_espanol#
+#francais#
+Via Dolorosa – Deuxième station du Chemin de la Croix (1)
+Ici Jésus a été chargé de sa Croix.
+La chapelle Franciscaine de la flagellation et de la condamnation font mémoire des lieux où Jésus a été fouetté, et où on lui a remis la croix à porter.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die zweite Station des Kreuzweges (1)
+"Jesus nimmt das Kreuz auf seine Schulter."
+Die franziskanische Geißelungskapelle und die Verurteilungskapelle erinnern daran, daß Jesus gegeißelt und ihm das Kreuz aufgelegt wurde.
+#end_deutch#
+
+

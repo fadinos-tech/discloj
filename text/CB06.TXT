@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+2.1-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity 
+The Star of Bethlehem (2) - the Latin inscription on the star means:"Here Jesus was born from the Virgin Mary."
+#end_english#
+#italiano#
+Betlemme - La Chiesa della Natività
+La Stella di Betlemme ( 2 ) - sulla stella è scritto in latino: "Qui Gesù è nato dalla Vergine Maria".
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad
+La estrella de Belén (2), con la inscripción latina: "HIC DE VIRGINE MARIA JESUS CHRISTUS NATUS EST. 1717", es decir: "Aquí Nació Jesucristo de la Virgen María", con la fecha de la primera colocación de la estrella de plata: 1717, arrancada por los griegos en 1757, y repuesta en 1853.
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité
+L'étoile de Bethléem (2) – sur l'étoile est écrit en latin "Ici Jésus est né de la Vierge Marie".  
+#end_francais#
+#deutch#
+Betlehem
+Der traditionelle Ort der Geburt Jesu in der Grotte unter der Geburtsbasilika
+Auf dem Boden der mit Öllampen und Ikonen geschmückten und als Geburtsort Jesu verehrten Nische befindet sich seit 1717 der sogenannte "Stern von Betlehem". Der silberne Stern hat 14 Zacken, die die vierzehn Generationen symbolisieren, die nach dem Stammbaum des Matthäusevangeliums jeweils von Abraham bis David, von David bis zum Babylonischen Exil und vom Babylonischen Exil bis zu Christus vergangen sind. Die Geburt Jesu wird damit in die Geschichte seines Volkes eingebettet und an einem konkreten Zeitpunkt festgemacht. Außerdem ist auf dem Stern in lateinischer Schrift eingraviert: "Hier ist Jesus Christus von der Jungfrau Maria geboren worden". Das Geheimnis der Menschwerdung Gottes wird dadurch nicht nur zeitlich, sondern auch räumlich an einem konkreten Ort verankert.
+#end_deutch#
+
+

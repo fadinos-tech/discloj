@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+1.21-28
+4.31-37
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+(Inside-view of the synagogue)
+The Synagogue of Capernaum. These remains belong to the synagogue of the 4th century A.D., built upon the synagogue where Jesus taught.
+#end_english#
+#italiano#
+Cafarnao - La città di Gesù
+La sinagoga di Cafarnao, questi resti sono della sinagoga risalente al IV secolo, che fu costruita sopra la vecchia sinagoga dove (die ?bersetzung hat gefehlt) insegnava Gesù.
+[ Una vista fuori la sinagoga . ( 1 ) ]
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+En la sinagoga de Cafarnaúm enseñó Jesús. Los restos que se conservan pertenecen a la sinagoga del siglo IV de nuestra Era.
+Interior de la sinagoga 
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+La Synagogue de Capharnaüm. Les vestiges conservés ici appartiennent à la Synagogue du IVième siècle, construite par-dessus l'ancienne Synagogue où Jésus enseigna.
+[intérieur de la Synagogue]
+#end_francais#
+#deutch#
+Kafarnaum - Innenansicht der Synagoge
+Der Blick in den Gebetsraum der Kalkstein-Synagoge, die vom 4. bis zum 7. Jahrhundert genutzt wurde, lässt ihre kunstvolle Ausgestaltung erkennen. Zahlreiche behauene Versatzstücke sind im Ausgrabungsgelände von Kafarnaum ausgestellt und erlauben interessante Rückschlüsse auf das Judentum der damaligen Zeit. Der Innenraum der Synagoge ist durch U-förmige Säulenstellungen gegliedert; an den beiden Längsseiten befinden sich Bänke; die Gottesdienste waren nach Süden, nach Jerusalem, also zur hier nicht sichtbaren Eingangsfront ausgerichtet.
+#end_deutch#
+
+

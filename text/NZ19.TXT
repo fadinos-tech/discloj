@@ -1,0 +1,45 @@
+#BIBLE#
+26.31-35;26.69-75
+14.26-31;14.66-72
+22.31-34;22.55-65
+13.36-38;18.15-27
+#end_BIBLE#
+#english#
+St. Peter in Gallicantu
+The third and last storey of the church.
+Jesus predicts Peter's denial -
+[Matthew 26,31-35; Mark 14,26-31; Luke 22,31-34; John 13,36-38]
+Peter denies Jesus three times -
+[Matthew 26,69-75; Mark 14,66-72; Luke 22,55-65; John 18,15-27]
+#end_english#
+#italiano#
+S. Pietro in Gallicantus
+La Chiesa al terzo ed ultimo piano. 
+Gesù predice il tradimento di Pietro
+( Matthew 26.31-35, Mark 14.26-31, Luke 22.31-34, John 13.36-38 )
+Pietro rinnega Gesù tre volte
+( Matthew 26,69-75,  Mark 14,66-72, Luke 22,55-65, John 18,15-27 ) 
+#end_italiano#
+#espanol#
+S. Pedro in Gallicantu 
+Iglesia del piso superior.
+Una tradición que se remonta al período bizantino sitúa en este lugar el palacio del Sumo Sacerdote, y por tanto el primer juicio de Jesús y las negaciones de Pedro, de donde procede el nombre del santuario.
+El resto más interesante lo constituye la escalera que subía desde el torrente Cedrón hasta lo alto de la colina de Sión, por la que probablemente pasó Jesús dos veces la noche de la Ultima Cena y del Prendimiento, tanto si el palacio de Caifás estaba en la cumbre de la colina como si estaba en este lugar.
+Jesús predice la negación de Pedro -
+ (Mateo 26,31-35, Marcos 14,26-31, Lucas 22,31-34, Juan 13,36-38)
+Pedro niega a Jesús tres veces-
+ (Mateo 26,69-75, Marcos 14,66-72, Lucas 22,55-65, Juan 18,15-27)
+#end_espanol#
+#francais#
+St.Pierre en Gallicante
+L'église du troisième et dernier étage.
+Jésus prédit le reniement de Pierre - (Mathieu 26,31-35; Marc 14,26-31; Luc 22,31-34;Jean 13,36-38)
+Pierre renie Jésus trois fois - (Mathieu 26,69-75; Marc 14,66-72;Luc 22,55-65;Jean 18,15-27).
+#end_francais#
+#deutch#
+St. Peter in Gallicantu - Die Oberkirche im dritten Stock
+Auch die Oberkirche ist sehenswert.
+Weitere Informationen: siehe vorige Bilder.
+#end_deutch#
+
+

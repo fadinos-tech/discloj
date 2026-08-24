@@ -1,0 +1,27 @@
+#BIBLE#
+3.1-17
+1.1-11
+3.1-20
+1.19-34
+#end_BIBLE#
+#english#
+Jordan River
+Traditional site of Jesus' baptism.
+#end_english#
+#italiano#
+Il Giordano
+Il sito tradizionale del Battesimo di Gesù.
+#end_italiano#
+#espanol#
+Río Jordán
+Lugar tradicional del bautismo de Jesús.
+#end_espanol#
+#francais#
+Rivière du Jourdain
+Site traditionnel du baptême de Jésus.
+#end_francais#
+#deutch#
+Der Jordan
+Man verlässt Jericho in südöstlicer Richtung, wo die Juden nach Ueberquerung des Jordan lagerten. Kurz darauf erreicht man den Fluss an der Taufstelle, wo Jesus nach alter Ueberlieferung von Johannes getauft wurde.
+Hier im Bild erhält man einen guten Eindruck von dem strömenden Fluss und seinen reich bewachsenen Ufern.
+#end_deutch#

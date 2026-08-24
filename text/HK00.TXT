@@ -1,0 +1,31 @@
+#BIBLE#
+4.13-17
+1.14-15
+4.14-15
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+The archeological site of Capernaum: This heap of ruins is all that is left of an ancient city, extremely prosperous especially in the times of Jesus. Here, Jesus did not only heal the centurion's servant, but he also performed several other miracles, e.g. the resurrection of the daughter of the alderman of the synagogue.
+St. Peter also lived here.
+#end_english#
+#italiano#
+Cafarnao -  la città di Gesù
+Il sito archeologico di Cafarnao è tutto quello che è rimasto di una vecchia città estremamente  prosperosa specialmente nel periodo quando Gesù predicava.
+Qui Gesù ha guarito il servo del centurione. Gesù ha compiuto in questa città diversi miracoli come la risurrezione della figlia del capo della sinagoga.
+Qui ha vissuto anche San Pietro.
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+Las excavaciones arqueológicas han sacado a la luz una parte de esta ciudad, que fue importante y próspera en tiempos de Jesús. Aquí residía Jesús durante su ministerio en Galilea, y aquí realizó grandes milagros: la curación de la hemorroísa y del paralítico que bajaron por el techo, la resurrección de la hija de Jairo, la curación del siervo del centurión, etc. En Cafarnaúm vivían Pedro y probablemente Andrés y Mateo.
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+Le site archéologique de Capharnaüm est tout ce qui reste d'une ville extrêmement prospère, spécialement lors de la vie publique de Jésus. Ici Jésus guérit le serviteur du centurion. Il a fait plusieurs miracles dans cette ville, dont la résurrection de la fille d'un chef de la Synagogue. C'est également ici que vivait St. Pierre.
+#end_francais#
+#deutch#
+Kafarnaum - Gesamtanlage der archäologischen Ausgrabungen
+Das Ruinenfeld des antiken Kafarnaum befindet sich am Nordwestufer des Sees Gennesaret, 16 Kilometer nördlich von Tiberias, 5 Kilometer westlich der Jordan-Einmündung und 210 Meter unter dem Meeresspiegel.
+Die Identifikation dieses seit dem 9. Jahrhundert unbewohnten Ortes mit dem biblischen Kafarnaum gelang erst im 19. Jahrhundert. Weder Kirchen noch Wohnbebauung behinderten daher die umfangreichen Ausgrabungen der Franziskaner Virgilio Corbo und Stanislao Loffreda zwischen 1968 und 1991, sodass heute entscheidende Teile des Kafarnaum der ersten nachchristlichen Jahrhunderte freigelegt sind.
+Im Bild ist hinter dem Franziskanerkonvent mit rotem Dach das gesamte von einer Mauer umgebene, freigelegte und zur Besichtigung geöffnete Arealzu sehen: die helle Synagoge des 4. Jahrhunderts, rechts daneben dunkle Fundamente von Privathäusern und wiederum rechts die achteckige Struktur einer Kirche aus dem 5. Jahrhundert. Doch auch jenseits der Mauern lassen sich Gebäudereste erkennen: Das antike Kafarnaum war ungefähr sechsmal so groß wie das ausgegrabene Areal und endete etwa bei der griechisch-orthodoxen Kirche mit den roten Kuppeln am linken oberen Bildrand.
+#end_deutch#

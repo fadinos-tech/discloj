@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The Greek Orthodox Church of the Annunciation 
+This church was built over the well from which the Virgin Mary used to draw water. 
+It commemorates the Annunciation.
+#end_english#
+#italiano#
+Nazaret - La Chiesa Greca Ortodossa  dell'Annunciazione 
+Questa chiesa è stata costruita sulla fonte da cui la Vergine Maria attingeva l'aqua. 
+Essa ricorda l'Annunciazione.
+#end_italiano#
+#espanol#
+Nazaret - Iglesia Greco-Ortodoxa de la Anunciación o de S. Gabriel.
+La iglesia está construida sobre la Fuente de María. Los cristianos ortodoxos conmemoran en ella la Anunciación.
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Grecque-Orthodoxe de l'Annonciation.
+Construite sur la source d'où la Vierge Marie tirait de l'eau. Cette Eglise commémore l'Annonciation.
+#end_francais#
+#deutch#
+Nazareth
+Außenansicht der griechisch-orthodoxen Verkündigungs- oder Gabrielkirche
+Während die römisch-katholische Tradition die Ankündigung der Geburt Jesu im Wohnhaus Marias und damit in den Höhlen unterhalb der heutigen Verkündigungsbasilika stattfinden lässt, geschah sie nach orthodoxer Tradition am Dorfbrunnen. Über der bedeutendsten Quelle Nazareths existiert daher spätestens seit dem 12. Jahrhundert eine griechisch-orthodoxe Kirche. Der heutige Bau stammt von 1750 und besteht aus einem Kirchenraum und einer separaten und tiefer gelegenen Kapelle bei der Quelle.
+#end_deutch#
+
+

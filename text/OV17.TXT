@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+Today's church goes back to era of the Crusaders, built in 1149 in the shape of a cross. It contains several chapels and churches belonging to different congregations.
+#end_english#
+#italiano#
+Gerusalemme - Basilica del Santo Sepolcro
+La Basilica è stata costruita al tempo dei Crociati in 1149 in forma di una Croce.
+La Basilica contiene varie capelle e chiese per diverse confessioni.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+La Basílica fue construida por Constantino el año 335, incendiada por los persas el 614, reconstruida por Modesto el 638, incendiada por los musulmanes en 938, 965 y 966, demolida por Al-Hakim en 1009, reconstruida en parte por Monómaco en 1048 y construida totalmente en su forma actual por los cruzados en 1149.
+Pertenece a las iglesias católica, griega ortodoxa y armenia ortodoxa, pero coptos, sirios y etíopes ortodoxos tienen también capillas y derechos. 
+#end_espanol#
+#francais#
+Jérusalem - Basilique du Saint Sépulcre.
+La Basilique actuelle remonte à l'époque des Croisés, construite en 1149, elle a la forme d'une croix. La Basilique contient plusieurs chapelles et églises, appartenant à différentes Congrégations.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Die heutige Basilika geht auf die Kreuzfahrer zurück und wurde 1099 in Form eines Kreuzes gebaut. Sie besteht aus zahlreichen Kapellen und Kirchen, die verschiedenen Konfessionen gehören.
+#end_deutch#
+
+

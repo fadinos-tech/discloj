@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+1.67-79
+NONE
+#end_BIBLE#
+#english#
+Ein Karem - St. John's Church 
+Zachariah's Song is written in many languages on the walls surrounding the church.
+#end_english#
+#italiano#
+Ain Karem -- La chiesa di San Giovanni
+Fuori la chiesa, sulle mure che li circondano, è scritto in tante lingue il cantico di Zaccaria.
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de S. Juan
+Las paredes del patio exterior están cubiertas con el cántico de Zacarías ("Benedictus") en muchos idiomas.
+#end_espanol#
+#francais#
+Ein Karem – L'église Saint Jean 
+A l'extérieur de l'église sur les murs l'entourant, le cantique de Zacharie est inscrit en plusieurs langues.
+#end_francais#
+#deutch#
+En Karem - Hof der Johanneskirche
+Die Reaktion des Zacharias auf die der Verheißung entsprechende Geburt seines Sohnes ist prophetisches Reden und Lobpreis Gottes. Sein Lied, das Benedictus, steht ebenso wie das Magnificat der Maria in der Tradition der Psalmenbeterinnen und -beter Israels, und es hat ebenso Eingang in das kirchliche Stundengebet gefunden. Wie das Magnificat im Hof der Kirche der Heimsuchung ist das Benedictus im Hof der Johanneskirche auf Kacheln in verschiedenen Sprachen zu lesen.
+#end_deutch#
+
+

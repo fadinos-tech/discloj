@@ -1,0 +1,37 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Via Dolorosa - Fourteenth Station of the Cross
+Jesus is placed in the tomb.
+The tomb of Jesus is situated in the center of the Church of the Holy Sepulchre. The sacred rock inside is covered with marble, and above it are paintings depicting the Resurrection.
+#end_english#
+#italiano#
+Via Dolorosa -- Quattordicesima Stazione:
+"Il corpo di Gesù è posto nel sepolcro"
+Il Sepolcro di Gesù -- Dentro la Basilica del Santo Sepolcro.
+La tomba è al centro della Basilica, la sacra roccia è coperta di marmo e sopra vi sono pitture che rappresentano la Risurrezione.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Decimocuarta Estación:
+"El cuerpo de Jesús es depositado en la tumba"
+Interior de la Basílica del Santo Sepulcro. Tumba de Jesús.
+En el centro de la rotonda, bajo la gran cúpula, está el Edículo de la Resurrección o Tumba Vacía del Señor, donde fue depositado su cuerpo y permaneció 3 días. La cámara interior del Edículo conserva, bajo una gran lápida de mármol, los restos del "sepulcro nuevo" donde se colocó su cuerpo, adornado con tres imágenes de Cristo resucitado. 43 lámparas de aceite (de los tres ritos) arden día y noche sobre la Tumba.
+#end_espanol#
+#francais#
+Via Dolorosa – La quatorzième station du Chemin de la Croix
+Jésus est descendu de la Croix.
+Jésus est mis au tombeau.
+La tombe de Jésus a l'intérieur de la basilique du Saint Sépulcre.
+La pierre sacrée a l'intérieur est recouverte de marbre, et au-dessus se trouvent des peintures décrivant la Résurrection.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die vierzehnte Station des Kreuzweges.
+"Jesus wird ins Grab gelegt."
+Das Heilige Grab befindet sich innerhalb der Grabeskirche, in ihrem Zentrum. Der Heilige Felsen darin ist mit Marmor bedeckt; darüber sind Bilder zu sehen, die die Auferstehung darstellen.
+#end_deutch#
+
+

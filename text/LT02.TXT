@@ -1,0 +1,33 @@
+#BIBLE#
+14.13-21
+6.30-44
+NONE
+6.1-13
+#end_BIBLE#
+#english#
+Tabgha 
+The Church of the First Feeding of the Multitude (Interior, the altar)
+The rock that was turned into an altar, and, beneath it, the Byzantine mosaic of the loaves and fish.
+#end_english#
+#italiano#
+Tabgha
+La chiesa della prima moltipicazione del pane  [ Interno, l'altare ]
+La roccia che è diventata un altare, sotto il mosaico Bezantino del pane e i due pesci.
+#end_italiano#
+#espanol#
+Tabgha
+Iglesia de la Multiplicación de los Panes y los Peces. Altar
+Un mosaico bizantino reprentando un cesto de panes y dos peces, rodea la roca del Milagro de la Multiplicación, bajo el altar.
+#end_espanol#
+#francais#
+Tabgha
+L'église de la Multiplication des Pains (intérieur, l'autel)
+Le rocher qui est devenu un autel, et juste en-dessous, la mosaïque byzantine des pains et des deux poissons. 
+#end_francais#
+#deutch#
+Tabgha
+Mosaik der Brote und Fische in der Kirche der Brotvermehrung
+In die Rekonstruktion der Kirche des 5. Jahrhunderts aus dem Jahre 1982 sind zahlreiche antike Bauteile integriert. Unter dem Altar befindet sich der Stein, der seit dem 4. Jahrhundert als der Felsen verehrt wird, auf den Jesus bei der Speisung der Vielen die Brote gelegt habe. Davor ist das vielleicht berühmteste Mosaik des Heiligen Landes zu sehen: Brotkorb und zwei Fische aus dem 6. Jahrhundert.
+#end_deutch#
+
+

@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+11.1-44
+#end_BIBLE#
+#english#
+Bethany - The Church of Lazarus
+The painting shows Jesus calling in a loud voice :"Lazarus, come out."
+#end_english#
+#italiano#
+Betania -- La chiesa di Lazzaro
+La pittura rappresenta Gesù che grida a gran voce: "Lazzaro, vieni fuori!". 
+#end_italiano#
+#espanol#
+Betania -- Iglesia de la resurrección de Lázaro
+Mosaico representando a Jesús que dice con voz fuerte: "Lázaro, sal fuera".
+#end_espanol#
+#francais#
+Béthanie -- L'église de Lazare.
+L'image peinte montre Jésus appelant d'une voix forte : " Lazare, sors ". 
+#end_francais#
+#deutch#
+Der Ölberg
+Wandmosaik in der römisch-katholischen Lazaruskirche in Betanien
+Der vom Eingang aus rechte Arm der kreuzförmigen Lazaruskirche aus dem Jahr 1952 ist an seinem Ende mit einem halbkreisförmigen Mosaik versehen, das die Szene der Auferweckung des Lazarus abbildet: In der Bildmitte steht Jesus im blauen Gewand umringt von Maria und Marta. Hinter seinem Rücken ist die erschrockene Menge zu sehen, während in seiner Blickrichtung jemand eine Verschlußplatte entfernt und der in traditioneller Weise mit Binden umwickelte Tote aus der Grabhöle tritt. Die lateinischen Textzeilen geben verkürzt die entsprechenden Verse des Johannesevangeliums wieder: "Vater, [...] damit sie glauben, daß du mich gesandt hast. [...] Er rief mit lauter Stimme: Lazarus, komm heraus!"
+#end_deutch#
+
+

@@ -1,0 +1,36 @@
+#BIBLE#
+NONE
+NONE
+2.1-7
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity
+The church was built upon the cave where Jesus was born.
+It is surrounded by thick walls, built to protect it from conquerors.
+#end_english#
+#italiano#
+Betlemme - La chiesa della Natività
+La chiesa è stata costruita sopra alla grotta dove Gesù è nato.
+E circondata da grossi muri costruiti per proteggerla dai conquistatori.
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad
+La iglesia fue consagrada el 31 de mayo del año 339, en presencia de Sta. Elena, 
+madre de Constantino. Fue destruida por los samaritanos en 529 y reedificada por
+Justiniano con los gruesos muros actuales.
+Está construida sobre la gruta donde nació Jesús.
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité 
+L'église a été construite sur la grotte où Jésus est né.
+L'église est entourée de murs épais, construits pour la protéger des conquérants.
+#end_francais#
+#deutch#
+Betlehem - Außenansicht der Geburtsbasilika
+Seit dem Jahr 150 berichten antike Schriftsteller davon, dass sich die Geburt Jesu in einer Höhle zugetragen habe. Spätestens 248 war eine solche Höhle in Betlehem als Wallfahrtsort bekannt, und 326 ließ Kaiser Konstantin hier eine prächtige Basilika errichten. Dieser Bau wurde nach einer Brandkatastrophe in der ersten Hälfte des 6. Jahrhunderts durch Kaiser Justinian in etwas kleineren Dimensionen wieder aufgebaut und besteht seitdem als die älteste Kirche des Heiligen Landes. Angesichts der keineswegs friedlichen Geschichte der Region ist es beachtlich, dass diese Kirche von allen Eroberern verschont wurde. Dazu mag deren Respekt vor den hier verehrten Ereignissen beigetragen haben; die dicken Mauern werden ein Übriges getan haben.
+Die im Bild sichtbare Westfassade besaß ursprünglich drei hohe Portale. Der waagerechte Türsturz des justinianischen Haupteingangs ist links oberhalb der blauen Informationstafeln noch zu erkennen, der niedrigere Spitzbogen der Kreuzfahrer links neben ihnen. In osmanischer Zeit (16. bis 19. Jahrhundert) wurde der Eingang auf das heutige niedrige Maß verkleinert, um das Eindringen berittener Soldaten und das Entfernen von Plündergut zu verhindern. Geistlich wird dieser niedrige Eingang gerne als "Tür der Demut" gedeutet: Jeder Besucher und jede Besucherin müssen ihren Kopf beim Betreten der Geburtsbasilika beugen.
+Heute wird die Geburtsbasilika von drei Konfessionen gemeinsam genutzt, von armenischen, griechisch-orthodoxen und römisch-katholischen Christen.
+#end_deutch#
+
+

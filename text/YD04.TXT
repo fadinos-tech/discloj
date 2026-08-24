@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Dormition Abbey - Underground Church (2)
+In the underground church, beneath today's basilica, you can see this statue of the Virgin Mary.
+#end_english#
+#italiano#
+Monte Sion -- Abbazia della Dormizione (2)
+La Basilica è stata costruita nel 1858, per commemorare la Dormizione della Vergine Maria.
+#end_italiano#
+#espanol#
+Monte Sion -- Abadía de la Dormición
+Estatua de María yacente, en el centro de la cripta.
+#end_espanol#
+#francais#
+Abbaye de la Dormition - église du bas (2)
+La statue de la Vierge Marie, dans la première église sous la basilique actuelle.
+#end_francais#
+#deutch#
+Der Zionsberg - Die Dormitio-Abtei (Die Krypta 2)
+In der Krypta der Basilika bildet eine liegende Statue der sterbenden Jungfrau Maria das Zentrum.
+#end_deutch#
+
+

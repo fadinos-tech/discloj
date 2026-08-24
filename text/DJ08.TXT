@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jericho
+The St. George's Orthodox Convent in Wadi Quelt.
+#end_english#
+#italiano#
+Gerico
+Il convento di San Giorgio a Wadi Al-Qilt.
+#end_italiano#
+#espanol#
+Cercanías de Jericó
+Monasterio ortodoxo de S. Jorge de Coziba, en el wadi Qelt.
+#end_espanol#
+#francais#
+Jéricho
+Monastère St. Georges dans le Wadi Quelt.
+#end_francais#
+#deutch#
+Jericho - Innenansicht des Georgsklosters im Wadi Qelt
+Der Klosterkomplex erstreckt sich über drei Ebenen und besteht aus mehreren Kirchen, Kapellen, Wohnräumen, freien Plätzen und Verbindungsgängen. Im Schatten der Felswand ist in der rechten oberen Bildecke eine Eremitenhöhle zu erkennen. Ein Korb wird von dort aus heruntergelassen, um den Bewohner mit Nahrung zu versorgen.
+#end_deutch#
+
+

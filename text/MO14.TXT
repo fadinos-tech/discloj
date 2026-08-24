@@ -1,0 +1,34 @@
+#BIBLE#
+23.37-39
+NONE
+19.41-44
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - Sanctuary of "Dominus Flevit"
+At this site, Jesus wept over Jerusalem.
+In 1955, the modern chapel was constructed in the shape of a tear-drop by the architect Antonio Barluzzi. It stands on the ruins of an ancient church, of which a beautiful mosaic pavement (7th century) has been preserved.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Santuario del "Dominus Flevit"
+In questo luogo, Gesù ha pianto su Gerusalemme.
+La Cappella moderna è stata costruita a forma di una lacrima dall'architetto Antonio Barluzzi in 1955 sulle rovine di una chiesa antica dalla quale è stato conservato un bellissimo mosaico di pavimento raffigurante della frutta dipinta ( Settimo Secolo ).
+#end_italiano#
+#espanol#
+Monte de los Olivos - Santuario del "Dominus Flevit"
+En este lugar se conmemora el llanto del Señor ante la vista de Jerusalén.
+La iglesia, cuya forma recuerda una lágrima, fue construida por A. Barluzzi en 1955, sobre las ruinas de otras anteriores que se remontan, al menos, al siglo XII. Aquí construyeron los turcos una mezquita en honor de "Issa El-Mansurie", es decir "Jesús el Triunfador". Hay restos de un osario del siglo I y un mosaico del VII.
+#end_espanol#
+#francais#
+Le Mont des Oliviers -- Sanctuaire du "Dominus Flevit"
+Sur ce lieu, Jésus a pleuré sur Jérusalem.
+La chapelle moderne a été construite selon la forme d'une larme, par l'architecte Antonio Barluzzi en 1955, dans les ruines d'une ancienne église, sur la quelle est préservée une mosaïque représentant un fruit (7ième siècle).
+#end_francais#
+#deutch#
+Der Ölberg
+Stadtansicht Jerusalems mit Dominus-Flevit-Kapelle im Vordergrund
+Jesus befindet sich in der Tradition der alttestamentlichen Propheten und steht damit dem Establishment der Stadt Jerusalem und ihres Tempels durchaus kritisch gegenüber. Im Lukasevangelium wird dieses Verhältnis dadurch zum Ausdruck gebracht, dass. Jesus, als er während seines Einzugs nach Jerusalem zum ersten Mal die Stadt erblickt, über sie und ihre unheile Zukunft weint. Seit der byzantinischen Zeit befindet sich zum Gedenken daran an der Route der Palmsonntagsprozession eine entsprechende Kapelle, die den Namen "Dominus flevit", "Der Herr weinte", trägt.
+Ihr Ort mit einem Panoramablick auf die Stadt Jerusalem ist sicher gut gewählt. Im Bild erscheint zentral die goldene Kuppel des sogenannten Felsendoms, die den Ort des Tempels zur Zeit Jesu markiert. Unmittelbar links dahinter erhebt sich der viereckige Turm der deutschen lutherischen Erlöserkirche, direkt rechts hinter dem Felsendorn ist die dunkle Kuppel der Grabeskirche oder Anastasis, der Ort von Tod und Auferstehung Jesu, zu erkennen. Ein spitzer Turm am Horizont bezeichnet das Ende der heutigen Altstadt, wie das im Bild dargestellte Stadtareal auch ungefähr den Ausmaßen des jesuanischen Jerusalem entspricht.
+#end_deutch#
+
+

@@ -1,0 +1,27 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The Greek Orthodox Church of the Annunciation
+#end_english#
+#italiano#
+Nazaret - La Chiesa Greca Ortodossa  dell'Annunciazione 
+[ l'interno architettura orientale ]
+#end_italiano#
+#espanol#
+Nazaret - Iglesia Greco-Ortodoxa de la Anunciación o de S. Gabriel.
+Interior de estilo bizantino
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Grecque-Orthodoxe de l'Annonciation. [De style Byzantin)
+#end_francais#
+#deutch#
+Nazareth
+Innenraum der griechisch-orthodoxen Verkündigungs- oder Gabrielskirche
+Das Innere der griechisch-orthodoxen Verkündigungskirche entspricht der üblichen Gestaltung orthodoxer Kirchen, nach der der Raum der Gläubigen vom Altarraum durch eine Ikonostase getrennt ist. Hier handelt es sich um eine hölzerne Ikonostase von Andrea Maistu aus dem Jahre 1767, die mit wertvollen Ikonen der sogenannten Jerusalemer Schule besetzt ist. Die Ausmalung des Innenraumes mit Heiligenfiguren und biblischen Szenen hingegen stammt von zwei rumänischen Künstlern aus den Jahren 1977 und 1978. Links hinter der Kanzel führt die Treppe hinunter zur Quelle.
+#end_deutch#
+
+

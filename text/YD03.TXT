@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Dormition Abbey - Underground Church.
+In the underground church, beneath today's basilica, you can see this statue of the Virgin Mary.
+#end_english#
+#italiano#
+Abbazia della Dormizione
+La statua della Vergine Maria, nella prima chiesa sotto l'attuale basilica.
+#end_italiano#
+#espanol#
+Monte Sion -- Abadía de la Dormición
+Estatua de María yacente, en el centro de la cripta.
+#end_espanol#
+#francais#
+Abbaye de la Dormition - église du bas
+La statue de la Vierge Marie, dans la première église sous la basilique actuelle.
+#end_francais#
+#deutch#
+Der Zionsberg - Die Dormitio-Abtei (Die Krypta)
+In der Krypta der Basilika bildet eine liegende Statue der sterbenden Jungfrau Maria das Zentrum.
+#end_deutch#
+
+

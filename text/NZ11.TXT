@@ -1,0 +1,29 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+A mosaic above the altar depicts Jesus, lying on the rock in prayer.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+L'interno della chiesa, sopra l'altare un mosaico raffigura Gesù in preghiera sulla Roccia.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní 
+Interior de la Basílica. Mosaico representando a Jesús orando en la noche de la Agonía, sobre la roca que se conserva delante del altar.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+A l'intérieur de l'église une mosaïque au-dessus l'autel montrent Jésus penché sur la roche et priant.
+#end_francais#
+#deutch#
+Der Ölberg
+Mosaik der Hauptapsis der Kirche der Nationen in Getsemani
+In den drei Apsiden sind die drei wichtigsten Momente der Passion Jesu in Getsemani vor der Stadt dargestellt: in der Mitte die Hauptszene des Gebetes in Todesangst, links den anschießenden Verrat durch Judas und rechts die darauf folgende Verhaftung. Im Bild ist die Hauptapsis zu sehen: der betende Jesus, die schlafenden Jünger und ein herabsteigender Engel, getreu dem lukanischen, auf Latein wiedergegebenen Schriftzitat: "Da erschien ihm ein Engel vom Himmel und gab ihm Kraft. Und er betete in seiner Angst noch inständiger, und sein Schweiß war wie Blut, das auf die Erde tropfte."
+#end_deutch#
+
+

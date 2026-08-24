@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of St. Catherine
+Built next to the church of Nativity, St. Catherine's is in the custody of the Franciscans.
+This church is peculiar in its Gothic architecture.
+#end_english#
+#italiano#
+Betlemme - La chiesa di Santa Caterina 
+Situata vicino alla chiesa della Natività, è sotto la custodia dei Francescani.
+La chiesa è un esempio particolare di architettura gotica.
+#end_italiano#
+#espanol#
+Belén - Iglesia de Sta. catalina
+Unida a la Basílica de la Natividad está la iglesia de Sta. Catalina, de los PP. Franciscanos, parroquia latina de Belén. La actual iglesia, de 1882, se alza sobre la primitiva medieval.
+#end_espanol#
+#francais#
+Bethléem – L'église Ste. Catherine.
+Située juste à côté de l'église de la Nativité, elle est sous la garde des Franciscains. 
+L'église est particulière dans son architecture gothique.
+#end_francais#
+#deutch#
+Betlehem - Innenansicht der Katharinenkirche
+Seit der Kreuzfahrerzeit befindet sich neben der Geburtsbasilika die der Heiligen Katharina von Alexandrien geweihte Kirche, die zunächst zum Kloster der Augustiner-Chorherren gehörte, 1347 von den Franziskanern übernommen und schließlich zur römisch-katholischen Pfarrkirche von Betlehem wurde. Mit der schnell größer werdenden Zahl von Gemeindemitgliedern und Reisenden erwies sich der Kirchenbau spätestens im 19. Jahrhundert als zu klein. Tiefgreifende Umbau- und Renovierungsmaßnahmen in den Jahren 1882 und 1949 führten zu der heutigen neoromanischen und wesentlich größeren Konzeption, die in nichts mehr an ihren Vorgängerbau erinnert.
+Bis heute sind Umbauten der schlichten dreischiffigen Kirche erforderlich: Hinter dem Hauptaltar erheben sich normalerweise ein holzgeschnitztes Chorgestühl und eine große Chorempore mit Orgel, die im Bild durch Schutzwände verdeckt sind. Das Altarbild des Jahres 1800 stellt Maria mit dem Jesuskind umgeben von Engeln und dem Heiligen Josef dar. Berühmtheit hat diese Kirche erlangt, da von hier aus in jedem Jahr die weihnachtliche Mitternachtsmesse mit dem römisch-katholischen Bischof von Jerusalem, dem sogenannten Lateinischen Patriarchen, in alle Welt übertragen wird.
+#end_deutch#
+
+

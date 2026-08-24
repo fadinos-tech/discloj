@@ -1,0 +1,31 @@
+#BIBLE#
+4.1-11
+1.12-13
+4.1-13
+NONE
+#end_BIBLE#
+#english#
+Jericho - Quarantine Mountain
+After he was baptized, Jesus was led to this mountain by the Holy Spirit to be tempted by the Devil. Half way down the mountain, close to the cave where Jesus stayed during his fourty days of fasting, lies a Greek Orthodox convent that was built in 1895.
+#end_english#
+#italiano#
+Gerico -- Monte della Quarantena
+Gesù era condotto dallo Spirito Santo a questa montagna dopo il suo battesimo nel Giordano, per essere tentato dal Diavolo. Nella montagna si trova un convento Greco Ortodosso costruito nel 1895. Accanto al luogo dove Gesù ha digiunato per quaranta giorni.                  
+#end_italiano#
+#espanol#
+Jericó  - Monte de la Cuarentena
+Según una tradición que se remonta, al menos, al siglo IV, Jesús pasó los 40 días de ayuno y penitencia en este lugar, después de su bautismo en el Jordán.
+A media ladera, colgado de las rocas, se encuentra un monasterio greco-ortodoxo, construido en 1895. En su interior, una gruta, convertida en capilla es venerada como habitáculo de Jesús en sus 40 días de penitencia.
+Otras muchas cuevas, que pertenecían a la Laura de S. Caritón (s. IV) rodean el monasterio y el lugar.
+#end_espanol#
+#francais#
+Jéricho - Mont de la Tentation
+Après avoir été baptisé dans le Jourdain, Jésus a été conduit ici par l'Esprit Saint pour y être tenté par le démon.
+A mi chemin en bas de la montagne, se situe un couvent Grec Orthodoxe, construite en 1895 après J.C. près de la grotte où Jésus est resté durant les quarante jours de jeûne.
+#end_francais#
+#deutch#
+Jericho - Gesamtansicht des Klosters der Versuchung
+Seit dem 7. Jahrhundert wurde dieser Berg am Rande der "weltlichen", luxuriösen und angenehmen Oase Jericho und in der lebensfeindlichen Umgebung der Wüste mit den biblischen Erzählungen von der Versuchung Jesu in Verbindung gebracht. Der Name des Berges, Gebel Qarantal (quarante = vierzig), erinnert dabei an den vierzigtägigen Aufenthalt Jesu in der Wüste. Die Wüste ist in der biblischen Überlieferung wiederholt ein Ort der Läuterung und der Vorbereitung auf öffentliches Auftreten. Außerdem kennzeichnet es die Botschaft Jesu, dass gerade die vom Teufel angebotenen Dinge, soziale Absicherung (Brot), magischer Gottesbesitz (Sturz von der Zinne des Tempels) und politische Macht (Besitz aller Reiche der Welt) keine Bedeutung haben. Durch die Jahrhunderte hindurch haben sich Einsiedler an diesen Ort zurückgezogen. Das griechisch-orthodoxe Kloster der Versuchung am Berghang wurde in seiner heutigen Form allerdings erst ab 1874 errichtet.
+#end_deutch#
+
+

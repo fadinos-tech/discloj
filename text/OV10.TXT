@@ -1,0 +1,33 @@
+#BIBLE#
+27.32-33
+15.21-21
+23.26-26
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Fifth Station of the Cross
+Simon the Cyrenean helps Jesus carry the Cross.
+The fifth station of the Cross is commemorated by a Franciscan chapel.
+#end_english#
+#italiano#
+Via Dolorosa -- Quinta Stazione:
+"Simone di Cirene aiuta Gesù a portare la Croce".
+La quinta stazione è ricordata da un oratorio francescano.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Quinta Estación:
+"Simón Cireneo ayuda a Jesús a llevar la Cruz"
+El episodio evangélico es conmemorado en esta capilla franciscana, donde la Vía Dolorosa cambia por segunda vez de dirección.
+#end_espanol#
+#francais#
+Via Dolorosa – La cinquième station du Chemin de la Croix
+Simon de Cyrène aide Jésus à porter sa Croix.
+La cinquième station du Chemin de la Croix est commémorée par une chapelle Franciscaine.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die fünfte Station des Kreuzweges
+"Simon von Zyrene hilft Jesus das Kreuz tragen."
+Eine Franziskanerkapelle markiert die fünfte Station.
+#end_deutch#
+
+

@@ -1,0 +1,29 @@
+#BIBLE#
+27.11-31
+15.1-20
+23.1-25
+18.28-40;19.1-16
+#end_BIBLE#
+#english#
+Via Dolorosa - First Station of the Cross
+This place was the Praetorium of the Antonia Fortress, the headquarters of the Roman garrison. Here, Jesus was tried by Pontius Pilate and sentenced to death. Today, it is the Al-Omariya School and the first station on the Via Dolorosa.
+#end_english#
+#italiano#
+Via Dolorosa -- Prima Stazione: "Gesù è condannato a morte".
+E il luogo dove stava il Pretorio, nella Torre Antonia,qui Gesù fu giudicato da Pilato e condannato a morte. Ora c'è il Collegio di Omar e la prima stazione della Via Dolorosa.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Primera Estación: "Jesús es condenado a muerte".
+En el lugar donde estaba el Pretorio, en la Torre Antonia, se levanta hoy la Escuela Musulmana Omariya, en cuyo patio se hace conmemoración de la Primera Estación: la condena a muerte de Jesús por Poncio Pilato.
+#end_espanol#
+#francais#
+Via Dolorosa – Première station du Chemin de la Croix
+Ce emplacement était le Prétoire dans la forteresse Antonia quartier général de la garnison romaine. Ici Jésus a été jugé par ponce Pilate, et condamné à mort. aujourd'hui c'est l'école Al- Omariya, et la première station de la via Dolorosa.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die erste Station des Kreuzweges
+"Jesus wird zum Tode verurteilt."
+Die Festung Antonia war das Hauptquartier der römischen Garnison. Im Prätorium, dem Amtssitz des römischen Statthalters, wurde Jesus von Pontius Pilatus vernommen und zum Tode verurteilt. Heutzutage befindet sich hier die El-Omarije-Schule und die erste Station der Via Dolorosa.
+#end_deutch#
+
+

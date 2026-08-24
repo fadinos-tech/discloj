@@ -1,0 +1,28 @@
+#BIBLE#
+2.1-18
+NONE
+2.1-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity 
+When Jesus was born, his mother wrapped him in cloths and placed him in a manger in this corner.
+#end_english#
+#italiano#
+Betlemme - La chiesa della Natività - L'altare dei Magi
+Quando Gesù nacque, sua mamma lo avvolse in fasce e lo depose in una mangiatoia.  
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad. Pesebre
+Cuando Jesús nació, su madre lo envolvió en pañales y lo colocó en el pesebre.
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité - La Mangeoire
+Quand Jésus est né, sa mère l'a enveloppé dans un lange et l'a déposé dans une mangeoire située dans le coin. 
+#end_francais#
+#deutch#
+Betlehem - "Krippenaltar" in der Grotte unter der Geburtsbasilika
+Gegenüber der traditionellen Stelle der Anbetung der Weisen befindet sich ein Altar, der den Standort der Krippe Jesu lokalisieren soll. Er ist nach orthodoxer Manier mit Öllampen ausgestattet; Marmorböden, Säulen und Wandbehänge gehören zur prächtigen Ausstattung.
+#end_deutch#
+
+

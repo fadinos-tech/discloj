@@ -1,0 +1,38 @@
+#BIBLE#
+5.1-12
+NONE
+6.17-26
+NONE
+#end_BIBLE#
+#english#
+Mount of the Beatitudes 
+(A back view of the church)
+This is the site of the famous "Sermon on the Mount." 
+The Beatitudes - [Matthew 5,1-12; Luke 6,17-26]
+#end_english#
+#italiano#
+Monte delle Beatitudini
+Questo è il luogo del famoso "Discorso della montagna" di Gesù.
+(Un panorama del retro della chiesa sulla montagna ).
+"Le Beatitudini" -  ( Matteo 5,1-12 , Luca 6,17-26 ) .
+#end_italiano#
+#espanol#
+Monte de las Bienaventuranzas
+En este entorno anunció Jesús el famoso "Sermón del Monte" y las Bienaventuranzas.
+(Vista de la iglesia en la cumbre del monte)
+Sermón de la Montaña - (Mateo 5,1-7,29)
+"Las Bienaventuranzas"- (Mateo 5,1-12; Lc 6,17-26)
+#end_espanol#
+#francais#
+Monte des Béatitudes
+C'est ici le site du fameux "Discours sur la montagne" de Jésus.
+(de la montagne, vue sur la face arrière de l'église)
+" Les Béatitudes" - (Mathieu 5,1-12; Luc 6,17-26).
+#end_francais#
+#deutch#
+Der Berg der Seligpreisungen
+Rückansicht der Kirche der Seligpreisungen.
+Im Frühjahr, wenn die Sommerhitze noch nicht alles Grün verdorrt hat, erstreckt sich um die Kirche der Seligpreisungen ein üppig blühender Garten, der mit schattigen Plätzen und einer atemberaubenden Aussicht über den See Gennesaret zum Verweilen einlädt. Die achteckige Konzeption der Kirche und einige der acht schmalen, länglichen Fenster in der Kirchenwand des offenen Umgangs sind zu erkennen.
+#end_deutch#
+
+

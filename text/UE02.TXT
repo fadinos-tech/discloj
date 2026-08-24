@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+16.12-13
+24.13-49
+NONE
+#end_BIBLE#
+#english#
+Emmaus - El Qubeibeh
+This is the road where the risen Christ met two of his disciples and walked along with them. It was Jesus' second appearance after his Resurrection. 
+#end_english#
+#italiano#
+Emmaus - El Qubeibeh
+Questa è la strada dove Gesù ha incontrato i due discepoli e si è unito a loro nel cammino. La seconda apparizione di Gesù dopo la Resurrezione.
+#end_italiano#
+#espanol#
+Emaús-El Qubeibeh
+Uno de los tres lugares que pueden corresponder al Emaús del Evangelio es la actual aldea de El-Qubeibeh, 11 km al N-O de Jerusalén, a la misma distancia que indica Lucas. En la imagen, restos de una vía romana, que podría ser, por tanto, la misma por donde caminaban los dos discípulos que se encontraron con Cristo resucitado.
+#end_espanol#
+#francais#
+Emmaüs -- Couvent d'Emmaüs
+C'est la route où Jésus a rencontre les deux disciples, et a marché avec eux.
+C'était la deuxième apparition de Jésus après sa Résurrection, comme il est écrit dans : Luc 24,13-49;Marc 16,12-13.
+#end_francais#
+#deutch#
+Emmaus / El Qubeibeh
+Die Bibel beschreibt, daß Jesus bei seiner zweiten Erscheinung nach der Auferstehung zwei Jünger auf dem Weg nach Emmaus traf und sie begleitete.
+#end_deutch#
+
+

@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+2.8-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - Beth Sahour - The Church of the Shepherds Field
+Beth Sahour is about three kilometers away from Bethlehem. This small church was built in 1954, in the shape of a tent.
+#end_english#
+#italiano#
+Betlemme -- Beth Sahour
+La chiesa del campo dei pastori
+Beth Sahour dista circa tre chilometri da Betlemme, questa piccola chiesa è stata costruita nel 1954 a forma di tenda.
+#end_italiano#
+#espanol#
+Belén -  Beth Sahour. Iglesia del Campo de los Pastores
+La moderna capilla del Campo de los Pastores, que está a 3 km. de la Basílica de la Natividad, fue construida por A. Barluzzi en 1954 recordando el perfil exterior de una tienda de pastores.
+#end_espanol#
+#francais#
+Betléhem-Beth Sahour – L'église du Champ des Bergers 
+Beth Sahour est à environ trois kilomètres de Betléhem. Cette petite église a été construite en 1954 en forme de tente.
+#end_francais#
+#deutch#
+Betlehem - Kirche der Hirtenfelder bei Bet Sahour
+Betlehems unmittelbare Nachbarstädte Bet Jala und Bet Sahour gehören zu den wenigen Ortschaften mit überwiegend christlicher Bevölkerung in Israel und Palästina.
+In der Gegend des 3 Kilometer von Betlehem entfernten Bet Sahour wird der biblischen Geschichten gedacht, die mit der Landschaft um Betlehem verbunden sind: der Moabiterin Rut auf den Feldern ihres Verwandten Boas und den Hirten während der Geburt Jesu. Es sind die "kleinen Leute" die auf ihre ganz alltägliche Weise an Ereignissen teilhaben, die Welt- und Religionsgeschichte geschrieben haben, und dadurch Glaubensbedeutung erlangen.
+Im Bild ist die römisch-katholische "Kirche der Engel bei den Hirten" zu sehen, die 1954 nach Plänen des italienischen Architekten Antonio Barluzzi in Form eines Zeltes gebaut wurde. Ausgrabungen haben in der Nähe zahlreiche Überreste landwirtschaftlichen Lebens aus der Zeit Jesu und Fundamente zweier Klostergebäude aus dem 5. und 6. Jahrhundert zutage gebracht.
+#end_deutch#
+
+

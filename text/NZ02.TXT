@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+9.1-41
+#end_BIBLE#
+#english#
+Jerusalem - Pool of Siloam
+The Miracle of the blind.
+In this pool, a man born blind was healed, after Jesus ordered him to go wash his eyes in it.
+#end_english#
+#italiano#
+Gerusalemme -- Piscina di Siloam
+Qui è il posto in cui Gesù mandò il cieco nato,per lavare gli occhi perchè sia guarito.
+#end_italiano#
+#espanol#
+Jerusalén  -  Piscina de Siloé [2]
+A la piscina de Siloé, próxima al torrente Cedrón, donde desembocan las aguas del Tunél de Ezequías (Fuente de Guijón o de la Virgen), envió Jesús al ciego de nacimiento para su curación. Hoy es propiedad musulmana.
+#end_espanol#
+#francais#
+Jérusalem - Piscine de Siloè [ 2 ]
+Dans cette piscine, Jésus guéri un aveugle de naissance après lui avoir ordonné d'aller s'y laver les yeux.
+#end_francais#
+#deutch#
+Jerusalem - Ende des Hiskijatunnels im Schiloachteich
+In der rechten unteren Bildecke ist ein schmaler Kanal zu sehen: das Ende des Hiskijatunnels, der Wasser über eine Strecke von 533 Metern von der außerhalb der Stadt gelegenen Gichonquelle unter dem Hügel der "Davidsstadt" hindurch leitet. Angesichts der Tatsache, dass zwei Bautrupps gegen Ende des 8. vorchristlichen Jahrhunderts von zwei Seiten begannen, den Tunnel zu graben und sich in der Mitte trafen, gilt er als beachtliche bauliche Meisterleistung. Der Tunnel mündet in ein schmales und tiefgelegenes Becken, den einzigen Überrest einer großzügigen byzantinischen Anlage zum Gedenken an die Heilung eines Blinden.
+#end_deutch#
+
+

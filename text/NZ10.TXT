@@ -1,0 +1,30 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+The altar has been placed next to the exact spot where Jesus prayed before his arrest.
+A mosaic above the altar depicts Jesus, lying on the rock in prayer.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+Interno della chiesa. L'altare sopra il terreno dove Gesù ha pregato prima di essere arrestato.
+Sopra l'altare un mosaico raffigura Gesù "lying" sulla roccia in preghiera.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní 
+Interior de la iglesia. El altar está construido sobre la Roca de la Agonía, considerada la misma donde Jesús sudó sangre la noche del Jueves Santo. El mosaico central recuerda este episodio.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+Mosaïque du milieu
+A l'intérieur de l'église, l'autel surplombe le sol où Jésus priait avant son arrestation. Au dessus de l'autel, une mosaïque montrent Jésus allongé sur la pierre, en prière.
+#end_francais#
+#deutch#
+Der Ölberg
+Innenansicht der Kirche der Nationen in Getsemani
+In der Hauptapsis ist am unteren Bildrand vor dem Altar der sogenannte "Todesangstfelsen" zu sehen. Die seit dem 4. Jahrhundert mit ihm verknüpfte Szene illustriert das Apsismosaik von Pietro D'Achiardi: Jesus kauert auf einem altarähnlichen Felsen, während die Jünger hinter dem rechten Baum schlafen. Aus der göttlichen Sphäre nähert sich ihm ein Engel. Das tiefdunkle Blau des Hintergrundes entspricht der bewusst düsteren Gesamtausstattung der Kirche.
+#end_deutch#

@@ -1,0 +1,37 @@
+#BIBLE#
+5.1-12
+NONE
+6.17-26
+NONE
+#end_BIBLE#
+#english#
+Mount of the Beatitudes 
+The altar inside the Church of the Beatitudes. 
+The writings on the windows above, relate to Jesus' proclamation of the Beatitudes to his disciples.
+The Beatitudes - [Matthew 5,1-12; Luke 6,17-26]
+#end_english#
+#italiano#
+Monte delle Beatitudini
+L'altare nella chiesa delle Beatitudini.
+Le scritture sulle finestre in alto, si riferiscono alla proclamazione delle Beatitudini di Gesù ai discepoli.
+"Le Beatitudini" - ( Matteo 5,1-12 , Luca 6,17-26 ) .
+#end_italiano#
+#espanol#
+Monte de las Bienaventuranzas
+Interior de la Iglesia. Altar.
+Cada una de las ocho vidrieras de la cúpula octogonal proclama una de las bienaventuranzas, según el evangelio de Mateo 5,1-12.
+Sermón de la Montaña - (Mateo 5,1-7,29)
+"Las Bienaventuranzas"- (Mateo 5,1-12; Lc 6,17-23)
+#end_espanol#
+#francais#
+Mont des Béatitudes
+L'autel à l'intérieur de L'église des Béatitudes. Les inscriptions sur les vitraux du haut relatent le discours des Béatitudes de Jésus à ses disciples.
+"Les Béatitudes" - (Mathieu 5,1-12; Luc 6,17-26).
+#end_francais#
+#deutch#
+Der Berg der Seligpreisungen
+Innenansicht der Kirche der Seligpreisungen
+Im Zentrum des Kirchenraums steht der Altar, der von mehreren konzentrischen Oktogonen umgeben ist. Das innere Achteck zeichnet sich durch die im Bild sichtbaren Fenster aus, auf denen jeweils eine der acht "Seligpreisungen" in lateinischer Sprache zu lesen ist. Die achteckige Außenwand ist durch je ein schmales, längliches und gut durchsichtiges Fenster unterbrochen, sodass achtmal wie in einem Bilderrahmen die umgebende Landschaft in den Kirchenbau hineingenommen wird.
+#end_deutch#
+
+

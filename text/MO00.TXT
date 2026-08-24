@@ -1,0 +1,34 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+The Mount of Olives
+A small range of four summits, the highest being 830 meters tall, which overlook Jerusalem and the Temple Mount from the east. Densely wooded and rich in the olives in the times of Jesus, the mount was denuded of trees during the siege of Jerusalem by Titus.
+The whole mount is holy, for Christ unquestionably walked there, though particularized sites, with their commemorative churches, may be questioned.
+#end_english#
+#italiano#
+Monte degli Ulivi
+Una piccola catena di quattro sommità, la più alta a 830 metri, che abbracciano con lo sguardo Gerusalemme e il monte del tempio dall'est attraverso il torrente Cedron.
+Molto alberato nei tempi di Gesù, ricco di olive da cui è derivato il suo nome. Il monte fu spogliato dagli alberi durante l'assedio di Tito a Gerusalemme.
+Tutto la terra e sacra, perchè Gesù indubbiamente vi ha camminato, anche se particolari posizioni con le chiese commemorative si possono mettere in dubbio.
+#end_italiano#
+#espanol#
+El Monte de los Olivos, con sus 830 m. de altura (Jerusalén está en su parte más alta a 763) es una de las mayores alturas de Judea.
+El torrente Cedrón separa Jerusalén del Monte de los Olivos, que recibe su nombre de la abundancia de estos árboles, mayor en tiempos de Jesús que en la actualidad.
+Todo el monte está lleno de recuerdos del paso del Señor:
+en la cumbre, el Edículo de la Ascensión y la gruta del Paternoster; a media ladera el "Dominus Flevit"; y en la parte baja, el Huerto de los Olivos o Getsemaní, con la gruta del prendimiento y la Tumba de María.
+#end_espanol#
+#francais#
+Le Mont des Oliviers
+Une petite chaîne de quatre sommets, le plus élevé a Heignant 830 mètres, qui domine Jérusalem et le mont du Temple, à l'est, par-dessus la vallée du Cédron. Très boisée au temps de Jésus, riche en oliviers (d'où son nom), cette montagne a été dénudée de ses arbres durant le siège de Jérusalem par Titus. Toute la terre est sainte, car le christ a incontestablement marché ici, même si l'authenticité de certains emplacements, avec leurs églises commémoratives, peut être mise en doute.
+#end_francais#
+#deutch#
+Der Ölberg - Ansicht von der Stadtseite
+Eine 830 Meter hohe Hügelkette überragt im Osten das Kidrontal und Jerusalem und grenzt so die Stadt von der judäischen Wüste ab. Ihre in früherer Zeit reichere Bewaldung mit Olivenbäumen trug ihr in vielen Sprachen den Namen Ölberg ein. Während der Ölberg schon in alttestamentlicher Vorstellung zum Ort des Gerichts und der endzeitlichen Herrlichkeit Gottes wurde, war er für Jesus und seine Jünger primär ein Rückzugsort außerhalb der Stadt. In doppelter Hinsicht sind also zahlreiche Traditionen mit dem Ölberg verbunden. Verschiedene christliche Orte wurden im Laufe der Zeit unterschiedlich lokalisiert, und heute ziehen mindestens fünf Gotteshäuser zahllose Reisegruppen an.
+In der Bildmitte ist die sogenannte Kirche der Nationen, die Kirche der Todesangst Jesu vor seiner Verhaftung, zu sehen. Davor verläuft das Kidrontal, rechts dahinter erstreckt sich der eigentliche Ölberg. Die Gebäude im Hintergrund gehören zur Hebräischen Universität Jerusalem auf dem Skopus-Berg, dem nördlichen Ausläufer des- Ölbergs.
+#end_deutch#
+
+

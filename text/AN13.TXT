@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+A view of the interior of the Basilica of the Annunciation.
+#end_english#
+#italiano#
+Nazaret
+La Basilica dell'Annunciazione
+[ L'interno la chiesa , vista del fondo. ]
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación
+Interior de la Basílica
+#end_espanol#
+#francais#
+Nazareth
+L'Eglise de l'Annonciation. 
+[A l'intérieur de l'église, une vue du fond] 
+#end_francais#
+#deutch#
+Nazareth - Westfront in der Oberkirche der Verkündigungsbasilika
+Die farbenfrohen und doch durchlässigen Glasfenster, die den Kirchenraum in ihr helles Licht tauchen, stammen von dem Pariser Künstler Max Ingrand, einem Schüler Marc Chagalls. Die Westfront wird durch 25 Fenster gegliedert, die in sechs Reihen wie ein Spitzbogen einer gotischen Kathedrale angeordnet sind. Sie beschreiben die Verkündigung des Engels und die Zusage Marias als einen Höhepunkt der Geschichte Gottes mit den Menschen: Die Schöpfung erstrahlt in buntem Licht; aus dem himmlischen Blau der oberen Fenster ergießt sich das Goldlicht des Heiligen Geistes. Rechts und links neben diesem Westfenster befinden sich über den Beichtstühlen Darstellungen des Versöhnungshandelns Jesu eines italienischen Künstlers in Marmorimitat.
+#end_deutch#
+
+

@@ -1,0 +1,32 @@
+#BIBLE#
+27.11-26
+15.1-15
+23.13-25
+18.28-40;19.1-11
+#end_BIBLE#
+#english#
+Via Dolorosa - Near the Second Station of the Cross (4)
+The Lithostrotos 
+Under the Ecce Homo Convent is a large stone pavement, reconstructed in the times of Hadrian. On the paving stones are signs of games played by the Roman soldiers.
+#end_english#
+#italiano#
+Via Dolorosa -- Presso la seconda Stazione. (4)
+Il Litostrato
+Sotto il convento della Basilica dell'Ecce Homo, c'è un grande pavimento, ricostruito nell'epoca di Adriano. Sul pavimento di pietra vi sono i segni del gioco dei soldati Romani.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Cerca de la Segunda Estación. (4)
+El Litóstrotos.
+Bajo el Convento y la Basílica del Ecce Homo se conservan restos de un gran pavimento, muchas de cuyas losas llevan incisiones para los juegos de dados de los soldados romanos. La disposición actual es de la época de Adriano (s. II), pero probablemente reutilizando materiales anteriores.
+#end_espanol#
+#francais#
+Via Dolorosa – Près de la deuxième station du Chemin de la Croix (4) 
+Le Lithostrotos
+Sous le couvent de l'Ecce Homo se trouve un pavement en pierre, construit a l'époque d'Hadrien. Sur cette pierre pavée se trouvent les marques des jeux des soldats Romains.
+#end_francais#
+#deutch#
+Die Via Dolorosa 
+In der Nähe der zweiten Station des Kreuzweges unter dem "Ecce Homo" - Kloster befindet sich ein Teil der Straßenpflasterung aus der Zeit Hadrians, der sogenannte "Lithostrotos". In die Pflastersteine sind Spiele eingeritzt, die von den römischen Soldaten gespielt wurden.
+#end_deutch#
+
+

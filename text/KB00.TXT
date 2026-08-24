@@ -1,0 +1,40 @@
+#BIBLE#
+5.1-12
+NONE
+6.17-26
+NONE
+#end_BIBLE#
+#english#
+Mount of the Beatitudes 
+(A front view of the church)
+This is the site of the famous "Sermon on the Mount" 
+The mountain is north-west of Capernaum. It overlooks the Sea of Galilee from the north-west side.
+The Beatitudes - [Matthew 5,1-12; Luke 6,17-26]
+#end_english#
+#italiano#
+Monte delle Beatitudini
+Questo è il luogo del famoso "Discorso della montagna" di Gesù.
+( Vista frontale della chiesa sulla montagna )
+La montagna è al nord-ovest di Cafarnao, e abbraccia con lo sguardo il Mare di Galilea dal lato nord-ovest.
+"Le Beatitudini" - ( Matteo 5,1-12 ; Luca 6,17-26 ) .
+#end_italiano#
+#espanol#
+Monte de las Bienaventuranzas
+Cerca de Cafarnaúm predicó Jesús el "Sermón del Monte" y las Bienaventuranzas.
+(Vista de la iglesia de las Bienaventuranzas)
+Desde la colina que hay al noroeste de Cafarnaúm, donde ahora está el santuario conmemorativo, se domina todo el Mar de Galilea.
+Sermón de la Montaña - (Mateo 5,1-7,29)
+"Las Bienaventuranzas"- (Mateo 5,1-12; Lc 6,17-26)
+#end_espanol#
+#francais#
+Mont des Béatitudes
+C'est ici le site du fameux "Discours sur la montagne" de Jésus.(de la montagne, vue sur l'église)
+La montagne est au nord-ouest de Capharnaüm, regardant la mer de Galilée depuis le côte nord ouest.
+" Les Béatitudes" - (Mathieu 5,1-12; Luc 6,17-26).
+#end_francais#
+#deutch#
+Berg der Seligpreisungen - Frontansicht der Kirche der Seligpreisungen
+Einige Fußminuten oberhalb von Tabgha und 2 Kilometer nordwestlich von Kafarnaum erhebt sich ein sanfter Hügel über das Ufer des Sees Gennesaret. Durch die Nachbarorte und entsprechende archäologische Funde ist die gesamte Gegend vielfach mit der christlichen Tradition und mit Leben und Botschaft Jesu verbunden. Die Hügelkuppe selbst kann allerdings auf keine lange christliche Vergangenheit zurückblicken. Erst 1937 wurde der Ort gewählt, um hier der, sogenannten Bergpredigt Jesu zu gedenken.
+Diese Bergpredigt ist im Matthäusevangelium als zusammenhängender Redekomplex gestaltet, der auf einem Berg verkündet wird und sich inhaltlich an der zeitgenösischen Diskussion um die rechte Erfüllung der Weisung vom Sinai beteiligt. Der Berg der Bergpredigt und der Sinai werden somit parallelisiert, und wie die Gesetzgebung am Sinai mit den sogenannten Zehn Geboten beginnt, so wird die Bergpredigt mit acht Seligpreisungen eröffnet.
+Die Acht Seligpreisungen werden in der Kirche des italienischen Architekten Antonio Barluzzi architektonisch mehrfach umgesetzt.
+#end_deutch#

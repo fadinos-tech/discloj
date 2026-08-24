@@ -1,0 +1,31 @@
+#BIBLE#
+21.1-11
+NONE
+19.28-40
+12.12-19
+#end_BIBLE#
+#english#
+Bethphage - Inside the chapel
+A painting of Jesus entering Jerusalem riding on a donkey. The whole crowd of disciples receiving him, began joyfully to praise the Lord in loud voices for all the miracles they had seen.
+#end_english#
+#italiano#
+Betfage -- Dentro la Cappella 
+La pittura dell'ingresso di Gesù a Gerusalemme, su un asinello.
+E tutta la folla di seguaci che lo accoglieva con gioia e lodava a voce alta Dio per tutti i miracoli che aveva compiuto.
+#end_italiano#
+#espanol#
+Betfagé -- Interior de la iglesia
+Pintura representando la entrada de Jesús en Jerusalén a lomos de un pollino.
+Según la tradición, Jesús se sirvió de la roca que hay a la izquierda del altar para subirse al asno.
+#end_espanol#
+#francais#
+Bethphagé -- L'entrée de la chapelle.
+La peinture de Jésus entrant à Jérusalem monté sur un âne, et la foule entière des disciples l'accueillant, acclamant Dieu pour les miracles qu'ils avaient vus.
+#end_francais#
+#deutch#
+Der Ölberg
+Apsisgemälde in der römisch-katholischen Kirche in Betfage
+In seinen kräftigen Farben und der naiven Darstellung mit ihrem deutlichen Lokalkolorit illustriert das Apsisgemälde über dem Altar die neutestamentlichen Passagen über den Einzug Jesu nach Jersualem: In der Mitte reitet Jesus in weißem Gewand auf einer Eselin oder einem Eselsfohlen; die jubelnde Menge vor und hinter ihm schwenkt Palmzweige und breitet Kleidungsstücke vor ihm aus. Der ausdrucksstark gestaltete Himmel weist darauf hin, dass hier kein rein irdisches Geschehen stattfindet. In Anlehnung an alttestamentliche Texte ist der auf einer Eselin Reitende der Friedensfürst der kommenden Herrlichkeit, der demütig und machtvoll zugleich Kriegen und Ungerechtigkeiten in Jerusalem und auf der gesamten Erde ein Ende bereiten wird.
+#end_deutch#
+
+

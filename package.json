@@ -1,0 +1,24 @@
+{
+  "name": "discloj",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "parse": "python tools/parse_texts.py",
+    "media": "python tools/convert_media.py",
+    "import": "node tools/import_firestore.mjs",
+    "native": "node tools/build-native.mjs && npx cap sync",
+    "apk": "node tools/build-native.mjs && npx cap sync android && cd android && gradlew assembleDebug",
+    "build": "node tools/build.mjs",
+    "serve": "node tools/build.mjs && node tools/serve.mjs"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^6.2.1",
+    "firebase-admin": "^13.0.0"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1",
+    "@capacitor/ios": "^6.2.1"
+  }
+}

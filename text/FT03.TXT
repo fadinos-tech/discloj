@@ -1,0 +1,28 @@
+#BIBLE#
+17.1-13
+9.2-13
+9.28-36
+NONE
+#end_BIBLE#
+#english#
+Mount Tabor
+A front view of the Basilica of the Transfiguration. (built in 1924). 
+#end_english#
+#italiano#
+Monte Tabor
+La Basilica della Trasfigurazione costruita nel 1924. [ vista frontale 2 ]
+#end_italiano#
+#espanol#
+Monte Tabor
+La Basílica de la Transfiguración fue construida por A. Barluzzi en 1924. ( Vista frontal  2 )
+#end_espanol#
+#francais#
+Mont Thabor
+La Basilique de la Transfiguration a été construite en 1921. [ devant la vue 2 ]
+#end_francais#
+#deutch#
+Der Berg Tabor
+Frontansicht der römisch-katholischen Verklärungsbasilika aus dem Jahr 1924; bemerkenswert die Umsetzung biblischer Elemente in syrische Bauformen
+#end_deutch#
+
+

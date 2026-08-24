@@ -1,0 +1,36 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Seventh Station of the Cross
+(Interor view of the chapel)
+For the second time, Jesus falls down under the weight of the Cross.
+Two chapels connected by a flight of stairs mark the site where Jesus fell down for the second time under the weight of the Cross. It is said that the notice of his death sentence was posted here.
+#end_english#
+#italiano#
+Via Dolorosa -- Settima Stazione:
+"Gesù cade la seconda volta"
+Interno della Capella.
+La tradizione dice che qui era posto il cartello con i motivi della condanna.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Séptima Estación
+"Jesús cae por segunda vez"
+Interior de la Capilla. 
+#end_espanol#
+#francais#
+Via Dolorosa – La septième station du Chemin de la Croix
+Jésus tombe pour la deuxième fois.
+[Intérieur de l'église.]
+La tradition nous dit que l'avis de sa condamnation avait été affiché ici.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die siebte Station des Kreuzweges
+"Jesus fällt zum zweiten Mal unter dem Kreuz."
+Hier ist das Innere der Kapelle zu sehen. Der Tradition nach war an dieser Stelle Jesu Todesurteil öffentlich zu lesen.
+#end_deutch#
+
+

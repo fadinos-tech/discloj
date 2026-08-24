@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+7.11-17
+NONE
+#end_BIBLE#
+#english#
+Nain
+A small village that lies a few kilometers south of Nazareth. 
+Here Jesus raised the son of a widow from the dead.
+#end_english#
+#italiano#
+Naim
+Un piccolo villaggio a pochi chilometri a sud di Nazareth.
+Qui Gesù ha risuscitato il figlio della vedova di Naim.
+#end_italiano#
+#espanol#
+Naím
+El pequeño pueblo de Naím, donde Jesús resucitó al hijo único de una viuda, está en el valle de Esdrelón, al pie del monte Moré, a 15 km. de Nazaret y 9 del Monte Tabor.
+#end_espanol#
+#francais#
+Naïm
+Un petit village à quelques kilomètres au sud de Nazareth. Ici Jésus a ressuscité le fils de la veuve de Naïm.
+#end_francais#
+#deutch#
+Nain - Gesamtansicht
+Ein unscheinbares Dörfchen in der Jesreel-Ebene hat den Namen Nain bewahrt und gilt daher als der Ort, an dem Jesus den einzigen Sohn einer Witwe vom Tod erweckte und die Menschen darin ein Zeichen der Größe Gottes sahen. Der Blick von Süden nach Norden zeigt im Vordergrund das Dorf Nain, ein wenig rechts neben dem markanten Minarett das rote Satteldach der römisch-katholischen Kirche. Wo am Nordrand der Jesreel-Ebene die untergaliläischen Hügel ansteigen, sind die Ausläufer des modernen Nazaret zu erkennen.
+#end_deutch#
+
+

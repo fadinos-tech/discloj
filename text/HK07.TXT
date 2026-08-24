@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+About 2000 years old olive wringer found among the ruins.
+#end_english#
+#italiano#
+Cafarnao - La città di Gesù
+Un vecchio frantoio di olive ritrovato tra le rovine.
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+Algunas de las prensas para del aceite podrían tener 2000 años de antigüedad.
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+Ce vieux pressoir à olives, datant d'environ 2000 ans, a été découvert dans les ruines.
+#end_francais#
+#deutch#
+Kafarnaum - Antike Ölpresse
+Bei den Ausgrabungen von Kafarnaum kamen zahlreiche Gegenstände zutage, die das Alltagsleben zur Zeit Jesu veranschaulichen. Im Bild ist eine Olivenpresse zu sehen: In das Becken des unteren Steins wurden die Oliven geschüttet; durch den oberen Stein konnte ein Holzbalken gezogen werden, an dem er über die Olivenmasse geführt wurde.
+Geräte aus Landwirtschaft und Fischfang lassen erkennen, dass diese Wirtschaftszweige in Kafarnaum hoch entwickelt waren. In den Wohnhäusern spiegelt sich relativer Wohlstand ohne große soziale Unterschiede. Zusätzliche Bedeutung hat die Ortschaft durch ihre Lage an der antiken Fernstraße von Ägypten nach Damaskus, der "via maris", erlangt. So sind Handelsbeziehungen in die nördlichen Regionen nachzuweisen. Außerdem war Kafarnaum Grenzort zwischen den Herrschaftsgebieten der beiden Herodessöhne Herodes Antipas und Philippus - nach biblischem Bericht mit einer Zollstation und einer hier stationierten römischen Garnison.
+#end_deutch#
+
+

@@ -1,0 +1,32 @@
+#BIBLE#
+21.1-11
+NONE
+19.28-40
+12.12-19
+#end_BIBLE#
+#english#
+Bethphage - Inside the chapel
+In the front above the altar, the painting of Jesus entering Jerusalem riding on a donkey. On the left lies the stone that Jesus stepped on to mount the donkey.
+#end_english#
+#italiano#
+Betfage -- Dentro la Capella
+Sopra l'altare, una pittura rappresenta Gesù che entra a Gerusalemme seduto su un asinello.
+Sulla sinistra, secondo la tradizione, è la pietra che Gesù ha usato, per salire sull'asino.
+#end_italiano#
+#espanol#
+Betfagé -- Interior de la iglesia
+El altar y pintura representando la entrada de Jesús en Jerusalén a lomos de un pollino.
+Según la tradición, Jesús se sirvió de la roca que hay a la izquierda del altar para subirse al asno.
+#end_espanol#
+#francais#
+Bethphagé - L'entrée de la chapelle.
+Devant l'autel et au-dessus, une peinture de Jésus entrant à Jérusalem, monté sur un âne.
+Sur la gauche se trouve une pierre que Jésus aurait utilisée, afin de l'aider à monter sur le dos de l'âne.
+#end_francais#
+#deutch#
+Der Ölberg
+Innenansicht der römisch-katholischen Kirche in Betfage
+Das Apsisgemälde setzt den Einzug Jesu nach Jerusalem farbkräftig in Szene. In reizvollem Kontrast dazu befinden sich die einfarbigen Darstellungen, die das Thema an den Längswänden der 1883 erbauten Kirche ergänzen. Kunsthistorisch ungleich bedeutsamer aber ist der Felsblock, der hinter dem schmiedeeisernen Gitter zur linken zu sehen ist. Nachdem der Stein erst 1876 zufällig von einem Bauern entdeckt und 1950 sorgfältig restauriert wurde, sind die wertvollen kreuzfahrerzeitlichen Fresken an seinen vier Seiten zu entziffern: Auf einer Seite ist Jesus mit seinen Freunden Maria, Marta und Lazarus dargestellt - ein Hinweis auf das nahegelegenen Betanien und auf die Tatsache, dass die Begegnung von Marta mit Jesus nach dem Tod des Lazarus in der Vergangenheit auch mit Betfage in Verbindung gebracht wurde. Zwei Seiten thematisieren den Einzug Jesu nach Jerusalem: Dorfbewohner, die das Losbinden der Eselin verfolgen, und die Palmwedel schwenkende Menge. Die vierte Seite trägt den Namen Betfage und eine zerstörte Inschrift.
+#end_deutch#
+
+

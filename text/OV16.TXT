@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jerusalem
+The Church of the Holy Sepulchre as seen from above.
+It is the traditional site of the Crucifixion and burial of Christ.
+#end_english#
+#italiano#
+Gerusalemme
+Vista della Basilica del Santo Sepolcro dall'alto.
+E il luogo tradizionale della Crocifissione e seppellimento di Cristo.
+#end_italiano#
+#espanol#
+Jerusalén
+Vista de la Basílica del Santo Sepulcro, que contiene en su interior la roca del Calvario, lugar de la Crucifixión y muerte de Cristo, y el Edículo de la Resurrección o Tumba Vacía del Señor.
+#end_espanol#
+#francais#
+Jérusalem 
+Une vue aérienne de la Basilique du saint Sépulcre.
+C'est l'endroit traditionnel de la crucifixion et de l'ensevelissement du Christ.
+#end_francais#
+#deutch#
+Jerusalem
+Das Luftbild zeigt den Komplex der Anastasis oder Grabeskirche. Sie ist die traditionelle Stätte der Kreuzigung, des Begräbnisses und der Auferstehung Jesu.
+#end_deutch#
+
+

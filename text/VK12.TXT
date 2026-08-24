@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+20.11-18
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+This place commemorates the event narrated in John 20,11-18. The smaller circle represents the spot where Mary Magdalene stood, while the other one represents Jesus' when he appeared to her after the Resurrection.
+#end_english#
+#italiano#
+Gerusalemme - Basilica del Santo Sepolcro
+Questo luogo commemora l'evento narrato in Giovanni 20,11-18 ,il cerchio più vicino rappresenta il luogo dove si trovava Maria Magdalena, l'altro invece indica il posto dove stava Gesù,quando apparse a lei dopo la sua Risurrezione.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+Altar y lugar de la primera Aparición de Cristo resucitado a María Magdalena. Los círculos del pavimento representan a Jesús y la Magdalena en el episodio narrado por Juan 20, 11-18, cuando la Magdalena, llorando, confundió a Jesús con el hortelano del lugar.
+#end_espanol#
+#francais#
+Jérusalem - Basilique du Saint Sépulcre. 
+Cet endroit commémore l'événement raconté par Jean { 20,11-18 }, le cercle le plus proche représente l'endroit où se tenait Marie Madeleine, alors que l'autre indique l'endroit où se tenait Jésus lorsqu'Il lui apparut après sa Résurrection.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Diese Stelle erinnert an ein Geschehen, das im Johannesevangelium berichtet wird: Der kleinere Kreis steht für den Ort, an dem Maria Magdalena stand, während der andere Jesus repräsentiert, als er ihr nach seiner Auferstehung erschien.
+#end_deutch#
+
+

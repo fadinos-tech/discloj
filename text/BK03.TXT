@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+1.39-56
+NONE
+#end_BIBLE#
+#english#
+Ein Karem - Church of the Visitation
+The interior of the church is covered with beautiful paintings, depicting the life of Mary and her Ascension.
+#end_english#
+#italiano#
+Ain Karem -- Chiesa della Visitazione
+All'interno della chiesa, ci sono delle pitture sulle mure che mostrano il percorso della vita della Vergine fino all'Assunzione.
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de la Visitación
+El interior de la iglesia está cubierto de hermosas pinturas de Vagarini relativas a la glorificación de María en la historia de la Iglesia.
+#end_espanol#
+#francais#
+Ein Karem -- L'église de la Visitation.
+A l'intérieur de l'église, des peintures murales montrent des scènes de la vie de Marie, et son Assomption. (Luc 1,39-56).
+#end_francais#
+#deutch#
+En Karem - Innenansicht der Oberkirche der Kirche der Heimsuchung
+Während die Unterkirche mit ihren Resten von Gebäuden aus der Zeit Jesu und in ihrer neuzeitlichen Ausmalung das biblische Thema der Begegnung von Maria und Elisabet weiterführt, thematisiert die Oberkirche Maria allein. Die Apsis zeigt sie als Zentralfigur, der alle Wesen des Himmels (im oberen Bereich) und der Erde (im unteren Bereich) zujubeln. Fünf zeitgenössische Fresken an der Südwand rechts im Bild illustrieren theologische Themen, die in der Geschichte der Kirche bedeutsam mit Maria in Verbindung gebracht wurden: Maria als Gottesgebärerin, Maria als Zuflucht der Bedrängten, Maria als Gnadenvermittlerin, Maria als Hilfe der Gläubigen, Maria als unbefleckt Empfangene.
+#end_deutch#
+
+

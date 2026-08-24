@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Ninth Station of the Cross
+For the third time, Jesus falls down under the weight of the Cross.
+A Roman column marks the ninth station, a reminder that Jesus collapsed within the sight of the place of his Crucifixion.
+#end_english#
+#italiano#
+Via Dolorosa -- Nona Stazione:
+" Gesù cade la terza volta "
+Una colonna romana indica la Nona Stazione, che ricorda Gesù caduto di fronte al luogo della Crocifissione.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Novena Estación:
+"Jesús cae por tercera vez".
+Una columna entre la iglesia del Patriarcado Copto y el patio del convento etíope, señala el lugar de la tercera caída de Jesús, en las inmediaciones del Gólgota.
+#end_espanol#
+#francais#
+Via Dolorosa – La neuvième station du Chemin de la Croix
+Jésus tombe pour la troisième fois.
+Une colonne Romaine marque la neuvième station, où Jésus se serait effondré a la vue du lieu de la Crucifixion.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die neunte Station des Kreuzweges
+"Jesus fällt zum dritten Mal unter dem Kreuz."
+Eine römische Säule kennzeichnet die neunte Station. Sie erinnert daran, daß Jesus beim Anblick seiner Kreuzigungsstätte zusammenbrach.
+#end_deutch#
+
+

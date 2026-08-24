@@ -1,0 +1,31 @@
+#BIBLE#
+6.9-13
+NONE
+11.2-4
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - The Convent of the Pater Noster
+Inside the church, the Lord's Prayer is written on the walls in several languages.
+In the front is the altar.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Chiesa del Pater Noster
+Interno della chiesa, la Preghiera del Signore è scritta sui muri in diverse lingue, e di fronte c'è l'altare.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Iglesia del Pater Noster
+Interior de la iglesia del Sagrado Corazón, del convento carmelita, conteniendo también el Padre Nuestro en varias lenguas. 
+Al fondo, presbiterio y altar.
+#end_espanol#
+#francais#
+Mont des Oliviers -- Eglise du "Notre Père"
+A l'intérieur de l'église, le Notre Père est inscrit sur les murs en plusieurs langues, ainsi que devant l'autel.
+#end_francais#
+#deutch#
+Der Ölberg
+Innenansicht der neuzeitlichen Eleona-Kirche
+Die Klosterkirche der französischen Karmeliterinnen neben den Ruinen der konstantinischen Basilika nimmt deutlich sichtbar Bauformen der Kreuzfahrerzeit auf, wurde aber erst 1875 errichtet. Wie im zeitgleichen Kreuzgang sind auch hier Keramiktafeln ausgestellt, auf denen das Vaterunser in verschiedenen Sprachen zu lesen ist.
+#end_deutch#
+
+

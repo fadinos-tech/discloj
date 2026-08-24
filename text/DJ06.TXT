@@ -1,0 +1,29 @@
+#BIBLE#
+4.1-11
+1.12-13
+4.1-13
+NONE
+#end_BIBLE#
+#english#
+Jericho - Quarantine Mountain
+Inside the chapel in the Greek Orthodox Convent, the altar is situated above a stone seat which is said to have been used by Jesus during his fasting.
+#end_english#
+#italiano#
+Gerico -- Monte della Quarantena
+Dentro una capella nel convento Greco Ortodosso, sotto l'altare è il sedile di pietra dove Gesù sedeva durante il suo digiuno.
+#end_italiano#
+#espanol#
+Jericó  --  Monte de la Cuarentena
+Interior de la Capilla del Monasterio greco-ortodoxo de la Cuarentena.
+Una tradición sitúa la presencia de Jesús en los días de su penitencia en la roca tras el altar.
+#end_espanol#
+#francais#
+Jéricho - Mont de la Tentation
+Intérieur de la chapelle du couvent Grec Orthodoxe, sous l'autel, le siège en pierre où Jésus se serait assis durant le quarante jour de Jeûne.
+#end_francais#
+#deutch#
+Jericho - Kapelle im Kloster der Versuchung
+Innerhalb des Klosters der Versuchung wird in einer Kapelle unter dem Altar ein Stück natürlichen Felsens gezeigt: der Stein, auf dem Jesus während seines Gesprächs mit dem Teufel gesessen haben soll.
+#end_deutch#
+
+

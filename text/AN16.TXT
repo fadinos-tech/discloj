@@ -1,0 +1,34 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - Mary's Well
+An old photograph (1930) of Mary's Well, 50 meters away from the Basilica of the Annunciation.
+The well was used by the inhabitants of Nazareth.
+#end_english#
+#italiano#
+Nazaret - La fonte di Maria
+La fonte da cui Maria attingeva l'acqua .
+Una vecchia foto della fonte scattata nel 1931. Oggi la zona intera è in restauro.
+#end_italiano#
+#espanol#
+Nazaret - Fuente de María
+La misma fuente que hay en el interior de la iglesia de San Gabriel, mana al exterior en la fuente llamada igualmente de María.
+Foto antigua, tomada en 1931. Hoy toda la zona está en remodelación.
+#end_espanol#
+#francais#
+Nazareth - Le Puits de Marie
+Le Puits de Nazareth où la Vierge Marie allait puiser l'eau.
+C'est une vieille photo du puits prise en 1930.
+#end_francais#
+#deutch#
+Nazareth
+Der alte Marienbrunnen im Stadtzentrum im Jahr 1930
+Wasserversorgung war gerade im Orient zu allen Zeiten existentiell wichtig. Daher bildeten Quellen oder Brunnen in der Antike und bis ins letzte Jahrhundert das Zentrum jeden Dorfes, an dem man sich traf und Neuigkeiten austauschte.
+Nach orthodoxer Tradition, die auf das apokryphe Jakobusevangelium zurückgeht, findet die Verkündigung des Engels an Maria in dieser Situation statt, als Maria am Dorfbrunnen Wasser schöpft. Bei der alten Quelle Nazareths befindet sich daher spätestens seit dem zwölften Jahrhundert eine Kirche, die der Verkündigung gedenkt, während das Wasser seit dem 19. Jahrhundert zu diesem 150 Meter entfernten Brunnen geleitet wird. Auch wenn die gesamte Gegend inzwischen baulich umgestaltet ist, bleibt der moderne Brunnen ein beliebter Treffpunkt.
+#end_deutch#
+
+

@@ -1,0 +1,30 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+Inside the church, a mosaic to the right of the altar depicts Judas Iscariot approaching Christ to kiss him.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+Interno della chiesa , un mosaico alla destra dell'altare raffigura Giuda Iscariota mentre tradisce Gesù con un bacio.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní 
+Interior de la iglesia. El Mosaico de la nave derecha o meridional representa el beso traidor de Judas.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+Mosaïque de droite
+A l'intérieur de l'église, une mosaïque à droite de l'autel, montrent Judas Iscariote s'approchant de Jésus pour l'embrasser.
+#end_francais#
+#deutch#
+Der Ölberg
+Mosaik der linken Apsis der Kirche der Nationen in Getsemani
+Die von Mario Barberis angefertigte Darstellung thematisiert die zweite Episode der biblischen Passion in Getsemani: Nach der ruhigen und langen Phase des Gebets beginnt die zum Tode führende Dynamik abrupt durch den Verrat Jesu durch Judas. In der Mitte steht Jesus mit fast empfangend geöffneten Armen; Judas, bezeichnenderweise ohne Heiligenschein, eilt auf ihn zu, um ihm flüchtig den verräterischen Kuss zu geben. Links hinter Jesus stehen die Jünger, rechts hinter Judas mit einer Gefahr andeutenden Fackel die, die gekommen sind, um Jesus zu verhaften. Die Farben des Mosaiks und verschiedene Elemente wie die Bäume oder der felsige Boden tauchen in allen drei Apsismosaiken auf. Die Bildunterschrift hält in lateinischen Zitaten die Reaktionen Jesu nach dem Matthäus- und dem Lukasevangelium bereit: "Jesus erwiderte ihm: Freund, dazu bist du gekommen?" und "Judas, mit einem Kuss verrätst du den Menschensohn?"
+#end_deutch#
+
+

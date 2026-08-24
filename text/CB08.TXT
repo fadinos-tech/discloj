@@ -1,0 +1,29 @@
+#BIBLE#
+2.1-18
+NONE
+2.1-7
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity - Altar of the Magi
+When Jesus was born, his mother wrapped him in cloths and placed him in a manger in this corner.
+#end_english#
+#italiano#
+Betlemme - La chiesa della Natività - L'altare dei Magi
+Quando Gesù nacque, sua mamma lo avvolse in fasce e lo depose in una mangiatoia.  
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad - Altar de los Reyes Magos 
+Cuando Jesús nació, su madre lo envolvió en pañales y lo colocó en el pesebre (a la derecha de la imagen).
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité – L'autel Des Mages 
+Quand Jésus est né, sa mère l'a enveloppe dans un linge et l'a déposé dans une mangeoire située dans le coin.
+#end_francais#
+#deutch#
+Betlehem
+"Altar der Weisen" in der Grotte unter der Geburtsbasilika
+Immer wieder lässt sich an den Heiligen Stätten die Tendenz beobachten, die Ereignisse der biblischen Erzählungen möglichst detailliert lokalisieren zu wollen. So gibt es innerhalb der Geburtsgrotte an ihrer südlichen Längsseite eine weitere Nische im nackten Fels, in der der Ort der Krippe verehrt wird. Gegenüber der Krippe könnten die anbetenden Weisen aus dem Osten gestanden haben. Dementsprechend befindet sich hier der sogenannte "Altar der Weisen", an dem die römisch-katholischen Christen Gottesdienst feiern. Die Felswände in seiner Umgebung sind mit Stoffen behängt.
+#end_deutch#
+
+

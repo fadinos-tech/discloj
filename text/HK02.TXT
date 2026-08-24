@@ -1,0 +1,30 @@
+#BIBLE#
+4.13-17
+1.14-15
+4.14-15
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+The memorial church built upon the house of St. Peter in Capernaum, erected in 1990.
+In its center a window opens the view to the house below. 
+#end_english#
+#italiano#
+Cafarnao -  la città di Gesù
+Il memoriale sopra la casa di San Pietro a Cafarnao ,costruito nel 1990.
+Nel centro una finestra  che rende visibile la casa sotto la capella.
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+La iglesia del "Memorial de S. Pedro" se construyó en 1990, elevada sobre la Casa de S. Pedro y las ruinas de la iglesia bizantina, para dejar intactos los restos, que pueden verse también desde el interior de la nueva iglesia.
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+L'église-mémorial construite au-dessus de la maison de St. Pierre.
+Au centre, une fenêtre qui permet de voir la maison en-dessous de la chapelle.
+#end_francais#
+#deutch#
+Kafarnaum - Innenansicht der Petruskirche
+In ihrem Innern gibt die 1990 erbaute Petruskirche durch eine Öffnung im Boden die Sicht auf die Reste von Wohnhäusern und Kirchen unterhalb des heutigen Baus frei. Außerdem ermöglichen die großflächigen Fensterfronten einen umfassenden Blick auf die Landschaft des Sees Gennesaret. Damit ist das Bauwerk in zweifacher Hinsicht an das heutige und das jesuanische Kafarnaum rückgebunden.
+Während Kafarnaum alttestamentlich nicht erwähnt ist, wird es neutestamentlich zu einem der zentralen Orte der Evangelien. Sie berichten, dass Jesus dezidiert von Nazaret nach Kafarnaum "umzog" und nennen Kafarnaum "seine Stadt". Hier lassen sie Jesus sehr alltäglich in Häuser und die Synagoge gehen; hier lassen sie Gespräche mit den Jüngern oder mit der Bevölkerung und theologische Reden stattfinden. Mit Kafarnaum sind mehrere Heilungen (die eines Gelähmten, der durch das Dach der Synagoge hinabgelassen wird, oder die der Schwiegermutter des Petrus) und die Berufung des Zolleinnehmers Matthäus verbunden. Jesus kündigt Kafarnaum aber wegen dessen Glaubenslosigkeit auch das Gericht an.
+#end_deutch#

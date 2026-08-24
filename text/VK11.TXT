@@ -1,0 +1,31 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Jerusalem - Tomb of the Kings of Adiabene
+This is a photograph of a tomb dug in the rock, and closed with a rolling stone. The tomb dates back to the first century, and probably looks very much like the tomb Christ was buried in.
+#end_english#
+#italiano#
+Gerusalemme -- Tomba del Rei
+E una tomba dal primo secolo, mostra come sarebbe stata la Santa Tomba senza il marmo. Questa tomba dà un'Idea della tomba di Cristo. 
+#end_italiano#
+#espanol#
+Jerusalén. Tumba de la reina de Adiabene
+Esta tumba excavada en la roca puede dar buena idea de cómo era la de Jesús, pues es taambién del siglo I
+#end_espanol#
+#francais#
+Jérusalem 
+Le tombe des rois d'Adiabene
+L'image sur le photographie est celle d'une tombe creusée dans le rocher et fermée par une pierre ronde du premier siècle, période contemporaine de Jésus.
+Cette tombe donne une image du tombeau de Jésus.
+(Mathieu 27,57-61, Marc 15,42-47, Luc 23,50-56, Jean 19,38-42).
+#end_francais#
+#deutch#
+Jerusalem - Das Grab der Königin von Adiabene
+Diese Grabanlage nördlich der Jerusalemer Altstadt stammt aus der Zeit Jesu und kann einen Eindruck vom Grab Christi vermitteln. Eine Grabkammer, die in den Felsen gehauen war und mit einem Rollstein verschlossen wurde, ist zu erkennen.
+#end_deutch#
+
+

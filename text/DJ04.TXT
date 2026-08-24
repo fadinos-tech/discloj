@@ -1,0 +1,29 @@
+#BIBLE#
+4.1-11
+1.12-13
+4.1-13
+NONE
+#end_BIBLE#
+#english#
+Jericho - Quarantine Mountain
+After he was baptized in the Jordan river, Jesus was led here by the Holy Spirit to be tempted by the devil.
+#end_english#
+#italiano#
+Gerico -- Monte della Quarantena
+Gesù è stato condotto dallo Spirito Santo a questa montagna dopo il suo battesimo, nel Giordano, per essere tentato dal Diavolo.
+#end_italiano#
+#espanol#
+Jericó -- Monte de la Cuarentena
+Después de su bautismo en el Jordán, se retiró Jesús a estos lugares
+para prepararse a su vida pública con 40 días de ayuno y penitencia.
+#end_espanol#
+#francais#
+Jéricho
+Jésus a été conduit ici par le Saint Esprit après avoir été baptisé, dans le Jourdain, pour y être tenté par le démon.
+#end_francais#
+#deutch#
+Jericho - Berg der Versuchung
+Dieses Bild wurde vom Tell es-Sultan, dem Ruinenhügel des alttestamentlichen Jericho aus, in der Nähe der Ausgrabungen eines 9.000 Jahre alten Stadtturms aufgenommen. Es zeigt den Blick nach Westen in Richtung des judäischen Berglands und Jerusalems. Oberhalb des Abbruchs der steilen Felswand, auf der Spitze des 300 Meter hohen Qarantal-Berges kennzeichnet eine Mauer den Ort der Festung Dok, die mit dem Schicksal der Makkabäer, der einheimischen jüdischen Herrscherdynastie des 2. vorchristlichen Jahrhunderts verbunden ist. In der Folgezeit lebte auf dem Gipfel eine Mönchskolonie; die Kreuzfahrer errichteten hier eine Kirche. Heute ist aber nur noch das auf halber Höhe bizarr in den Felsen hineingebaute Kloster bewohnt, das am oberen Rand der hellen Partie des Bergabhangs zu erkennen ist: das griechisch-orthodoxe Qarantal-Kloster oder "Kloster der Versuchung".
+#end_deutch#
+
+

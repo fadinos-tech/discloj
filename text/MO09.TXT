@@ -1,0 +1,33 @@
+#BIBLE#
+21.1-11
+NONE
+19.28-40
+12.12-19
+#end_BIBLE#
+#english#
+Bethphage
+This church was built in 1883.
+It was here, where Jesus waited for two of his disciples to bring him a donkey on which he could ride to Jerusalem.
+#end_english#
+#italiano#
+Betfage
+Questa chiesa è stata costruita nel 1883.
+E il luogo dove Gesù aspettava i due discepoli che aveva mandato a cercare un ainello per entrare a Gerusalemme.
+#end_italiano#
+#espanol#
+Betfagé
+La iglesia fue construida en 1883.
+Desde aquí salió Jesús montado en un pollino para entrar en Jerusalén, aclamado por la gente: "Bendito el que viene en nombre del Señor". La procesión del Domingo de Ramos, que lo conmemora cada año, se inicia en este lugar, el "convento de las palmas".
+#end_espanol#
+#francais#
+Bethphagé
+Cette église a été construite en 1883.
+C'est le lieu où Jésus a attendu ses deux disciples, qu'il avait envoyés pour chercher un âne, afin d'entrer à Jérusalem.
+#end_francais#
+#deutch#
+Der Ölberg
+Eingang zur römisch-katholischen Kirche in Betfage
+Längs einer der Hauptstraßen der arabischen Ölbergbesiedlung erstreckt sich seit 1883 das römisch-katholische Franziskanerkloster mit seiner Kirche, die an den Einzug Jesu in Jerusalem erinnert. Ein unscheinbares Schild am Tor in der wuchtigen Umfassungsmauer weist auf den Ort hin.
+#end_deutch#
+
+

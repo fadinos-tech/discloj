@@ -1,0 +1,30 @@
+#BIBLE#
+27.39-56
+15.23-41
+23.35-49
+19.23-37
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+The Greek Orthodox Altar and the silver disk beneath it mark the very spot, where the crosses of Jesus and the two criminals were placed on Mount Calvary.
+#end_english#
+#italiano#
+Gerusalemme -- Basilica del Santo Sepolcro
+Il luogo dove sono state innalzate la croce di Gesù e quelle dei due ladroni, sulla roccia del Calvario, adesso è un altare Greco Ortodosso, e sotto di esso un disco d'argento.
+#end_italiano#
+#espanol#
+Jerusalén
+Basílica del Santo Sepulcro. 
+En la capilla izquierda del Calvario, ortodoxa, se alzó la Cruz donde murió Jesús. Bajo el altar cual puede tocarse directamente la roca del Calvario a través de un disco de plata.
+#end_espanol#
+#francais#
+Jérusalem -- Basilique du Saint Sépulcre.
+Lieu de la Crucifixion
+A l'endroit où étaient situées les croix de Jésus et des deux criminels, sur le mont Calvaire, se trouve maintenant un autel Grec Orthodoxe, et en-dessous une plaque en argent.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Auf Golgotha wird die Stelle verehrt, an der die Kreuze Jesu und der beiden Verbrecher standen. Hier befindet sich ein griechisch-orthodoxer Altar, darunter eine silberne Platte.
+#end_deutch#
+
+

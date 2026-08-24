@@ -1,0 +1,28 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+The Holy Tomb. This is where Jesus was buried. Its current construction was built in 1810.
+#end_english#
+#italiano#
+Gerusalemme - Basilica del Santo Sepolcro
+La Santa Sepolcro, il luogo dove Gesù è stato sepellito, l'attuale costruzione è stata costruita nel 1810.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+Edículo de la Resurrección o Tumba Vacía de Cristo. En este lugar fue depositado el cuerpo del Señor tras su muerte en la Cruz, y de aquí resucitó glorioso.  En el año 1009 Al-Hakim, "el califa loco", ordenó destruir todas las iglesias de su imperio y en particular mandó demoler el Santo Sepulcro hasta sus cimientos. Lo que se conserva de la roca original en que estaba excavada la tumba está cubierto por una losa de mármol. El Edículo actual data de 1810.
+#end_espanol#
+#francais#
+Jérusalem - Basilique du Saint Sépulcre.
+Le Saint Tombeau, où Jésus a été enseveli. La construction que nous voyons aujourd'hui date de 1810.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Das Heilige Grab ist von einer Grabkapelle umgeben, die in der gegenwärtigen Form aus dem Jahr 1810 stammt.
+#end_deutch#
+
+

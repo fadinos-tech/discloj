@@ -1,0 +1,29 @@
+#BIBLE#
+21.1-11 
+NONE
+19.28-40
+12.12-19
+#end_BIBLE#
+#english#
+Bethphage
+A village on the Mount of Olives. It is close to the road from Jericho to Jerusalem, near to Bethany. This church was built in 1883. This is where Jesus waited for two of his disciples to bring him a donkey to ride to Jerusalem on.
+#end_english#
+#italiano#
+Betfage
+Un villaggio sul Monte degli ulivi. Vicino alla strada da Gerico a Gerusalemme e a Betania. Questa chiesa è stata costruita nel 1883.
+E il luogo dove Gesù aspettava i due discepoli che aveva inviato a cercarGli un asinello per entrare a Gerusalemme.
+#end_italiano#
+#espanol#
+Betfagé
+Pueblo situado en el Monte de los Olivos, a mitad de camino entre su cumbre y Betania, cerca del camino de Jericó. La iglesia fue construida en 1883.
+Desde aquí salió Jesús montado en un pollino para entrar en Jerusalén, aclamado por la gente: "Bendito el que viene en nombre del Señor". La procesión del Domingo de Ramos, que lo conmemora cada año, se inicia en este lugar, el "convento de las palmas".
+#end_espanol#
+#francais#
+Bethphagé
+Un village sur le Monte des Oliviers; près de la route de Jéricho a Jérusalem, et près de Béthanie. Cette église a été construite en 1883. C'est le lieu où Jésus a attendu ses deux disciples, qu'il avait envoyés pour chercher un âne, afin d'entrer à Jérusalem.
+#end_francais#
+#deutch#
+Der Ölberg - Betfage
+Der Weg von Betanien nach Jerusalem führt steil über den Ölberg. In dem arabischen Stadtteil Ostjerusalems, der sich über den Ölberg erstreckt, befindet sich auf der von der Stadt abgewandten Seite der Platz, der als Betfage bekannt geworden ist. Die Bibel erwähnt Betfage, damals ein eigenständiges Dorf, nur dreimal als Ausgangspunkt des Einzugs Jesu nach Jerusalem auf einem Esel.
+Seit dem 12. Jahrhundert, der Kreuzfahrerzeit, lässt sich hier eine entsprechende Tradition baulich festmachen. Die heutige römisch-katholische Kirche wurde 1883 auf den Ruinen einer mittelalterlichen Kapelle errichtet und birgt einen Stein, der von den Kreuzfahrern für den Block gehalten wurde, von dem aus Jesus den Esel bestiegen habe. Heute beginnt hier, wie schon in der Kreuzfahrerzeit, alljährlich die große Palmsonntagsprozession, eine spannende Mischung aus kirchlichen Würdenträgern, Pfadfindergruppen arabischer Mentalität und Frömmigkeit sowie zahllosen Touristen.
+#end_deutch#

@@ -1,0 +1,30 @@
+#BIBLE#
+13.53-58
+6.1-6
+4.16-18
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The Synagogue of Nazareth
+Here, Jesus tought on a Sabath.
+#end_english#
+#italiano#
+Nazaret - La Sinagoga di Nazaret ,qui Gesù insegnò un Sabato.
+#end_italiano#
+#espanol#
+Nazaret - La Sinagoga
+La iglesia parroquial greco-católica de Nazaret custodia el lugar que la tradición mantiene como la Sinagoga donde Jesús predicó un sábado.
+#end_espanol#
+#francais#
+Nazareth
+La Synagogue de Nazareth, où Jésus enseigna un jour de Sabbat.
+#end_francais#
+#deutch#
+Nazareth - Die Synagoge
+Neben der griechisch-katholischen Kirche befinden sich Überreste einer Synagoge aus dem 6. Jh. Sie erinnert daran, daß Jesus am Sabbat in der Synagoge von Nazareth lehrte.
+[Matthäus 13,53-58; Lukas 4,16-18; Markus 6,1-6]
+#end_deutch##deutch#
+Nazareth - Die "Synagoge"
+Wenige hundert Meter neben der römisch-katholischen Verkündigungsbasilika befindet sich inmitten der engen und lebendigen Basarstraßen die griechisch-katholische Kirche. Auf ihrem Gelände ist ein kleines, mittelalterliches Gewölbe zu besuchen, das von der griechisch-katholischen Gemeinde seit 1741 als Gottesdienstraum verwendet wurde. Schon in dieser Zeit bezeichnete man den Raum als "Synagoge". Möglicherweise existierte hier bereits im 6. Jahrhundert eine Synagoge. In jedem Fall erinnert der schlichte Raum daran, dass Jesus als Jude seiner Zeit selbstverständlich die jüdischen Gottesdienste besuchte und nach biblischem Bericht in der Synagoge von Nazaret lehrte.
+#end_deutch#
+

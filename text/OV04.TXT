@@ -1,0 +1,34 @@
+#BIBLE#
+27.27-31
+15.16-20
+23.24-25
+19.17-17
+#end_BIBLE#
+#english#
+Via Dolorosa - Second Station of the Cross (3)
+Here Jesus lifts up the Cross.
+Inside the Chapel of the Lashing. The Vault commemorates the crown of thorns.
+#end_english#
+#italiano#
+Via Dolorosa -- Seconda Stazione. (3)
+"Gesù è caricato della Croce". 
+Dentro la Cappella della Condanna.La Volta commemora la corona di spine.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Segunda Estación. (3)
+"Jesús carga con la Cruz".
+Interior de la Capilla de la Flagelación. La artística cúpula, obra de 
+Barluzzi (1927), reproduce una corona de espinas.
+#end_espanol#
+#francais#
+Via Dolorosa – Deuxième station du Chemin de la Croix (3)
+Ici Jésus a été chargé de sa Croix.
+Intérieur de la chapelle de la condamnation. La voûte rappelle le couronnement d'épines.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die zweite Station des Kreuzweges (3)
+"Jesus nimmt das Kreuz auf seine Schulter."
+In der Geißelungskapelle erinnert das Gewölbe an eine Dornenkrone.
+#end_deutch#
+
+

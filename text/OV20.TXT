@@ -1,0 +1,36 @@
+#BIBLE#
+27.39-56
+15.23-41
+23.35-49
+19.23-37
+#end_BIBLE#
+#english#
+Via Dolorosa - Twelfth Station of the Cross
+Jesus dies on the Cross.
+Inside the Church of the Holy Sepulchre, the Greek Orthodox Altar and the silver disk beneath it mark the very spot, where the crosses of Jesus and the two criminals were placed on Mount Calvary.
+#end_english#
+#italiano#
+Via Dolorosa -- Dodicesima Stazione:
+"Gesù muore in Croce"
+La Basilica del Santo Sepolcro.
+Il luogo dove sono state innalzate la croce di Gesù e quelle dei due ladroni, sulla roccia del Calvario, adesso è un altare Greco Ortodosso, e sotto di esso un disco d'argento.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Duodécima Estación:
+Jesús muere en la Cruz.
+Basílica del Santo Sepulcro. 
+En la roca donde se alzó la Cruz de Jesús y los dos ladrones hay ahora un altar ortodoxo, bajo el cual puede tocarse directamente la roca del Calvario a través de un disco de plata.
+#end_espanol#
+#francais#
+Via Dolorosa – La douzième station du Chemin de la Croix
+Jésus meurt sur la Croix.
+Basilique du Saint Sépulcre.
+A l'endroit où étaient situées les croix de Jésus et des deux criminels, placées à sa droite et à sa gauche sur le mont Calvaire, se trouve maintenant un autel Grec Orthodoxe, et en-dessous, une plaque en argent.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die zwölfte Station des Kreuzweges
+"Jesus stirbt am Kreuz."
+Innerhalb der Grabeskirche wird auf Golgotha die Stelle verehrt, an der die Kreuze Jesu und der beiden Verbrecher standen. Hier befindet sich ein griechisch-orthodoxer Altar, darunter eine silberne Platte.
+#end_deutch#
+
+

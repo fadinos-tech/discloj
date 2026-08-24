@@ -1,0 +1,41 @@
+#BIBLE#
+4.1-11;20.29-34
+1.12-13;10.46-52
+4.1-13;19.1-10;18.35-42
+NONE
+#end_BIBLE#
+#english#
+Jericho 
+A small city close to the Jordan river, situated 38 kilometers to the East of Jerusalem.
+After he was baptized in the Jordan river, Jesus was led here by the Holy Spirit to be tempted by the devil. [Matthew 4,1-11; Mark 1,12-13; Luke 4,1-13]
+Here, Jesus met Zacchaeus the tax collector and stayed at his house. [Luke 19,1- 10]
+Jericho also witnessed Christ's healing of blind men. [Matthew 20,29-34, Mark 10,46-52, Luke 18,35-42]
+#end_english#
+#italiano#
+Gerico
+Una piccola città vicino al Giordano , 38 chilometri al nord-est di Gerusalemme.
+Gesù è stato condotto qui dallo Spirito Santo dopo il suo battesimo, nel Giordano, per essere tentato dal diavolo. [Matteo 4,1-11 ; Marco 1,12-13 ; Luca 4,1-13 ]
+Qui Gesù ha incontrato Zaccheo il pubblicano ed è rimasto a casa sua. [ Luca 19,1- 10 ]  
+Gerico ha testimoniato anche la guarigione dell'uomo cieco.
+[ Matteo 20,29-34; Marco 10,46-52; Luca 18,35-42 ]
+#end_italiano#
+#espanol#
+Jericó.
+La ciudad más antigua y más baja del mundo está a 38 km al N-E de Jerusalén.
+En sus proximidades pasó Jesús los 40 días de ayuno y penitencia antes de comenzar su vida pública [ Mateo 4.1-11; Marcos 1.12-13; Lucas 4.1-13]
+Jericó fue visitada varias veces por Jesús: aquí se encontró con Zaqueo y se alojó en su casa y curó al ciego Bartimeo (o a los ciegos, según Mateo), y era lugar de paso en el recorrido Jerusalén-Galilea.
+[ Mateo 20,29-34, Marcos 10,46-52, Lucas 18,35-42]
+#end_espanol#
+#francais#
+Jéricho
+Une petite ville près de la rivière du Jourdain, située à 27 km au nord-est de Jérusalem. Jésus a été conduit ici par le Saint Esprit après avoir été baptisé dans le Jourdain, pour être tenté par le démon. [ Mathieu 4,1-11; Marc 1,12-13; Luc 4,1-13 ]
+Ici Jésus a rencontré Zachée le collecteur d'impôts et a demeuré dans sa maison [ Luc 19,1-6 ]. Jéricho fut aussi le témoin de la guérison d'un aveugle par le Christ.
+#end_francais#
+#deutch#
+Jericho - Stadtansicht
+Die Kleinstadt Jericho liegt etwa 35 Kilometer östlich von Jerusalem und 250 Meter unter dem Meeresspiegel in der Wüstengegend am Jordan nördlich des Toten Meeres. Dank mehrerer kräftiger Quellen und tropischen Klimas verlieh üppige Vegeatation dem Ort in allen Zeiten den Ruf einer Oase. Mit ersten Siedlungsspuren vor 11.000 Jahren und einer Stadtbefestigung bereits vor 9.000 Jahren hat Jericho eine lange und bedeutungsvolle Geschichte.
+Im Alten Testament taucht es immer wieder als selbstverständliche Ortsangabe auf; seine berühmteste Rolle spielt es in der Erzählung von der Eroberung der Stadt bei der Einwanderung der Israeliten in das verheißene Land. Das Neue Testament lokalisiert hier die Begegnung Jesu mit dem Zolleinnehmer Zachäus und einem oder zwei Blinden; der Weg dessen, der unter die Räuber gefallen ist, führt von Jerusalem nach Jericho; und auch der Versuchung Jesu in der Wüste wird gerne an diesem Ort zwischen Luxus und lebensfeindlicher Einöde gedacht.
+Darüber hinaus sind Herrschernamen wie Herodes, Kleopatra und Kalif Walid von Damaskus mit Jericho verbunden. In jüngerer Zeit gehörte Jericho teils zu Jordanien, teils zum von Israel besetzten Palästina. Seine arabische Bevölkerung lässt sich auf etwa 10.000 beziffern; zusätzlich hat Jericho das bis zu Siebenfache an palästinensischen Flüchtlingen beherbergt. Die Reste eines solchen Flüchtlingslagers sind im Vordergrund zu erkennen; dahinter liegt im Grünen das eigentliche Stadtzentrum; die Berge Jordaniens im Osten verschwinden fast im Dunst der großen Hitze.
+#end_deutch#
+
+

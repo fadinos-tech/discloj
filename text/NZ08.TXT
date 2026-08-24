@@ -1,0 +1,28 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+One of the trees in the garden of Gethsemane, over 2000 years old.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+Uno degli alberi nel giardino del Getsemani, ha pi ù di 2000 anni.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní
+Uno de los milenarios olivos del Huerto, el más viejo de todos, que podría sobrepasar los 2000 años de vida.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+Un des arbres du jardin de Gethsemani, est vieux de plus de 2000 ans.
+#end_francais#
+#deutch#
+Der Ölberg
+Einzelner Olivenbaum im Garten neben der Kirche der Nationen in Getsemani
+#end_deutch#
+
+

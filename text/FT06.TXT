@@ -1,0 +1,29 @@
+#BIBLE#
+17.1-13
+9.2-13
+9.28-36
+NONE
+#end_BIBLE#
+#english#
+Mount Tabor - Basilica of Transfiguration
+A back view of the basilica.
+#end_english#
+#italiano#
+Monte Tabor - Basilica della Trasfigurazione
+Vista dietro la basilica.
+#end_italiano#
+#espanol#
+Monte Tabor - Basílica de la Transfiguración
+Vista del ábside.
+#end_espanol#
+#francais#
+Mont Thabor - Basilique de la Transfiguration.
+La basilique vue par derrière.
+#end_francais#
+#deutch#
+Der Berg Tabor
+Rückansicht der Verklärungsbasilika. 
+Weitere Informationen: siehe voriges Bild.
+#end_deutch#
+
+

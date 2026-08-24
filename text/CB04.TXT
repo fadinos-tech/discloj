@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+2.1-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity 
+Beneath the church is the cave where Jesus was born.
+In front we see the Star of Bethlehem.
+#end_english#
+#italiano#
+Betlemme - La chiesa della Natività
+Sotto la chiesa; la grotta dove Gesù è nato.
+Davanti vediamo la Stella di Betlemme.
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad
+La iglesia está construida sobre la gruta donde nació Jesús.
+La estrella de Belén indica el lugar del nacimiento.
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité
+Sous l'église est la grotte où Jésus est né.
+Devant, on peut voir l'étoile de Bethléem. 
+#end_francais#
+#deutch#
+Betlehem - Grotte unter der Geburtsbasilika
+Rechts und links des Hauptaltars führen Stufen hinunter in das unterirdische Höhlensystem und vor allem zu der Höhle, die als Geburtsgrotte verehrt wird und die sich direkt unterhalb des Hauptaltares befindet. Sie ist wohl einer der Orte im Heiligen Land, die für christliche Besucher aus aller Welt mit ganz besonderer Bedeutung besetzt sind.
+Dabei präsentiert sie sich als schlichter, dunkler, langrechteckiger Raum, in dem an vielen Stellen der nackte Fels der Wände und der Decke zu sehen ist. An ihrer Stirnseite befindet sich eine kleine, von Öllampen und Ikonen geschmückte Nische: die Stelle, die als Ort der Geburt Jesu gilt.
+#end_deutch#
+
+

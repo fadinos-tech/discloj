@@ -1,0 +1,29 @@
+#BIBLE#
+3.13-17
+1.9-11
+3.21-23
+NONE
+#end_BIBLE#
+#english#
+Nazareth - Basilica of the Annunciation
+A large mosaic inside the church behind the altar.
+#end_english#
+#italiano#
+Nazaret - La Basilica dell'Annunciazione 
+Il grande mosaico dentro la chiesa dietro l'altare.
+Il mosaico rappresenta Giovanni il Battista che battezza Gesù sulle rive del fiume Giordano.
+#end_italiano#
+#espanol#
+Nazaret -- Basílica de la Anunciación.
+Un gran mosaico tras el altar de la Basílica Superior.
+#end_espanol#
+#francais#
+Nazareth - La Basilique de l'Annonciation.
+Une grande mosaïque à l'intérieur de l'église derrière l'autel.
+#end_francais#
+#deutch#
+Nazareth - Frontmosaik in der Oberkirche der Verkündigungsbasilika
+Der hohe und weite Innenraum wirkt hell und mit seinen offenen Betonverstrebungen befremdlich modern. Die Wände des eckigen Altarraums sind gänzlich mit einem großflächigen Mosaik von Salvatore Fiume bedeckt. Unter der lateinischen Überschrift aus dem gemeinsamen Glaubensbekenntnis aller Christen "Ich glaube die eine, heilige, allumfassende, apostolische Kirche" entfaltet es eine Kirchenvision: Im Zentrum steht in rotem Gewand Christus als endzeitlicher Hoherpriester, rechts daneben Petrus als Hirt der Kirche. Links im Hintergrund thront Maria im blauen Gewand; über allem erinnern das Auge und die Taube an Gottes Dreieinigkeit. Zu Christus strömen die Menschen aller Völker, darunter die Apostel, Märtyrer und weitere Heilige, im Vordergrund rechts die Päpste Benedikt XV., Pius XI., Pius XII., Johannes XXIII. und Paul VI., die sich im 20. Jahrhundert um den Frieden im Land Jesu bemüht haben.
+#end_deutch#
+
+

@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+1.21-28
+4.31-37
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+(An outside view of the synagogue (2))
+The Synagogue of Capernaum. These remains belong to the synagogue of the 4th century A.D., built upon the synagogue where Jesus taught.
+#end_english#
+#italiano#
+Cafarnao - La città di Gesù
+La sinagoga di Cafarnao, questi resti sono della sinagoga risalente al IV secolo, che fu costruita sopra la vecchia sinagoga dove (die ?bersetzung hat gefehlt) insegnava Gesù.
+[ Una vista fuori la sinagoga . ( 2 ) ]
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+En la sinagoga de Cafarnaúm enseñó Jesús. Los restos que se conservan pertenecen a la sinagoga del siglo IV de nuestra Era.
+Vista de la sinagoga. (2) 
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+La Synagogue de Capharnaüm. Les vestiges conservés ici appartiennent à la Synagogue du IVième siècle, construite par-dessus l'ancienne Synagogue où Jésus enseigna.
+[ une vue de l'extérieur de la Synagogue (2) ]
+#end_francais#
+#deutch#
+Kafarnaum - Außenansicht der Synagoge
+Während im Vordergrund einige Reste von Wohnhäusern des antiken Kafarnaum im lokalen schwarzen Basaltstein zu sehen sind, erhebt sich dahinter die aufsehenerregende Synagoge des 4. Jahrhunderts aus dem weniger typischen, stahlend weißen Kalkstein. Die drei linken Portale, deren kunstvoll gestalteten Türstürze zu erkennen sind, führten von einer vorgelagerten Terrasse aus in die zweigeschossige und dreischiffige Gebetshalle. Sowohl von Synagogeninneren als auch durch die beiden rechten Portale gelangte man in einen östlichen Innenhof mit einem umlaufenden Säulengang.
+Grabungen unterhalb dieser Synagoge lassen es heute als sicher gelten, dass sich an derselben Stelle auch die basaltene Synagoge des 1. Jahrhunderts befunden hat. In der Synagoge von Kafarnaum hat Jesus nach biblischer Überlieferung gelehrt und einen Gelähmten geheilt.
+#end_deutch#
+
+

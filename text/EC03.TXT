@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+NONE
+2.1-11;4.46-54;21.2-3
+#end_BIBLE#
+#english#
+CANA OF GALILEE 
+Kafr Kanna
+Even though the actual Kafr Kanna is neither the historical nor geographical Cana of Galilee that is mentioned in the Gospel, nevertheless for more than a century the gospel episodes which mention Cana, are celebrated here. The first two miracles wrought by Jesus, changing water into wine and the healing of the nobleman's son. It is also the home town of Nathaniel.
+#end_english#
+#italiano#
+CANA DI GALILEA  
+Kafr Kanna
+A Kafr Kanna, anche se non è geograficamente e storicamente la Cana di Galilea del Vangelo, si ricordano e si celebrano da più di un secolo, i racconti evangelici lì situati: i primi due miracoli compiuti da Gesù (l'acqua diventata vino e la guarigione del funzionario di Cafarnao) e la patria di Natanaele.
+#end_italiano#
+#espanol#
+CANA DE GALILEA  
+Kafr Kanna
+Aunque Kafr Kanna no es la evangélica Caná de Galilea, se conmemoran aquí, desde hace más de un siglo, los episodios relativos a aquélla localidad de los Evangelios: los dos primeros milagros de Jesús (la conversión del agua en vino y la curación del hijo del funcionario de Cafarnaúm) y la patria de Natanael.
+#end_espanol#
+#francais#
+CANA DE GALILEE  
+Kafr Kanna
+À Kafr Kanna, même s'il ne s'agit ni géographiquement ni historiquement de la Cana de l'Évangile, on se souvient et l'on célèbre depuis plus d'un siècle les rècits évangeliques qui se situent là: les premiers miracles accomplis par Jésus (l'eau changée en vin et la guérison du fils du fonctionnaire de Capharnaüm) ainsi que la patrie de Nathanaël.
+#end_francais#
+#deutch#
+Kana
+Altarbild in der Krypta der römisch-katholischen Kirche
+Das zeitgenössische Altarbild setzt die biblische Erzählung vom ersten Wunder Jesu detailliert und anschaulich in Szene: im Zentrum Jesus im Gespräch mit Maria; rechts die Diener, die aus einem Brunnen die sechs Krüge mit Wasser befüllen; im Vordergrund das Schöpfgefäß des Küchenmeisters; links am Rande des Geschehens die Jünger Jesu oder weitere Gäste.
+#end_deutch#
+
+

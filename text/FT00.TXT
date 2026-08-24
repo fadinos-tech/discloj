@@ -1,0 +1,29 @@
+#BIBLE#
+17.1-13
+9.2-13
+9.28-36
+NONE
+#end_BIBLE#
+#english#
+Mount Tabor
+Here, the disciples Peter and John, and John's brother James witnessed the Transfiguration of Christ.
+#end_english#
+#italiano#
+Monte Tabor
+Su questa montagna Gesù è trasfigurato davanti ai discepoli Pietro ,Giacomo e Giovanni, suo fratello.
+#end_italiano#
+#espanol#
+Monte Tabor
+En el "monte santo" (2Pe 1,18), que la tradición ha identificado con el Tabor, Jesús se transfiguró ante los Apóstoles Pedro, Santiago y Juan.
+#end_espanol#
+#francais#
+Mont Thabor
+Sur cette montagne, Jésus a été transfiguré devant ses disciples Pierre, Jacques et Jean le frère de Jacques.
+#end_francais#
+#deutch#
+Der Berg Tabor - Gesamtansicht
+Mit einer Höhe von 588 Metern erhebt sich der Berg Tabor als isolierter Kegel über die Jesreel-Ebene, die Israel im Norden in West-Ost-Richtung durchschneidet und so das nördlich gelegene Galiläa vom südlichen Samaria trennt. So markant wie sein Aussehen, so groß ist seine Bedeutung. Schon in der Steinzeit stellten Menschen hier ihre Werkzeuge her; und immer wieder nahmen Menschen an, dass von diesem Berg eine besondere Macht ausgehe - feindlich oder freundlich, je nach dem, ob hier fremde oder eigene Gottheiten verehrt wurden. Im Ersten Jüdischen Krieg (66 bis 73 n. Chr.) errichteten die aufständischen Einheimischen hier eine Festung gegen die römische Übermacht.
+Biblisch wird der Berg Tabor im Alten Testament mehrfach genannt und gewinnt besondere Bedeutung, als die Prophetin Debora den Feldherrn Barak hierher führt, um das kanaanäische Herr zu schlagen. Im Neuen Testament findet der Berg bemerkenswerterweise keine Erwähnung. Spätestens seit dem 4. Jahrhundert aber wird der "hohe Berg", auf dem die Evangelien die Verklärung Jesu stattfinden lassen, mit dem Tabor identifiziert. Auf der Bergspitze sind Bauten zu erkennen: die römisch-katholische Verkündigungsbasilika und ihre Annexgebäude; am Fuß des Berges erstreckt sich das arabische Dorf Daburija, das den Klang des Namens der Prophetin Debora bewahrt hat.
+#end_deutch#
+
+

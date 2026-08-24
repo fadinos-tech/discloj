@@ -1,0 +1,30 @@
+#BIBLE#
+17.1-13
+9.2-13
+9.28-36
+NONE
+#end_BIBLE#
+#english#
+Mount Tabor
+An inside view of the Basilica of the Transfiguration. In the front of the church we see the altar and above it the mosaic of the Transfiguration by R. Villani.
+#end_english#
+#italiano#
+Monte Tabor
+Una vista all'interno la basilica della Trasfigurazione, in fondo vediamo l'altare e sopra il Mosaico della trasfigurazione di R. Villani.
+#end_italiano#
+#espanol#
+Monte Tabor
+Basílica de la Transfiguración
+Interior de la Basílica. Sobre el altar superior está el hermoso mosaico de la Transfiguración, obra de Villani.
+#end_espanol#
+#francais#
+Mont Thabor
+Une vue intérieure de la Basilique de la Transfiguration. Au fond nous pouvons voir l'autel, et au dessus la mosaïque de la transfiguration, par R.Villani.
+#end_francais#
+#deutch#
+Der Berg Tabor
+Innenansicht der römisch-katholischen Verklärungsbasilika
+Die schlichte und ausdrucksstarke dreischiffige Basilika ist im Chorraum in zwei Etagen gegliedert: Einige Stufen führen nach unten in eine Krypta, die Bauelemente der Vorgängerkirchen enthält und kleinen Gruppen als Gottesdienstraum dient. Darüber wirkt der Hauptaltar beinahe wie in die himmlische Sphäre der biblischen Erzählung erhoben. Das Evangelium von der Verklärung Jesu vor seinen Jüngern selbst ist im Apsismosaik dargestellt.
+#end_deutch#
+
+

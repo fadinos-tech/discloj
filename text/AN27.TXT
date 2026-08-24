@@ -1,0 +1,40 @@
+#BIBLE#
+1.18-25;2.19-23
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church 
+The altar beneath the church and above the house of the holy family.
+(An angel of the Lord appears to Joseph in his dream) 
+The Birth of Jesus - [Matthew 1,18-25]
+The Return to Nazareth - [Matthew 2,19-23]
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+L'altare sotto la chiesa e sopra la casa della Sacra Famiglia.
+( Un angelo del Signore appare a Giuseppe in sogno
+Matteo 1,18-25 -- La nascita di Gesù.
+Matteo 2,19-23 -- Il ritorno a Nazaret. )
+#end_italiano#
+#espanol#
+Nazaret - Iglesia de San José
+Altar de la cripta, en la gruta conocida como la casa de la Sagrada Familia.
+( Un ángel del Señor se aparece a José en sueños
+      Mateo 1,18-25 -- Nacimiento de Jesús.
+      Mateo 2,19-23 -- El retorno a Nazaret. )
+#end_espanol#
+#francais#
+Nazareth - L'église Saint Joseph.
+L'autel au fond de l'église, au dessus de la maison de la Ste Famille.
+(Un Ange du Seigneur apparaît à Joseph en rêve.
+Mathieu 1,18-25 - La naissance de Jésus-Christ, 
+Mathieu 2,19-23 - Le retour à Nazareth).
+#end_francais#
+#deutch#
+Nazareth - Krypta der Josefskirche
+Unter dem Kirchenschiff der Josefskirche und ihrer Vorgängerbauten wurden verschiedene aufschlussreiche Überreste gefunden: Zum einen geben Silos, Zisternen und kleinere Funde wie Scherben oder Öllampen Informationen über das Leben zur Zeit Jesu. Zum anderen zeugen ein Taufbecken und möglicherweise ein Vorbereitungsraum davon, dass hier schon in früher Zeit Christinnen und Christen, die ebenfalls im Judentum verwurzelt gewesen sein müssen, Gottesdienst gefeiert haben. Hier ist der schlichte Altar zu sehen, der heute in der Hauptapsis der Krypta neben diesen Überresten zum Gottesdienst einlädt.
+#end_deutch#
+
+

@@ -1,0 +1,33 @@
+#BIBLE#
+27.27-31
+15.16-20
+23.24-25
+19.17-17
+#end_BIBLE#
+#english#
+Via Dolorosa - Second Station of the Cross (2)
+Here Jesus lifts up the Cross.
+Inside the Chapel of Condemnation.
+#end_english#
+#italiano#
+Via Dolorasa -- Seconda Stazione. (2)
+"Gesù è caricato della Croce". 
+Dentro la Cappella della Condanna.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Segunda Estación. (2)
+"Jesús carga con la Cruz"
+Interior de la Capilla de la Condena.
+#end_espanol#
+#francais#
+Via Dolorosa – Deuxième station du Chemin de la Croix (2)
+Ici Jésus a été chargé de sa croix.
+Intérieur de la chapelle de la condamnation.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die zweite Station des Kreuzweges (2)
+"Jesus nimmt das Kreuz auf seine Schulter."
+Hier ist das Innere der Verurteilungskapelle zu sehen.
+#end_deutch#
+
+

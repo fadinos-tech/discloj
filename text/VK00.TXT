@@ -1,0 +1,28 @@
+#BIBLE#
+27.55-56
+15.37-41
+23.48-49
+19.25-27
+#end_BIBLE#
+#english#
+The Church of the Holy Sepulchre - Our Lady of Dolours
+Our Lady of Dolours stands beside the Altar of the Crucifixion in Golgotha. It recalls the grief of Mary at the death of Jesus.
+#end_english#
+#italiano#
+Basilica del Santo Sepolcro -- Vergine addolorata
+Nostra Signora addolorata, vicino all'altare della Crocifissione sul Gòlgota. Ricorda la sofferenza di Maria per la morte di Gesù.
+#end_italiano#
+#espanol#
+Basílica del Santo Sepulcro - Virgen Dolorosa
+El altar e imagen de Nuestra Señora de los Dolores se sitúa junto al lugar de la crucifixión, entre las dos capillas del Calvario.
+#end_espanol#
+#francais#
+Basilique du Saint Sépulcre – Notre Dame des Douleurs
+Notre Dame des Douleurs se trouve à côté de l'autel de la Crucifixion, au Golgotha. Elle rappelle la douleur de Marie à la mort de Jésus.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche 
+Eine Halbstatue Marias steht neben dem Kreuzigungsaltar auf Golgatha, der Stabat-Mater-Altar. Sie erinnert an die Schmerzen Marias beim Tod Jesu.
+#end_deutch#
+
+

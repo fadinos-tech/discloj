@@ -1,0 +1,29 @@
+#BIBLE#
+2.16-18
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity 
+The Grotto of the Innocent Children commemorates the children of Bethlehem who were killed on Herod's orders.
+#end_english#
+#italiano#
+Betlemme - La chiesa della Natività
+La grotta dei bambini innocenti, commemora i bambini di Betlemme che sono stati uccisi per ordine di Erode. 
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad
+Inmediata a la del nacimiento están las Grutas de S. Jerónimo, donde se conmemora también la muerte de los santos niños inocentes por orden de Herodes.
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité 
+La grotte des saints Innocents commémore les enfants de Bethléem qui ont été tués sur les ordres d'Hérode.
+#end_francais#
+#deutch#
+Betlehem
+"Grotte der unschuldigen Kinder" im Höhlensystem der Geburtsbasilika
+Von der Geburtsgrotte aus oder durch einen separaten Eingang gelangt man in ein kompliziertes Höhlensystem unterhalb der Geburtsbasilika und der benachbarten Katharinenkirche. Es hat seine Bedeutung einerseits durch seine Nähe zur Geburtsgrotte, andererseits durch den Kirchenvater Hieronymus, der von 386 bis 420 in Betlehem gelebt hat. Er schuf hier mit Hilfe reicher, römischer Patrizierinnen Schulen und Herbergen, übersetzte die Bibel ins Lateinische und betätigte sich als Schriftsteller. Einige der unterirdischen Höhlen sind als Kapellen ausgestattet und Hieronymus und seinen Gefährtinnen gewidmet. Die hier im Bild sichtbare Höhle erinnert allerdings an ein anderes, ein biblisches Ereignis, das mit Betlehem in Verbindung steht: den Versuch des Königs Herodes, den "neugeborenen König der Juden" und potentiellen Konkurrenten auszuschalten. Die Kapelle ist den kleinen Kindern geweiht, die Herodes töten ließ.
+#end_deutch#
+
+

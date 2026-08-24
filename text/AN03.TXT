@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - Basilica of the Annunciation 
+(Picture taken from the Don Bosco Church)
+Built over the Grotto of the Virgin Mary, it was completed in 1969.
+#end_english#
+#italiano#
+Nazaret - La Basilica dell'Annunciazione 
+Costruita sulla Grotta della Vergine Maria , completa nel 1969.
+[Foto presa dalla chiesa di Don Bosco, (3)]
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación
+La doble iglesia está construida sobre la Casa de María. Es obra del arquitecto G. Muzio, y se terminó en 1969. Es la iglesia más grande del Oriente Medio.
+[Foto tomada desde la iglesia de S. Juan Bosco (3)]
+#end_espanol#
+#francais#
+Nazareth - La Basilique de l'Annonciation.
+Construite au-dessus de la Grotte de la Vierge et achevée en 1969.
+[Photographie prise de l'Eglise de Don Bosco, (3)]
+#end_francais#
+#deutch#
+Nazareth - Verkündigungsbasilika
+Die heutige Verkündigungsbasilika prägt das Stadtbild Nazareths. Die mächtige Anlage aus Unter- und Oberkirche wurde 1969 nach Plänen von Giovanni Muzio und mit finanzieller Beteiligung von Kirchen aus aller Welt fertiggestellt. Sie verkörpert das Thema der Verkündigung der Geburt Jesu und die Marienfrömmigkeit im allgemeinen in den Dimensionen von "Raum" und "Zeit", von Geographie und Geschichte. Mariendarstellungen und zahlreiche Kunstwerke aus unterschiedlichsten Ländern und Völkern machen deutlich, dass die christliche Glaubenstradition weiter und vielfältiger ist, als Menschen in Westeuropa es gewohnt sind. Die zeitliche Ausdehnung wird durch die verschiedenen Kirchenbauten, die in vergangenen Jahrhunderten an gleicher Stelle gestanden haben, repräsentiert: Unterhalb der Kirche befindet sich ein ausgedehntes Netz von Wohnhöhlen aus der Zeit Jesu. Schon aus den ersten Jahrhunderten zeugen Grafitti in Stein davon, dass in einer dieser Höhlen der Verkündigung der Geburt Jesu gedacht wurde.
+Im 5. Jahrhundert entstand eine byzantinische Basilika; die Kreuzfahrer errichteten im 11. Jahrhundert eine größere Kirche, auf deren Grundmauern die heutige Unterkirche errichtet ist, während im 18. und 19. Jahrhundert ein provisorischer Bau die sogenannte "Grotte der Verkündigung" ins Zentrum nahm. Zahlreiche Reste dieser Vorgängerbauten sind in den heutigen Komplex integriert oder in einem nahegelegenen Museum zu besichtigen. Die moderne Anlage mag in der orientalischen Umwelt auf den ersten Blick befremden. Andererseits ist sie in einer großen Liebe zum Detail ein interessantes Zeugnis der Theologie ihrer Zeit. Die im Bild sichtbare Kuppel beispielsweise hat die Form einer umgedrehten Lilienblüte und ist damit Symbol der Reinheit Marias.
+#end_deutch#
+
+

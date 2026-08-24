@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha
+The Sanctuary of the Primacy of Peter
+The rock or "Mensa" (meaning "Table") where Jesus sat with the Apostles, when he appeared to them after the Resurrection.
+#end_english#
+#italiano#
+Il Santuario del primato di Pietro.  [La "Mensa"]
+La roccia o "Mensa" che significa "Tavola" è dove Gesù era seduto con gli Apostoli quando è apparso a loro dopo la risurrezione.
+#end_italiano#
+#espanol#
+Tabgha
+Santuario del Primado de Pedro.  La "Mensa Christi" 
+La roca natural del pavimento lleva el nombre de "Mensa Christi" porque sobre ella, según la tradición, había preparado el Señor unas brasas para el pescado, invitando a comer a los discípulos, en su tercera aparición después de haber resucitado.
+#end_espanol#
+#francais#
+Tabgha 
+Le Sanctuaire de la Primauté de Pierre. [Intérieur]
+Le rocher ou "mensa" qui signifie "table" est l'endroit ou Jésus s'est assis avec les apôtres quand il leur apparut après la Résurrection.
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Das Innere)
+Der Felsen "Mensa Domini" (lateinisch = "Tisch des Herrn") erinnert an das Mahl Jesu mit seinen Jüngern bei seiner Erscheinung nach der Auferstehung am Ufer des Sees Genezareth.
+#end_deutch#
+
+

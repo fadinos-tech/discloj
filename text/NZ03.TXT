@@ -1,0 +1,32 @@
+#BIBLE#
+26.17-30
+14.12-31
+21.7-38
+13.1-28;14.1-31;15.1-27;16.1-33;17.1-26
+#end_BIBLE#
+#english#
+Mount Zion - The Cenacle
+This is the room where Jesus had supper with his disciples the night he was arrested. This place became a church in the 4th century, built by the first Christians. Later it was first destroyed by the Persians, and then rebuilt and used by Franciscan priests.It was turned into a mosque in 1524, and the priests were banished by the Turks in 1551. In 1949 it was usurped by the Jews.
+#end_english#
+#italiano#
+Monte Sion -- Sala del Cenacolo
+Questa è la stanza dove Gesù ha vissuto l'Ultima Cena con i suoi discepoli prima di essere arrestato. Il posto si è trasformato in chiesa nel quarto secolo, costruita dai primi cristiani. Più tardi è stata distrutta dai persiani e ricostruita ed abitata dai Francescani ma fu trasformata in una moschea, fino al 1551 quando sono stati cacciati dai Turchi. Nel 1949 è stata usurpata dagli ebrei.
+#end_italiano#
+#espanol#
+Monte Sión -- Sala del Cenáculo
+En el lugar donde se celebró la Ultima Cena y vino el Espíritu Santo el día de Pentecostés construyó el Patriarca de Jerusalén, Juan, en el siglo IV, una gran iglesia, sobre otra anterior, que se llamó "Hagia Sion", destruida por los persas en 614.
+El estilo gótico actual se debe a los cruzados (s. XII). Los franciscanos recuperaron el Cenáculo en 1340, y en 1524 lo usurparon los musulmanes convirtiéndolo en mezquita, y expulsando a los franciscanos en 1551 del convento contiguo. 
+Por la misma ley de la fuerza lo posee actualmente el Estado hebreo.
+#end_espanol#
+#francais#
+Mont Sion - La chambre de la Cène
+Le chambre où Jésus a soupé avec ses disciples, la nuit où il a été arrêté.
+A cet endroit une église du quatrième siècle, bâtie par les premiers chrétiens,détruite par les Perse, rebâtie par les Franciscains. En 1524 elle est occupée par les Musulmans et devient une mosquée. En 1949 elle est usurpée par les Juifs.
+#end_francais#
+#deutch#
+Der Zionsberg - Innenansicht des Abendmahlssaales
+Spätesten s seit dem 4. Jahrhundert gilt der Zionsberg als Aufenthaltsort der Urgemeinde. Da deren Pfingstereignis nach biblischem Bericht in einem "Obergemach" stattgefunden hat, wird in der Folgezeit auch das Obergernach des letzten Mahles Jesu mit seinen Jüngern hier angenommen. Baulich kann diese Tradition erst im 12. Jahrhundert festgemacht werden, als die Kreuzfahrer im selben Gebäudekomplex (fälschlicherweise) das Grab König Davids und darüber den Abendmahlssaal lokalisieren. Im Bild sind sowohl dessen gotisch-kreuzfahrerische Elemente zu erkennen wie auch Bauteile, die auf die Nutzung des Raumes als Moschee ab 1524 zurückgehen.
+Der alltägliche Pilgerbetrieb in diesem zuletzt islamischen Raum mit christlicher Vergangenheit und jüdischer Nachbarschaft verläuft nicht immer störungsfrei. Um so bezeichnender ist es, dass der Abendmahlssaal seit 1948 als "Raum des Gebetes für alle Religionen" gilt. Zweimal im Jahr, unter anderem in der Gebetswoche für die Einheit der Christen findet hier ein christlicher Gottesdienst statt.
+#end_deutch#
+
+

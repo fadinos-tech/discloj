@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+10.38-42
+NONE
+#end_BIBLE#
+#english#
+Bethany - The Church of Lazarus
+The painting shows Martha asking Jesus to tell her sister Mary to help her with the work.
+The writings under the painting quote Jesus' reply to Martha : "Martha, Martha," the Lord answered, "you are worried and upset about many things, but only one thing is needed. Mary has chosen what is better, and it will not be taken away from her." 
+#end_english#
+#italiano#
+Betania -- La chiesa di Lazzaro
+La pittura rappresenta Marta mentre domanda a Gesù di dire a sua sorella Maria di aiutarla nel lavoro.
+Lo scritto sottostante la pittura cita la risposta di Gesù a Marta: "Marta, Marta, tu ti preoccupi e ti agiti per molte cose, ma una sola è la cosa di cui c'è bisogno. Maria si è scelta la parte migliore, che non le sarà tolta".
+#end_italiano#
+#espanol#
+Betania -- Iglesia de la resurrección de Lázaro
+Mosaico representando la escena de Lc 10, 38-42: la queja de Marta ante Jesús y la respuesta del Señor: "Marta, Marta, te preocupas y agitas por muchas cosas, y hay necesidad de pocas, o mejor de una sola. María ha elegido la mejor parte, que no le será arrebatada".
+#end_espanol#
+#francais#
+Béthanie -- L'église de Lazare.
+Le tableau montre Marthe demandant a Jésus de dire à Marie, sa sœur, de l'aider au travail.
+Les écritures sous le tableau citent Jésus répondant à Marthe : (Luc 10,38-42) " Tu t'inquiètes et tu t'agites pour bien des choses. Une seule est nécessaire. Marie a choisi la meilleure part, elle ne lui sera pas enlevée ".
+#end_francais#
+#deutch#
+Der Ölberg
+Wandmosaik in der römisch-katholischen Lazaruskirche in Betanien
+Die vier Arme der kreuzförmigen Lazaruskirche sind an ihren Enden mit halbkreisförmigen Mosaikbildern versehen. Vom Eingang aus links ist der Besuch Jesu bei Maria und Marta dargestellt: In einem mit naiver Liebe zum Detail ausgestalteten Ambiente sitzt Jesus im blauen Gewand - neben einem Hund. Ihm zu Füßen kauert die zuhörende Maria, während Marta ihn stehend bittet, Maria zu veranlassen, ihr bei der Arbeit zu helfen. Die Antwort Jesu gibt die lateinische Bildunterschrift: "Der Herr antwortete ihr: Marta, Marta, du machst dir viele Sorgen und Mühen."
+#end_deutch#
+
+

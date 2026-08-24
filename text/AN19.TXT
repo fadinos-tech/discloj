@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The Greek Orthodox Church of the Annunciation
+Built over the well from which the Virgin Mary used to draw water.
+#end_english#
+#italiano#
+Nazaret - La Chiesa Greca Ortodossa dell'Annunciazione 
+Internamente alla chiesa ; il corridoio verso La "Nuova Fonte" da cui Maria attingeva l'acqua .
+#end_italiano#
+#espanol#
+Nazaret - Iglesia Greco-Ortodoxa de la Anunciación o de S. Gabriel.
+En el interior de la iglesia se conserva la antigua fuente de Nazaret, donde María tomaba el agua.
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Grecque-Orthodoxe de l'Annonciation
+Dans laquelle se trouve la source d'où la Vierge tirait de l'eau.
+(Luc 1,26-38).
+#end_francais#
+#deutch#
+Nazareth
+Krypta der griechisch-orthodoxen Verkündigungs- oder Gabrielskirche
+Im Innern der Gabrielskirche führen Stufen hinunter in dieses dämmrige Gewölbe. Auf der linken Seite wird das Wasser der Quelle in einem kleinen Brunnen gefasst, aus dem häufig ein Mönch für Besucher und Besucherinnen das klare Nass schöpft. Der mit Kerzen und Öllampen geschmückte kleine Altar in Blickrichtung thematisiert mit einem großflächigen Gemälde das Geschehen der Ankündigung der Geburt Jesu an Maria.
+#end_deutch#
+
+

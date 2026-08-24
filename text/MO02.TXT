@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+10.38-42
+11.1-44
+#end_BIBLE#
+#english#
+Bethany - The Church of Lazarus
+This modern Catholic Church was built in 1952, close to the tomb of Lazarus.
+It was built upon the ruins of three old churches, in the shape of a tomb.
+#end_english#
+#italiano#
+Betania -- La chiesa di Lazzaro
+Questa moderna chiesa cattolica è stata costruita sulle rovine di tre antiche chiese, a forma di tomba, nel 1952, nei pressi della Tomba di Lazzaro.
+#end_italiano#
+#espanol#
+Betania -- Iglesia de la resurrección de Lázaro
+La actual iglesia católica fue construida por A. Barluzzi en 1952, inspirándose en el panteón de Agripa en Roma. Está construida cerca de la tumba de Lázaro, sobre las ruinas de las iglesias bizantina y cruzada.
+#end_espanol#
+#francais#
+Béthanie -- l'église de Lazare.
+Cette église catholique moderne a été construite en 1952, près de la tombe de Lazare. Elle a été construite sur les ruines de trois églises anciennes, sous la forme d'une tombe.
+#end_francais#
+#deutch#
+Der Ölberg
+Außenansicht der römisch-katholischen Lazaruskirche in Betanien
+Seit dem 4. Jahrhundert berichten Reisende von einer "Lazarium" genannten Kirche, die über einem Friedhof des 1. Jahrhunderts errichtet und im 5. Jahrhundert nach einem Erdbeben stark umgestaltet wurde. In der Kreuzfahrerzeit existierte hier ein Benediktinerinnenkloster; die byzantinische Kirche wurde restauriert, über dem Lazarusgrab eine Kapelle errichtet. Auch wenn das Dorf in der Folgezeit verlassen wurde, bewahrte die im 16. Jahrhundert erbaute Moschee das Gedenken an die auch im Islam bedeutsame Auferweckung des Lazarus. 1952 ließen die Franziskaner hier durch den populären Architekten Antonio Barluzzi eine Kirche errichten, die in ihrer Form an ein Grab erinnern soll, deren Ausgestaltung aber alle mit Betanien verbundenen Themen berücksichtigt.
+#end_deutch#
+
+

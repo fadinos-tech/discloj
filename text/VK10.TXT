@@ -1,0 +1,31 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Jerusalem - The Tomb of Jesus
+(The interior of the Church of the Holy Sepulchre)
+The tomb lies in the center of the Basilica, the sacred rock inside is covered with marble, and above it are paintings depicting the Resurrection.
+#end_english#
+#italiano#
+La Tomba di Gesù - L'interno della Basilica del Santo Sepolcro.
+La Tomba è situata al centro della Basilica, la sacra roccia dentro è coperta di marmo e sopra ci sono le pitture che raffigurano la Risurrezione.
+#end_italiano#
+#espanol#
+Jerusalén
+Tumba Vacía de Jesús -- Basílica del Santo Sepulcro.
+La Tumba de Jesús es el centro de la Basílica. Un incendio en 1808 destruyó el anterior Monumento o Edículo de la Resurrección, y un terremoto en 1927 desequilibró el nuevo, que aún continúa apuntalado. La Tumba está recubierta por una losa de marmol desde 1555.
+#end_espanol#
+#francais#
+Jérusalem 
+Le tombeau de Jésus – intérieur de la Basilique du Saint Sépulcre.
+Le tombeau se trouve au centre de la Basilique; la pierre sacrée à l'intérieur est recouverte de marbre, et au-dessus se trouvent des peintures représentant la Résurrection.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche (Das Grab)
+Das Grab befindet sich im Zentrum der Basilika. Der Heilige Felsen darin ist mit Marmor bedeckt; darüber sind Bilder zu sehen, die die Auferstehung darstellen.
+#end_deutch#
+
+

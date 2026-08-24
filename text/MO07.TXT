@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+NONE
+11.1-54
+#end_BIBLE#
+#english#
+Ephraim
+Also called Taybeh, it is located 20 kilometers to the north of Jerusalem. 
+After Jesus had raised Lazarus from the dead, he withdrew to Ephraim, where he stayed with his disciples.
+#end_english#
+#italiano#
+Efraim
+Il luogo, chiamato anche Taybe,a 20 kilometri a nord di Gerusalemme.
+Dopo la risurrezione di Lazzaro,Gesù si ritirato ad Efraim con i suoi discepoli.
+#end_italiano#
+#espanol#
+Efraím.
+El lugar llamado hoy Taybe, a 20 km. al norte de Jerusalén, es el Efraím del Evangelio, adonde se retiró Jesús con sus discípulos durante un tiempo después de la resurrección de Lázaro, y antes de su Pasión.
+#end_espanol#
+#francais#
+Ephraïm
+Appelé aussi Taïbeh, et situé à 20 km au nord de Jérusalem.
+Après que Jésus ait ressuscité Lazare, il s'est retiré à Ephraïm, où il est resté avec ses disciples.
+#end_francais#
+#deutch#
+Efraim Gesamtansicht
+Das Bergland nördlich und südlich von Jerusalem, das häufig mit den biblischen Stammesnamen Efraim, Benjamin oder Juda bezeichnet wird, war schon in alter Zeit für die Entwicklung des alttestamentlichen Volkes Israel von großer Bedeutung. Eine Stadt namens Efraim wird nur einmal im Neuen Testament erwähnt, wo es heißt, dass Jesus sich nach der Auferweckung des Lazarus und dem Beschluss des Hohen Rates, ihn zu töten, mit seinen Jüngern dorthin zurückzog. Dieses Efraim wird heute mit dem palä ' stinensisch-christlichen Ort Taibe identifiziert.
+Das Städtchen liegt etwa 30 Kilometer nördlich von Jerusalem in fruchtbarer Gegend und kann auf eine mindestens 5000 Jahre alte Geschichte zurückblicken. Neben verschiedensten dementsprechenden Spuren finden sich in Taibe die Reste mehrerer byzantinischer und kreuzfahrerischer Kirchen, eine Burgruine der Kreuzfahrer, eine griechisch-orthodoxe Kirche und die im Bild sichtbare 1964 errichtete römischkatholische Kirche.
+#end_deutch#
+
+

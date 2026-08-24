@@ -1,0 +1,36 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Via Dolorosa - Thirteenth Station of the Cross (2)
+Jesus is taken down from the Cross.
+In the entrance of the Church of the Holy Sepulchre lies the stone of Unction where the Virgin Mary received the body of her son after he had been taken down from the Cross. Here, Jesus' body was anointed with a mixture of myrrh, aloe and aromatic oils.
+#end_english#
+#italiano#
+Via Dolorosa -- Tredicesima Stazione (2)
+"Il corpo di Gesù è deposto dalla Croce". 
+La Basilica del Santo Sepolcro.
+La pietra dell'Unzione dove la Vergine Maria ha ricevuto il corpo del suo figlio dopo averlo deposto dalla Croce. Il corpo di Gesù è stato deposto sulla pietra dell'unzione. 
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Decimotercera Estación (2).
+"El cuerpo de Jesús es bajado de la Cruz"
+Basílica del Santo Sepulcro.
+La Piedra de la Unción conmemora especialmente la recepción del cuerpo de Jesús por María su Madre, y la unción del cadáver con los ungüentos propios, según las costumbres judías, generalmente una mezcla de áloe y mirra.
+#end_espanol#
+#francais#
+Via Dolorosa – La treizième station du Chemin de la Croix 
+Jésus est descendu de la croix.
+Basilique du saint Sépulcre.
+La Vierge Marie a reçu le corps de son fils, après qu'il ait été descendu de la croix. Le corps de Jésus a été déposé sur la pierre de l'onction et embaumé avec un mélange de myrrhe, d'aloès, et d'huiles aromatiques.
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die dreizehnte Station des Kreuzweges (2)
+"Jesus wird vom Kreuz abgenommen."
+Diese Station befindet sich bereits innerhalb der Grabeskirche. Nach griechisch-orthodoxer Tradition wird an diesem "Salbungsstein" der Kreuzabnahme Jesu gedacht. Maria nahm den Leichnam ihres Sohnes entgegen, der anschließend mit einer Mischung aus Myrrhe, Aloe und wohlriechenden Ölen gesalbt wurde.
+#end_deutch#
+
+

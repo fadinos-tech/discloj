@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+The Basilica of the Annunciation
+(View from the south-west (8))
+#end_english#
+#italiano#
+Nazaret 
+La Chiesa dell'Annunciazione 
+[ Vista del sud-ovest , (8) ]
+#end_italiano#
+#espanol#
+Nazaret
+Basílica dela Anunciación
+Vista de la fachada sud-oeste, (8) 
+#end_espanol#
+#francais#
+Nazareth
+L'église de l'Annonciation. 
+[Une vue du côté sud-ouest(8)].
+#end_francais#
+#deutch#
+Nazareth - Südostansicht der Verkündigungsbasilika
+Die Perspektive aus den südöstlichen Gartenanlagen zeigt eine Längsseite der Verkündigungsbasilika, nämlich die Südfassade. Die wuchtige Front, die die Größe des Baukomplexes deutlich werden lässt, ist durch ein vorgezogenes Portal gegliedert, das Maria gewidmet ist.
+#end_deutch#

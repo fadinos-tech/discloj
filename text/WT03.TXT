@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha
+The Sanctuary of the Primacy of Peter (View of the western  side of the chapel)
+In 1982, the architect Alberto P. Prodomo restored in front of the gate a semi-amphitheater structure, which had an altar for liturgical celebrations at its center.
+#end_english#
+#italiano#
+Il Santuario del Primato di Pietro. [ Una vista all'ovest della capella ]
+Nel 1982, l'architetto Alberto P. Prodomo , ha restaurato davanti al portone una costruzione simile ad un anfiteatro centrato da un altare per le cerimonie liturgiche.
+#end_italiano#
+#espanol#
+Tabgha.
+Santuario del Primado de Pedro. Vista oeste de la capilla
+Un pequeño anfiteatro con un altar central permite las celebraciones litúrgicas o reuniones para la oración ante la vista del Lago, la Capilla y el grupo escultórico del Primado.
+#end_espanol#
+#francais#
+Tabgha
+Le Sanctuaire de la Primauté de Pierre. [ vue du sud de chapelle ] 
+En 1982 L'architecte Alberto P. Prodomo, a restauré en face du portail, un semi-amphithéâtre dont le centre comportait un autel pour les célébrations liturgiques.
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Westansicht)
+Im Jahr 1982 restaurierte der Architekt Alberto P. Prodomo im Eingangsbereich eine amphitheater-ähnliche Struktur, die mit einem Altar in der Mitte für liturgische Feiern genutzt werden kann.
+#end_deutch#
+
+

@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+Eighteen huge columns support the dome which is 30 meters high, and 19.8 meters in diameter. They surround the Holy Tomb situated in the center of their circle.
+#end_english#
+#italiano#
+Gerusalemme -- Basilica del Santo Sepolcro
+18 enormi colonne sostengono la grande cupola che è di 30 metri di alezza, e 19.8 metri di diametro. Essi circondano la Santa Tomba che è al centro del cerchio.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+18 grandes columnas sostienen la gran cúpula del santo Sepulcro, que tiene 30 metros de alto y 19,8 de diámetro. En el centro de la rotonda, o "Anástasis", está el Edículo de la Resurrección o Tumba Vacía de Cristo.
+#end_espanol#
+#francais#
+Jérusalem -- Basilique du Saint Sépulcre.
+Dix-huit colonnes énormes supportent le dôme qui a plus 30 mètres de haut, et 19.8 mètres de diamètre. Elles entourent le Saint Tombeau qui est au centre du cercle.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Achtzehn große Säulen tragen die Kuppel, die 30 m hoch ist und einen Durchmesser von 19,8 m aufweist. Sie umgeben das Heilige Grab im Zentrum der Rotunde.
+#end_deutch#
+
+

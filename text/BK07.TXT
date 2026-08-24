@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+1.57-80
+NONE
+#end_BIBLE#
+#english#
+Ein Karem - St. John's Church 
+Inside the church, the grotto where John the Baptist was born. The writing above is the beginnig of Zachariah's Song.
+#end_english#
+#italiano#
+Ain Karem -- La chiesa di San Giovanni
+All'interno della chiesa ,la grotta dove San Giovanni Battista è nato. La scritta sopra è l'inizio del cantico di Zeccaria.
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de San Juan
+Interior de la iglesia. Gruta del Nacimiento de S. Juan Bautista, con el Cántico de Zacarías, o "Benedictus".
+#end_espanol#
+#francais#
+Ein Karem – L'église Saint Jean 
+A l'intérieur de l'église, la grotte où Jean Baptiste est né.
+L'inscription, au-dessus, est le début du cantique de Zacharie.
+#end_francais#
+#deutch#
+En Karem - Geburtsgrotte in der Johanneskirche
+Vom linken Seitenschiff der Johanneskirche führen Stufen hinunter zur sogenannten Geburtsgrotte. Deren Decke zeigt den nackten Fels; die Seitenwände sind marmorverkleidet und stellen Szenen aus dem Leben Johannes des Täufers dar. Der marmorne Altar aus Livorno wurde von Isabella von Spanien gestiftet. Das Spruchband gibt auf Lateinisch den Anfang des Benedictus, des Lobgesangs des Zacharias, wieder: "Gepriesen sei der Herr, der Gott Israels, denn er hat [sein Volk] besucht und [ihm Erlösung] geschaffen ..." Schon die Geburt des Vorläufers Jesu steht unter bedeutungsvollen Vorzeichen: Seine alte Mutter Elisabet gilt als unfruchtbar und empfängt dennoch ein Kind. Sein Vater Zacharias glaubt dem Engel im Tempel, der ihm die Geburt eines Sohnes verheißt, der das Volk zum Heil führen soll, nicht. Zacharias bleibt stumm, bis er dem Kind den vom Engel verkündeten Namen und damit seine Zustimmung zu Gottes Handeln gibt.
+#end_deutch#
+
+

@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - Basilica of the Annunciation
+Inside the Grotto of the Virgin Mary where the Archangel Gabriel announced to her that she would become the mother of Jesus.
+#end_english#
+#italiano#
+Nazaret -  La Basilica dell'Annunciazione 
+All'interno, la Grotta dove l'Angelo Gabriele ha annuciato al Vergine che, sarebbe diventata la madre del Signore per opera dello Spirito Santo.
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación 
+Altar de la Gruta o Casa de la Virgen
+#end_espanol#
+#francais#
+Nazareth La Basilique de l'Annonciation. 
+L'intérieur de la Grotte de la Vierge Marie où l'Ange Gabriel lui annonça qu'Elle serait mère par la puissance du Saint-Esprit.
+#end_francais#
+#deutch#
+Nazareth - Verkündigungsgrotte in der Verkündigungsbasilika
+Der Blick in das Innere der Verkündigungsgrotte lässt erkennen, dass es sich hier wirklich um eine ursprünglich natürliche Höhle handelt. Stufen im Hintergrund führen zu weiteren Höhlen, die auch außerhalb der Verkündigungsbasilika in einem archäologischen Areal zu besichtigen sind. Der Altar stammt aus der Franziskanerkirche des 18. Jahrhunderts und macht mit seiner lateinischen Inschrift die Menschwerdung Gottes mit der Zusage Marias an einem konkreten Ort fest: "Hier ist das Wort Fleisch geworden".
+#end_deutch#
+
+

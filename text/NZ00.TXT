@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jerusalem
+One of the world's most famous cities. Jerusalem is situated high in the hills of Judah, about 50 kilometers from the Mediterranean, and over 30 kilometers west of the northern end of the Dead Sea. To the east lies the Mount of Olives. Access to the city is difficult from all directions except from the north, since it is hampered by three deep ravines. The eastern one is the Kidronvalley,  the western one is called Wadi al-Rababi, and the third one, the central or transversal valley, cuts the city in half. This city witnessed the most important and holy events of the New Testament, the last days of Jesus, the last of his teachings, his torture, his death and his ressurection.
+#end_english#
+#italiano#
+Gerusalemme
+Una delle più famose città nel mondo,la città è situata sulle colline della Gudea,circa 50 kilometri dal Mare Mediterraneo,e più di 30 kilometri a ovest del limite nord del Mare morto. all'est è situata la cresta del monte degli Ulivi. L'accesso alla città è intralciato da tutte le parti da 3 profondi abissi, che si incontrano nella valle di Siloam ,vicino alla fonte Bir Eyyub, al sud-est della città. La valle all'est è Kidron;quella all'ovest è chiamata Wadi al-Rababi. La terza taglia la città a metà prima di andare verso il sud, e un pò all'est, per incontrare le altre due. Questa città ha testimoniato i più importanti e sacri eventi del nuovo testamento, gli ultimi giorni di Gesù, la fine dei suoi insegnamenti, la sua tortura, la sua morte e risurrezione.
+#end_italiano#
+#espanol#
+Jerusalén
+Jerusalén es una de las ciudades más famosas y conocidas del mundo. Se encuentra en medio de la montaña de Judá, a 786 m. de altura, distante 55 km del Mar Mediterráneo y 30 del Mar Muerto. La ciudad amurallada ocupa varias colinas (Gareb, Sión, Moria y Ofel) rodeadas por dos torrentes: el Cedrón, que lo separa del Monte de los Olivos (812 m.), y el Hinnom (la "Gehenna"). La ciudad fue conquistada por David a los jebuseos hacia el año 1000 a.J.C. Es llamada "la Ciudad Santa" por las tres religiones monoteístas: cristiana, musulmana y judía, pero es innegable que la fisonomía principal de la ciudad es intensamente cristiana (el Santo Sepulcro, el Cenáculo, el Monte Sión, Getsemaní y el Monte de los Olivos, Sta. Ana, la Vía Dolorosa, los barrios cristiano y armenio, la arquitectura de los cruzados, etc.). El Muro del Llanto es el lugar santo para los judíos, como las Mezquitas de la Roca y El-Aqsa lo es para los musulmanes. Los últimos días de Jesús, su Pasión, Muerte y Resurrección, su Ascensión y la venida del Espíritu Santo, tuvieron lugar en Jerusalén.
+#end_espanol#
+#francais#
+Jérusalem
+Une des plus célèbres villes du monde. La ville est construite sur les hauteurs des montagnes de Judée, à environ 50 Km de la Méditerranée, et à 30 Km a l'ouest de l'extrémité nord de la Mer Morte. A l'est une étendue d'oliviers. L'accès à la ville se fait de tous les côtés, sauf par le nord, gêné par trois profonds ravins, qui se rejoignent dans la vallée de Siloè, près du puits Bir Eyyub, au sud-est de la ville.
+A l'est la vallée du Cédron, à d'ouest la vallée qu'on appelle maintenant Wadi Al Rababi. La troisième coupe la ville en deux, avant de courir vers le sud, et légèrement a l'est, pour rencontrer les deux autres. Cette ville fut témoin des saints les plus importants du Nouveau Testament, des derniers jours de Jésus, de ses derniers enseignements, de sa passion, de sa mort et de sa Résurrection. 
+#end_francais#
+#deutch#
+Jerusalem - Die Altstadt
+Jerusalem ist eine Stadt ganz eigenartiger Berühmtheit: heilig für Juden, Christen und Muslime, faszinierend für Tausende von Besuchern, politisch unverzichtbar für alle Einheimischen Israels und Palästinas.
+Die 4000 Jahre alte Stadt liegt knapp 800 Meter hoch in den judäischen Bergen, 50 Kilometer östlich des Mittelmeeres und 30 Kilometer westlich des Nordendes des Toten Meeres. Die heutige Altstadt und ihre sich südlich anschließende Keimzelle sind von drei tiefen Tälern umgeben und gegliedert, die südöstlich der ursprünglichen Siedlung, der sogenannten Davidsstadt, zusammenlaufen. Östlich der Altstadt erstreckt sich das Kidrontal, das die Stadt vom Ölberg trennt, die Abgrenzung zur westlichen Neustadt und nach Süden bildet das Wadi ar-Rababa oder Hinnomtal. Das dritte nord-südlich verlaufende Tal, das Tyropoiontal, teilt die Altstadt in zwei Hälften.
+Verallgemeinernd lässt sich sagen, dass die Stadt sich von ihrer Keimzelle im Süden und dem nördlich anschließenden Tempelberg aus im Laufe der Geschichte immer weiter nach Norden verschoben hat. Der im Bild sichtbare nördliche Teil der Altstadt mit dem Ort von Kreuzigung und Auferstehung Jesu befand sich daher damals noch außerhalb der Stadtgrenzen. Hier ist er an der großen grauen und der kleinen schwarzen Kuppel der sogenannten Grabes- oder Auferstehungskirche (= Anastasis) zu erkennen.
+Die Gebäudemauern unmittelbar am unteren Bildrand grenzen an den Tempelplatz der Zeit Jesu, den heutigen muslimischen Haram eschScharif Die Hochhäuser im Hintergrund gehören bereits zur jüdischen Neustadt.
+#end_deutch#

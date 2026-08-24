@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+23.27-31
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Eighth Station of the Cross
+Jesus consoles the women of Jerusalem.
+This station is marked by a Latin Cross hewn into the stonewall of the Greek Monastery of St. Charalambos. The wall aslo bears the inscription: "Jesus Christ is victorious."
+#end_english#
+#italiano#
+Via Dolorosa -- Ottava stazione:
+"Gesù consola le donne di Gerusalemme".
+Questa Stazione è indicata da una Croce latina,incisa su uno dei muri del monastero greco di S. Caralambos, con l'iscrizione " Cristo Vince ".
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Octava Estación:
+"Jesús consuela a las mujeres de Jerusalén".
+Una cruz latina en el exterior del convento ortodoxo de S. Caralambos, con la inscripción "Cristo Vence" señala la Octava Estación.
+#end_espanol#
+#francais#
+Via Dolorosa – La huitième station du Chemin de la Croix
+Jésus console les femmes de Jérusalem.
+Cette station est marquée par une croix Latine sculptée dans la pierre du mur du monastère grec orthodoxe St Charalambos, et sur la pierre, il y a aussi une inscription où l'on peut lire " Jésus Christ est vainqueur ".
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die achte Station des Kreuzweges
+"Jesus tröstet die weinenden Frauen von Jerusalem."
+Diese Station ist durch ein Lateinisches Kreuz auf einem Stein am griechischen Karalamboskloster gekennzeichnet. Auf dem Stein ist die fragmentarische Inschrift: "Jesus Christus siegt" zu lesen.
+#end_deutch#
+
+

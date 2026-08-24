@@ -1,0 +1,29 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+The Garden of Gethsemane. In this garden there are eight olive trees which - according to scientific estimates - are over 2000 years old. Here Jesus was arrested.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+Il giardino del Getsemani, nel giardino ci sono otto alberi d'ulivo che secondo una stima sono di oltre 2000 anni. Qui Gesù è stato arrestato.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní 
+Huerto de los Olivos. Aún se conservan ocho milenario olivos que, según estimaciones de algunos botánicos podrían tener 2000 años de vida y, por tanto, ser testigos del prendimiento de Jesús en este lugar.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+Le jardin de Gethsemani, dans ce jardin se trouvent huit oliviers, qui, selon des estimations scientifiques, ont plus de 2000 ans. Ici Jésus a été arrêté comme il est écrit dans.
+#end_francais#
+#deutch#
+Der Ölberg
+Garten neben der Kirche der Nationen in Getsemani
+Eine sehr kultivierte Gartenanlage neben der Kirche beherbergt acht großgewachsene Olivenbäume. Ihr zweifellos hohes Alter löst immer wieder eine kontroverse Diskussion aus: Botanisch könnten sie möglicherweise in die Zeit Jesu zurückreichen, was sich aber nicht sicher nachweisen lässt. Darüber hinaus ist es fraglich, ob sie die Belagerung Jerusalems durch die Römer im Jahre 70 n. Chr., bei der zahllose Olivenbäume gefällt wurden, überlebt hätten. Pilger berichten von diesen acht Bäumen erst seit dem 15. Jahrhundert; die Tradition eines "Ölgartens" stammt allerdings aus dem 4. Jahrhundert. Auf jeden Fall ist der Garten ein Versuch, trotz aller Tourismus-Hektik die ursprüngliche Natürlichkeit der Gegend nicht zu vergessen.
+#end_deutch#
+
+

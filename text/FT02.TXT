@@ -1,0 +1,33 @@
+#BIBLE#
+17.1-13
+9.2-13
+9.28-36
+NONE
+#end_BIBLE#
+#english#
+Mount Tabor
+A front view of the Basilica of the Transfiguration (built 1921).
+This is the site of the Transfiguration of Christ, witnessed by his disciples Peter and James, and by John, the brother of James.
+#end_english#
+#italiano#
+Monte Tabor
+Qui Gesù è trasfigurato davanti ai discepoli Pietro ,Giacomo e Giovanni, suo fratello.
+Basilica della Trasfigurazione costruita nel 1921. [ vista frontale 1 ]
+#end_italiano#
+#espanol#
+Monte Tabor
+En el "monte santo" (2Pe 1,18), que la tradición ha identificado con el Tabor, Jesús se transfiguró ante los Apóstoles Pedro, Santiago y Juan.
+( vista frontal 1 )
+#end_espanol#
+#francais#
+Mont Thabor
+Sur cette montagne, Jésus a été transfiguré devant ses disciples Pierre, Jacques et Jean le frère de Jacques.
+La Basilique de la Transfiguration a été construite en 1921. [devant la vue 1]
+#end_francais#
+#deutch#
+Der Berg Tabor
+Frontansicht der römisch-katholischen Verklärungsbasilika
+Die 1924 vollendete Verklärungsbasilika ist ein Frühwerk des prominentesten Architekten christlicher Kirchen dieses Jahrhunderts im Heiligen Land, Antonio Barluzzi. Innen wie außen nimmt sie unübersehbar Formen der bedeutenden syrischen Kirchenbautradition des 6. Jahrhunderts auf. Das biblische Motiv, dass Jesus in seiner Verklärung mit Mose und Elija zusammentrifft und seine hilflosen Jünger drei Hütten bauen wollen, findet in der mehrfach vorkommenden Dreizahl Aufnahme. Außerdem beherbergen die beiden vorspringenden Türme zum einen eine Mose-, zum anderen eine Elija-Kapelle.
+#end_deutch#
+
+

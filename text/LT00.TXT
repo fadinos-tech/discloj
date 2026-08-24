@@ -1,0 +1,35 @@
+#BIBLE#
+14.13-21
+6.30-44
+NONE
+6.1-13
+#end_BIBLE#
+#english#
+Tabgha
+The Basilica of the First Feeding of the Multitude.
+The rock on which Jesus had laid the loaves of bread and fish, was turned into an altar and around it this church was erected.
+Today's new Basilica was constructed on the foundations of the old Byzantine church (built 450 A.D., rediscovered around 1750), preserving its style and incorporating all antique elements that had been found.
+#end_english#
+#italiano#
+Tabgha
+La chiesa della prima moltipicazione del pane.
+La roccia su cui Gesù ha posato il pane e i pesci, è diventata un altare e attorno a se è stata eretta questa chiesa.
+Questa nuova Basilica è stata costruita sulle fondamenta della vecchia chiesa Bizantina ( costruita 450 A.D. e nascosta per più di 1300 anni ) conservando il suo stile e incorporando tutti gli elementi antichi che sono stati trovati.
+#end_italiano#
+#espanol#
+Tabgha
+Iglesia de la Multiplicación de los Panes y los Peces.
+Debajo del altar está lo roca sobre la que el Señor -según la tradición- hizo el milagro de la multiplicación. Una primera iglesia bizantina se construyó en este lugar en el siglo IV, destruida por los persas en el VII, llegando a perderse la memoria del lugar. Fue descubierta en 1911 y edificada la actual sobre los importantes restos bizantinos en 1982.
+#end_espanol#
+#francais#
+Tabgha 
+L'église de la Multiplication des Pains
+La pierre sur la quelle Jésus a déposé les pains et les poissons, est devenue un autel, et par-dessus a été érigée une église. 
+Cette nouvelle basilique a été construite sur les fondations d'une ancienne église byzantine (construite en 450 après Jésus Christ, et restée enfouie pendant plus de 1300 ans) en préservant le style et en y incorporant tous les éléments antiques qui ont été découverts.
+#end_francais#
+#deutch#
+Tabgha - Gesamtansicht der Kirche der Brotvermehrung
+14 Kilometer nördlich von Tiberias und 2 Kilometer westlich von Kafarnaum befindet sich am Ufer des Sees Gennesaret das Gebiet von Tabgha, das mit seinem griechischen Namen Heptapegon, "Siebenquell", gut die landschaftliche Situation mit ihrer üppigen Vegetation beschreibt. Obwohl das Johannesevangelium einen Ort am Ostufer des Sees beschreibt, hat die Pilgertradition das Wunder der Brotvermehrung, von dem die Evangelien in verschiedenen Varianten berichten, bereits im 4. Jahrhundert hier verortet. Schon in dieser Zeit wurde in Tabgha ein Stein verehrt, auf den Jesus das Brot gelegt haben soll, und eine kleine Kirche errichtet. Im 5. Jahrhundert entstand die größere Anlage einer dreischiffigen byzantinischen Basilika mit prachtvollen Mosaikböden, die nach 614 verlassen wurde und 1300 Jahre unbekannt blieb. Nach Ausgrabungen seit Beginn des 20. Jahrhunderts errichtete der "Deutsche Verein vom Heiligen Land" hier 1982 eine Basilika mit vorgelagertem Atrium, die eine möglichst originalgetreue Nachbildung des Kirchenbaus des 5. Jahrhunderts und der zeitgleichen christlichen Kirchen der Negev Wüste darstellt. Deutsche Benediktiner betreuen die Kirche und die angeschlossene Jugendbegegnungsstätte.
+#end_deutch#
+
+

@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+16.12-13
+24.13-49
+NONE
+#end_BIBLE#
+#english#
+Emmaus - El Qubeibeh
+A village, 11 kilometers from Jerusalem. Cleopas and another disciple where on their way to Emmaus, when the risen Christ appeared to them. The church of Emmaus was built in 1901 upon the ruins of a church from the times of the Crusaders. Near the church are the ruins of the house of Cleopas.
+#end_english#
+#italiano#
+Emmaus - El Qubeibeh
+Un villaggio,a 11 kilometri da Gerusalemme,ricorda il famoso incontro di Gesù coi discepoli di di Emmaus, Gesù si accostò a loro dopo la sua risurrezione. La chiesa di Emmaus è stata costruita nel 1901 sulle rovine di una chiesa dall'epoca dei Crociati. Vicino alla chiesa sono state ritrovate le rovine della casa di Cleopa.
+#end_italiano#
+#espanol#
+Emaús-El Qubeibeh
+Uno de los tres lugares que pueden corresponder al Emaús del Evangelio, donde Cristo resucitado se apareció a los dos discípulos en la tarde misma del domingo de Resurrección, es la actual aldea de El-Qubeibeh, 11 km al N-O de Jerusalén, a la misma distancia que indica Lucas.
+La iglesia actual se edificó en 1901 sobre las ruinas de otra de los cruzados, que guarda en su interior restos de una vivienda venerada desde antiguo como la casa de Cleofás, uno de los dos discípulos a quienes de manifestó Jesús, y en la cual tuvo lugar la cena que cuenta el evangelista Lucas.
+#end_espanol#
+#francais#
+Emmaüs -- Eglise d'Emmaüs
+Un village à 11 km de Jérusalem, ou se rendaient Cléophas et un autre disciple, quand Jésus leur est apparu, après sa Résurrection. L'église d'Emmaüs a été construite en 1901 sur les ruines d'une zone appartenant aux Croisés, et près de l'église ont été trouvées les ruines de la maison de Cleophas.
+#end_francais#
+#deutch#
+Emmaus / El Qubeibeh
+El Qubeibeh liegt 11 km nordwestlich von Jerusalem. Es gilt als das biblische Emmaus, zu dem Kleopas und ein weiterer Jünger unterwegs waren, als ihnen Jesus nach seiner Auferstehung erschien. Die Kirche von Emmaus wurde 1901 auf den Ruinen einer Kirche der Kreuzfahrerzeit gebaut. In sie sind Ruinen eines antiken Hauses, des "Hauses des Kleopas" einbezogen.
+#end_deutch#
+
+

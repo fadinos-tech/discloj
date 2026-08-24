@@ -1,0 +1,37 @@
+#BIBLE#
+NONE
+NONE
+2.1-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - Night view
+The name "Beth-Lehem" means "House of Bread."
+The town is situated 9 kilometers south of Jerusalem. 
+It was here, where Jesus was born and where he was adored by the shepherds and the Magi.
+#end_english#
+#italiano#
+Betlemme - Vista di notte
+Il significato del nome "Bet-Lemme" è , "Casa del pane" (in ebraico).
+La città è situata a 9 chilometri a sud di Gerusalemme.
+Gesù è nato qui, e qui è stato adorato dai pastori e dai magi. 
+#end_italiano#
+#espanol#
+Belén - Vista nocturna.
+El nombre "Belén" significa "casa del pan".
+La ciudad se encuentra 9 kilómetros al sur de Jerusalén.
+Aquí nació Jesús  y fue adorado por los pastores y los Magos.
+#end_espanol#
+#francais#
+Bethléem – Vue De Nuit
+Le mot " Beth – Lechem " signifie " La Maison du Pain ". 
+Cette ville est située a 9 km au sud de Jérusalem.
+Jésus est né là, et l'histoire des mages et des bergers s'est déroulée ici.
+#end_francais#
+#deutch#
+Betlehem - Nachtansicht
+Betlehem liegt 9 Kilometer südlich des antiken Jerusalem und etwa 800 Meter hoch im Bergland von Judäa. Damit befindet es sich zwar auf fruchtbarem Boden, ist aber auch nicht weit von unwirtlichen Wüstengegenden entfernt. Auch wenn sein Name sich wissenschaftlich von anderen Wurzeln ableitet, bedeutet er auf Hebräisch "Haus des Brotes", auf Arabisch "Haus des Fleisches", was daran erinnern mag, dass sich Betlehems antike Bevölkerung hauptsächlich von Ackerbau und Viehhaltung ernährte. Auch für die heutigen 40.000 palästinensischen Einwohner (62 % Muslime; 38 % Christen) sind die Landwirtschaft und zusätzlich der Tourismus die wichtigsten Wirtschaftsfaktoren. Im Dezember 1995 wurden Betlehems Autonomie und das Ende der israelischen Besatzung gefeiert.
+Betlehems Geschichte geht zweifellos bis in die Steinzeit zurück; archäologisch und biblisch wird es um 1000 v. Chr. greifbar. Für das Alte Testament ist Betlehem die Wahlheimat der Stammmutter Rut und der Ort der Salbung Davids zum König. Im Anschluss daran konzentrieren sich die jüdischen Hoffnungen auf einen neuen davidischen Herrscher und Messias aus Betlehem. In dieser Tradition steht das Neue Testament, wenn es hier die Geburt Jesu verortet und mit ihr die Anbetung des Christus-Messias durch Wissenschaftler aus dem Ausland (die Sterndeuter aus dem Osten) und einfache, einheimische Menschen (die Hirten) in Verbindung bringt.
+#end_deutch#
+
+

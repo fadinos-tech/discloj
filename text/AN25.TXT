@@ -1,0 +1,39 @@
+#BIBLE#
+1.18-25;2.19-23
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church 
+Above the altar, a painting depicts the carpenter's workshop. 
+The birth of Jesus - [Matthew 1,18-25]
+The return to Nazareth - [Matthew 2,19-23]
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+La falegnameria , pittura sopra l'altare. [ dentro (2) ]
+( Un angelo del Signore appare a Giuseppe nel sogno
+Matteo 1,18-25 -- La nascita di Gesù
+Matteo 2,19-23 -- Il ritorno a Nazaret )
+#end_italiano#
+#espanol#
+Nazaret - Iglesia de S. José
+"El taller del carpintero", pintura sobre el altar.
+( Un ángel del Señor habla a José en sueños
+    Mateo 1,18-25--El Nacimiento de Jesús.
+    Mateo 2,19-23--El Regreso a Nazaret. )
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Saint Joseph.
+Une peinture de la Sainte Famille au dessus de l'autel.
+(Un Ange du Seigneur apparaît a Joseph en rêve
+Mathieu 1,18-25 - La naissance de Jésus-Christ 
+Mathieu 2,19-23 - Le retour a Nazareth)
+#end_francais#
+#deutch#
+Nazareth - Apsisfresko der Josefskirche
+Die schlichte, neoromanische Kirche wurde erst 1952 in den Apsiden mit Josefsmotiven ausgemalt. Die hier abgebildete Hauptapsis zeigt die Heilige Familie: Maria, Jesus und Josef. In der rechten Seitenapsis ist Josef dargestellt, dem im Traum ein Engel erscheint, der ihn vor König Herodes warnt. Die linke Seitenapsis geht über die biblischen Erzählungen hinaus und zeigt Josef, wie er in den Armen Jesu und Marias stirbt.
+#end_deutch#
+
+

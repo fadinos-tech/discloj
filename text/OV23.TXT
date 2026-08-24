@@ -1,0 +1,28 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+A part of a large mosaic depicting Jesus laid out on the stone of Unction.
+#end_english#
+#italiano#
+Gerusalemme -- Basilica del Santo Sepolcro
+Una parte del mosaico rappresenta la deposizione di Gesù.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro.
+Detalle del gran mosaico situado a la entrada de la Basílica, tras la Piedra de la Unción, representando el hecho que aquí se conmemora: la  recepción del cuerpo de Jesús por María su Madre, y la unción del cadáver con los aromas.
+#end_espanol#
+#francais#
+Jérusalem -- Basilique du Saint Sépulcre.
+Une partie de cette grande mosaïque montre Jésus après la descente de la Croix, déposé sur la pierre de l'Onction.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Dieser Ausschnitt eines großflächigen, modernen Mosaiks zeigt Jesus, wie er auf den Salbungsstein gelegt wird, nachdem er vom Kreuz abgenommen wurde.
+#end_deutch#
+
+

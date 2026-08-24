@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - St. Mary (Interior)
+Here, the Virgin Mary, mother of Christ, was buried before her Ascension.
+(The entrance to the tomb.)
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Chiesa di Santa Maria (Dentro la chiesa)
+Qui la Vergine Maria, madre di Cristo è stata sepolta e poi assunta.
+( L'ingresso alla tomba ).
+#end_italiano#
+#espanol#
+Monte de los Olivos. Tumba de la Virgen (interior de la iglesia)
+Según una tradición antiquísima, aquí fue depositado el cuerpo de la Virgen y tuvo lugar su Asunción a los cielos.
+#end_espanol#
+#francais#
+Mont des Oliviers – L'église Ste Marie (Intérieur)
+Ici la Vierge Marie, mère du Christ, a été déposée puis élevée au ciel. (L'entrée de la tombe).
+#end_francais#
+#deutch#
+Der Ölberg - Die Marienkirche (Das Innere)
+Nach orthodoxer Tradition wurde hier die Jungfrau Maria begraben und in den Himmel aufgenommen. Der Eingang in die Grabkammer ist zu sehen.
+#end_deutch#
+
+

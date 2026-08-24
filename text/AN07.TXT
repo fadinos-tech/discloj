@@ -1,0 +1,34 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+The Basilica of the Annunciation
+(A front view (7))
+#end_english#
+#italiano#
+Nazaret 
+La Chiesa dell'Annunciazione
+[ Vista di fronte, (7) ]
+#end_italiano#
+#espanol#
+Nazaret
+Nazaret
+Basílica dela Anunciación
+Vista del frente. (7) 
+#end_espanol#
+#francais#
+Nazareth
+L'église de l'Annonciation. 
+[Une vue de la façade(7)].
+#end_francais#
+#deutch#
+Nazareth - Westfassade der Verkündigungsbasilika
+Die drei tiefen Portale führen zu drei Bronzetüren des Münchener Künstlers Roland Friedrichsen und seitlich in das Innere der Unterkirche.
+Die Fassade selbst zeigt die Komposition zum Thema "Menschwerdung Gottes": Christusstatue auf dem Giebel; darunter im Flachrelief Engel und Maria; darunter die vier Evangelisten; seitlich alttestamentliche Verse; in rotem Sandstein Schriftzüge und kosmische Zeichen.
+#end_deutch#
+
+

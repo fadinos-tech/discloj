@@ -1,0 +1,39 @@
+#BIBLE#
+4.1-11;20.29-34
+1.12-13;10.46-52
+4.1-13;19.1-10;18.35-42
+NONE
+#end_BIBLE#
+#english#
+Jericho (2)
+A small city close to the Jordan river, situated 38 kilometers to the East of Jerusalem.
+After he was baptized in the Jordan river, Jesus was led here by the Holy Spirit to be tempted by the devil. [Matthew 4,1-11; Mark 1,12-13; Luke 4,1-13]
+Here, Jesus met Zacchaeus the tax collector and stayed at his house. [Luke 19,1- 10]
+Jericho also witnessed Christ's healing of blind men. [Matthew 20,29-34, Mark 10,46-52, Luke 18,35-42]
+#end_english#
+#italiano#
+Gerico [2]
+Una piccola città vicino al Giordano , 38 chilometri al nord-est di Gerusalemme.
+Gesù è stato condotto qui dallo Spirito Santo dopo il suo battesimo, nel Giordano, per essere tentato dal diavolo. [Matteo 4,1-11 ; Marco 1,12-13 ; Luca 4,1-13 ]
+Qui Gesù ha incontrato Zaccheo il pubblicano ed è rimasto a casa sua. [ Luca 19,1- 10 ]  
+Gerico ha testimoniato anche la guarigione dell'uomo cieco. [ Matteo 20,29-34, Marco 10,46-52, Luca 18,35-42 ]
+#end_italiano#
+#espanol#
+Jericó [2]
+La ciudad más antigua y más baja del mundo está a 38 km al N-E de Jerusalén.
+En sus proximidades pasó Jesús los 40 días de ayuno y penitencia antes de comenzar su vida pública [ Mateo 4.1-11; Marcos 1.12-13; Lucas 4.1-13]
+Jericó fue visitada varias veces por Jesús: aquí se encontró con Zaqueo y se alojó en su casa y curó al ciego Bartimeo (o a los ciegos, según Mateo), y era lugar de paso en el recorrido Jerusalén-Galilea.
+[ Mateo 20,29-34, Marcos 10,46-52, Lucas 18,35-42]
+#end_espanol#
+#francais#
+Jéricho [2]
+Une petite ville près de la rivière du Jourdain, située à 27 km au nord-est de Jérusalem. Jésus a été conduit ici par le Saint Esprit après avoir été baptisé dans le Jourdain, pour être tenté par le démon. [ Mathieu 4,1-11; Marc 1,12-13; Luc 4,1-13 ]
+Ici Jésus a rencontré Zachée le collecteur d'impôts et a demeuré dans sa maison [ Luc 19,1-6 ]. Jéricho fut aussi le témoin de la guérison d'un aveugle par le Christ.
+#end_francais#
+#deutch#
+Jericho
+Herodespalast und Vororte am Ausgang des Wadi Qelt
+Angesichts des großen Höhenunterschieds von Jerusalem nach Jericho auf kurzer Strecke reichen steil abfallende und von Tälern zerklüftete Berge fast bis an das Stadtzentrum von Jericho heran. Im Übergang zur Ebene zeigt das Bild einen Vorort, ein arabisches Dörfchen mit seinem markanten Minarett. In dieser Gegend mündet auch eines der bekanntesten Wüstentäler, das Wadi Qelt, in den Jordangraben. An dessen Ausgang hat sich die Dynastie des Königs Herodes, des jüdischen Herrschers und römischen Vasallen zur Zeit Jesu, mehrere prächtige Paläste errichten lassen. Wo heute im Bildvordergrund nur noch Spuren der aufschlussreichen Ausgrabungen der letzten Jahre durch Ehud Netzer zu sehen sind, befanden sich zur Zeit Jesu königliche Wohngebäude, Wandelhallen und Schwimmbäder, hängende Gärten und kleine Pavillons.
+#end_deutch#
+
+

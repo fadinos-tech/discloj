@@ -1,0 +1,32 @@
+#BIBLE#
+14.13-21
+6.30-44
+NONE
+6.1-13
+#end_BIBLE#
+#english#
+Tabgha 
+The Church of the First Feeding of the Multitude (Interior).
+The floor is covered with precious mosaics. 
+#end_english#
+#italiano#
+Tabgha
+La chiesa della prima moltipicazione del pane  [ Interno, l'altare ].
+La roccia che è diventata un altare, sotto il mosaico Bezantino del pane e i due pesci.
+#end_italiano#
+#espanol#
+Tabgha
+Iglesia de la Multiplicación de los Panes y los Peces.
+Vista del interior, El suelo de la iglesia conserva preciosos mosaicos del período bizantino.
+#end_espanol#
+#francais#
+Tabgha
+L'église de la Multiplication des Pains [vue de l'intérieur]
+Le sol est recouvert de précieuse mosaïques. 
+#end_francais#
+#deutch#
+Tabgha - Innenansicht der Kirche der Brotvermehrung
+Die dreischiffige Basilika wurde 1982 im Auftrag des "Deutschen Vereins vom Heiligen Land" errichtet, stellt eine originalgetreue Nachbildung des Vorgängerbaus aus dem 5. Jahrhundert dar und beherbergt dessen Mosaiken, von denen die des Hauptschiffs im Bildvordergund zu sehen sind. Der schlichte und weite Innenraum, der viele Besucherinnen und Besucher beeindruckt, übernimmt zahlreiche Details des frühchristlichen Kirchenbaus, etwa die Säulen mit ihren korinthischen Kapitellen, den Altar und den erhöhten Chorraum mit umlaufender Sitzgelegenheit. Die beiden neuen Ikonen schließen an die byzantinische und heute orthodoxe Gottesdiensttradition an und stellen wie üblich links Maria mit Kind als Gottesmutter und rechts Christus dar.
+#end_deutch#
+
+

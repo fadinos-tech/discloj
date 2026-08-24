@@ -1,0 +1,27 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha
+The southern side of the Sanctuary of the Primacy of Peter.
+#end_english#
+#italiano#
+Tabgha
+Il Santuario del Primato di Pietro.  [Lato del sud]
+#end_italiano#
+#espanol#
+Tabgha
+Santuario del Primado de Pedro.
+#end_espanol#
+#francais#
+Tabgha
+Le Sanctuaire de la Primaute de Pierre [côté sud] 
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Südansicht)
+#end_deutch#
+
+

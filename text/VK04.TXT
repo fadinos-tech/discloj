@@ -1,0 +1,28 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+The Holy Tomb. This is where Jesus was buried.
+#end_english#
+#italiano#
+Gerusalemme - Basilica del Santo Sepolcro
+Il Santo Sepolcro, il luogo dove Gesù è stato sepolto, l'attuale costruzione era costruita nel 1810. E'situata al centro di un cerchio circondato da 18 enormi colonne che sostengono la grande cupola che è a 30 metri di alezza, e 19.8 metri di diametro.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+18 grandes columnas sostienen la gran cúpula del santo Sepulcro, que tiene 30 metros de alto y 19,8 de diámetro. En el centro de la rotonda, o "Anástasis", está el Edículo de la Resurrección o Tumba Vacía de Cristo.
+#end_espanol#
+#francais#
+Jérusalem - Basilique du Saint Sépulcre.
+Le Saint Tombeau, où Jésus a été enseveli. Cette construction, que nous voyons aujourd'hui, date de 1810. Elle se trouve au centre d'un cercle constitué par dix-huit colonnes énormes supportent le dôme qui a 30 mètres de hauteur, et 19.8 mètres de diamètre.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Das Heilige Grab ist von einer Grabkapelle umgeben, die in der gegenwärtigen Form aus dem Jahr 1810 stammt. Sie steht im Zentrum der Rotunde und ist von 18 hohen Säulen umgeben, die eine große Kuppel mit 30 m Höhe und 19,8 m Durchmesser tragen.
+#end_deutch#
+
+

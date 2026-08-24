@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha
+The Sanctuary of the Primacy of Peter.
+(Southern view of the chapel)
+#end_english#
+#italiano#
+Il Santuario del Primato di Pietro . [ Una vista del sud della capella ]
+La chiesa è stata costruita per commemorare l'evento narrato nel Vangelo: Giovanni 21,1-25. 
+#end_italiano#
+#espanol#
+Tabgha
+Santuario del Primado de Pedro. Se construyó esta Capilla para conmemorar 
+el episodio narrado en Juan 21,1-25.
+#end_espanol#
+#francais#
+Tabgha - Rive du lac
+Le Sanctuaire de la Primauté de Pierre. [ vue du sud de chapelle ] 
+Cette église a été construite pour commémorer l'événement de l'évangile relaté dans. 
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Südansicht)
+Diese Kirche wurde als Gedenkstätte für die Erscheinung des Auferstandenen am See Genezareth, wie sie im Johannesevangelium beschrieben wird, errichtet.
+#end_deutch#
+
+

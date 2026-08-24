@@ -1,0 +1,8 @@
+{
+  "appId": "com.clicksolutionspro.discloj",
+  "appName": "Land of Jesus",
+  "webDir": "dist/native-www",
+  "backgroundColor": "#f4ecdc",
+  "android": { "allowMixedContent": false },
+  "server": { "androidScheme": "https" }
+}

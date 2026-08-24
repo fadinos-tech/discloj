@@ -1,0 +1,41 @@
+#BIBLE#
+5.1-12
+NONE
+6.17-26
+NONE
+#end_BIBLE#
+#english#
+Mount of the Beatitudes 
+(A front and side view of the church)
+This is the site of the famous "Sermon on the Mount." 
+The mountain is north-west of Capernaum, it overlooks the Sea of Galilee from the north-west side.
+The Beatitudes - [Matthew 5,1-12; Luke 6,17-26]
+#end_english#
+#italiano#
+Monte delle Beatitudini
+Questo è il luogo del famoso "Discorso della montagna" di Gesù.
+(Vista frontale e laterale della chiesa sulla montagna )
+La montagna è a nord-ovest di Cafarnao, la montagna abbraccia con lo sguardo il Mare di Galilea dal lato nord-ovest.
+"Le Beatitudini" - ( Matteo 5,1-12 , Luca 6,17-26 ) .
+#end_italiano#
+#espanol#
+Monte de las Bienaventuranzas
+Cerca de Cafarnaúm predicó Jesús el "Sermón del Monte" y las Bienaventuranzas.
+(Vista lateral de la iglesia de las Bienaventuranzas)
+Desde la colina que hay al noroeste de Cafarnaúm, donde ahora está el santuario conmemorativo, se domina todo el Mar de Galilea.
+Sermón de la Montaña - (Mateo 5,1-7,29)
+"Las Bienaventuranzas"- (Mateo 5,1-12; Lc 6,17-26)
+#end_espanol#
+#francais#
+Mont des Béatitudes
+C'est ici le site du fameux "Discours sur la montagne" de Jésus.(de la montagne, vue sur l'église de face et de profil)
+La montagne est au nord-ouest de la Capharnaüm, regardant la mer de Galilée depuis le côté nord ouest.
+"Les Béatitudes" - (Mathieu 5,1-12; Luc 6,17-26).
+#end_francais#
+#deutch#
+Der Berg der Seligpreisungen
+Gesamtansicht der Kirche der Seligpreisungen.
+Die Kirche wurde 1937 durch den prominenten Architekten Antonio Barluzzi und zum Gedenken an die Bergpredigt Jesu an vorher unbebauter Stelle errichtet. Durch einen offenen Säulenumgang wird die Verbindung zur "Landschaft Jesu" hergestellt. Der achteckige Zentralraum und die oktogonale Kuppel nehmen die Einleitung der Bergpredigt, die sogenannten Acht Seligpreisungen auf.
+#end_deutch#
+
+

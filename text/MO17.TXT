@@ -1,0 +1,29 @@
+#BIBLE#
+23.37-39
+NONE
+19.41-44
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - Inside the Sanctuary of "Dominus Flevit"
+The beautiful mosaic pavement (7th century) and - in the center - the Byzantine altar.
+#end_english#
+#italiano#
+Monte Oliveto -- Dentro il Santuario del "Dominus Flevit"
+Il magnifico mosaico del pavimento raffigurante frutta ( Settimo Secolo ) e nel centro, l'altare bizantino.
+#end_italiano#
+#espanol#
+Monte de los Olivos - Santuario del "Dominus Flevit"
+Mosaico del pavimento, del siglo VII, con temas frutales, del antiguo monasterio bizantino.
+#end_espanol#
+#francais#
+Le Mont des Oliviers -- Sanctuaire du " Dominus Flevit "
+Le beau pavement en mosaïque représentant un fruit (7ième siècle) et au centre, l'autel Byzantin.
+#end_francais#
+#deutch#
+Der Ölberg
+Byzantinische Elemente in der Dominus-Flevit-Kapelle
+In die moderne Kapelle des Jahres 1955 sind Teile der Apsis und der Mosaikfußboden des Vorgängerbaus aus dem 5. Jahrhundert integriert. Der Stein im Zentrum ist eine Altarplatte derselben Zeit.
+#end_deutch#
+
+

@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - St. Mary, Tomb (Inside the church)
+Icon of the Virgin Mary and her son Jesus Christ.
+#end_english#
+#italiano#
+Monte degli Ulivi - Chiesa di Santa Maria (Dentro la chiesa)
+Icona della Vergine Maria con il suo figlio Gesù Cristo.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Iglesia de la Asunción o Tumba de María.
+Icono de la Virgen María con el Niño Jesús.
+#end_espanol#
+#francais#
+Mont des Oliviers – L'église Ste Marie (Intérieur)
+Icône de la Vierge Marie et de son fils Jésus Christ.
+#end_francais#
+#deutch#
+Der Ölberg - Die Marienkirche (Das Grab)
+Die Ikone zeigt die Jungfrau Maria mit ihrem Sohn Jesus Christus.
+#end_deutch#
+
+

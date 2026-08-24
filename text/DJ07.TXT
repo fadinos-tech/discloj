@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Jericho
+St. George's Convent in Wadi Quelt.
+#end_english#
+#italiano#
+Gerico
+Il convento di San Giorgio in Wadi Al-Qilt.
+#end_italiano#
+#espanol#
+Cercanías de Jericó
+Monasterio ortodoxo de S. Jorge de Coziba, en el wadi Qelt.
+#end_espanol#
+#francais#
+Jéricho
+Monastère St. Georges dans le Wadi Quelt.
+#end_francais#
+#deutch#
+Jericho - Georgskloster im Wadi Qelt
+Die judäische Wüste hat wie auch die ägyptische Wüste in den ersten christlichen Jahrhunderten zahlreiche Einsiedler angezogen, die einzeln oder in mehr oder weniger festen Gruppen ein entbehrungsreiches Leben führten. Die Wüstenväter und -mütter haben die Theologie und Spiritualität der damaligen Zeit maßgeblich geprägt und sind zum Ausgangspunkt aller späteren westlichen und östlichen Formen des Mönchtums geworden. Heute sind nur noch drei Klöster in der Wüste Juda bewohnt: neben dem Kloster der Versuchung und dem Kloster Mar Saba das hier abgebildete Georgs- oder Kosiba-Kloster im malerischen Taleinschnitt des Wadi Qelt, das von Jerusalem nach Jericho führt.
+Schon im frühen 5. Jahrhundert siedelten hier fünf Mönche; Bedeutung erlangte das Kloster im 5. und 6. Jahrhundert durch seine Vorsteher Johannes von Theben und Georgios von Zypern. Nach einer Renovierung im 12. Jahrhundert verfiel das Kloster zunächst und wurde in der heutigen Form 1878 von griechisch-orthodoxen Mönchen wieder aufgebaut.
+#end_deutch#
+
+

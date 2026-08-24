@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+9.1-41
+#end_BIBLE#
+#english#
+Jerusalem - Pool of Siloam (1)
+The Miracle of the blind.
+In this pool, a man born blind was healed, after Jesus ordered him to go wash his eyes in it.
+#end_english#
+#italiano#
+Gerusalemme -- Piscina di Siloam [1]
+Qui è il posto in cui Gesù mandò il cieco nato,per lavare gli occhi perchè sia guarito.
+#end_italiano#
+#espanol#
+Jerusalén  -  Piscina de Siloé [1]
+A la piscina de Siloé, próxima al torrente Cedrón, donde desembocan las aguas del Tunél de Ezequías (Fuente de Guijón o de la Virgen), envió Jesús al ciego de nacimiento para su curación. Hoy es propiedad musulmana.
+#end_espanol#
+#francais#
+Jérusalem - Piscine de Siloè [1]
+Dans cette piscine, Jésus guéri un aveugle de naissance après lui avoir ordonné d'aller s'y laver les yeux.
+#end_francais#
+#deutch#
+Jerusalem - Gesamtansicht des Schiloachteiches
+Ungefähr an der Stelle, wo die drei strukturierenden Täler Jerusalems zusammenlaufen, am Fuße des Zionsberges, des Ofelhügels und der alten "Davidsstadt", befindet sich ein Wasserbecken, das Schiloachteich genannt wird. Schon seit dem 8. vorchristlichen Jahrhundert befand sich hier das Ende des nach seinem mutmaßlichen Erbauerkönig sogenannten Hiskijatunnels, der Wasser von der außerhalb der Stadtbefestigung gelegenen Gichonquelle hierher leitete, um es auch in Kriegszeiten gefahrlos erreichen zu können. Das Johannesevangelium erwähnt den Schiloachteich als eines der öffentlichen Wasserbecken, wohin Jesus einen geheilten Blinden schickte, um sich zu waschen. In byzantinischer Zeit wurde hier im Gedenken daran ein prächtig umbautes, quadratisches Becken neben einer Basilika errichtet. Da das Gelände aber in der Folgezeit zerstört, überbaut und auch von den Kreuzfahrern nicht restauriert wurde, ist heute nur noch ein unscheinbares, schmales Becken erhalten.
+#end_deutch#
+
+

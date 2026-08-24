@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+1.57-80
+NONE
+#end_BIBLE#
+#english#
+Ain Karem - St. John's Church 
+The church lies in the center of the village. It was built upon the ruins of a Byzantine church which in turn had been built over the house of Zachariah.
+Zachariah's Song is written in many languages on the walls surrounding the church.
+#end_english#
+#italiano#
+Ain Karem -- Chiesa di San Giovanni
+La chiesa si trova al centro del villaggio. E'stata costruita sulle rovine di una chiesa Bizzantina la quale era stata costruita sopra la casa di Zaccaria.
+All'esterno della chiesa, sui muri, è scritto in tante lingue il cantico di Zaccaria.
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de San Juan
+En el centro del pueblo está la iglesia de S. Juan, construida sobre las ruinas de una iglesia de los cruzados, edificada, a su vez, sobre otra bizantina del siglo IV, en el lugar tradicional de la casa de Zacarías e Isabel, padres del Bautista. Las paredes del patio exterior están cubiertas con el cántico de Zacarías ("Benedictus") en muchos idiomas.
+#end_espanol#
+#francais#
+Ein Karem – L'église Saint Jean 
+L'église se trouve au centre du village. Elle a été construite sur les ruines d'une église byzantine, elle-même construite sur la maison de Zacharie.
+A l'extérieur de l'église sur les murs l'entourant, le cantique de Zacharie est inscrit en plusieurs langues.
+#end_francais#
+#deutch#
+En Karem - Außenansicht der Johanneskirche
+Im Zentrum En Karems, ungefähr 400 Meter nördlich der Marienquelle, befindet sich die Kirche, der möglicherweise die älteste Tradition in En Karem zugrunde liegt. Sylvester Saller und frühere Archäologen legten hier zwischen 1895 und 1942 Reste einer byzantinischen Kirche aus dem 5. oder 6. Jahrhundert und zweier zeitgleicher Kapellen mit kunstvollen Mosaiken frei. Seit byzantinischer Zeit wird hier auch die Geburt Johannes des Täufers verehrt. Wie in der Baugeschichte der Kirchen Israels und Palästinas üblich, errichteten die Kreuzfahrer einen weiteren Kirchenbau. Die heutige Kirche, die aus Oberkirche und tiefergelegener Geburtsgrotte besteht, entstand im 17. Jahrhundert und wurde 1885 restauriert.
+#end_deutch#
+
+

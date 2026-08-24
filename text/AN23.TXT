@@ -1,0 +1,35 @@
+#BIBLE#
+1.1-17
+NONE
+3.23-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church
+A sculpture of the Holy Family, on the right side of the
+entrance to the church. The Church was built over the house of Joseph.
+Genealogy of Jesus - [Matthew 1,1-17; Luke 3,23-38]
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+Una scultura della Santa Famiglia , alla destra dell'entrata della chiesa .
+La chiesa è stata costruita sulla casa di Giuseppe.
+( un ricordo della genealogia di Gesù: Matteo 1,1-17 ; Luca 3,23-38 )
+#end_italiano#
+#espanol#
+Nazaret - Iglesia de San José
+Escultura de la sagrada Familia, a la derecha de la entrada a la iglesia.
+Según una antiquísima tradición, la iglesia está construida sobre la casa de José.
+( Genealogía de Jesús: Mateo 1,1-17; Lucas 3,23-38)
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Saint Joseph.
+Une sculpture de la Sainte Famille, â droite de l'entrée de l'église qui a été construite au dessus de la maison de St. Joseph.
+(Enregistrement de la généalogie de Jésus: Mathieu 1,1-17; Luc 3,23-38)
+#end_francais#
+#deutch#
+Nazareth - Skulptur am Eingang der Josefskirche
+Auf dem Gelände der römisch-katholischen Verkündigungsbasilika und über dem Komplex der Höhlenwohnungen aus der Zeit Jesu befindet sich seit alter Zeit eine zweite Kirche, die weniger mit aufsehenerregenden Ereignissen verbunden ist, sondern der unspektakulären Kindheit Jesu, seiner Familie und vor allem seinem Vater Josef gedenkt. Über Josef ist biblisch kaum etwas überliefert: Sein Name wird nur im Stammbaum Jesu und in den matthäischen und lukanischen Kindheitsgeschichten erwähnt; aus der Formulierung "Jesus, der Sohn des Zimmermanns" ist sein Beruf zu entnehmen. Auch wenn wir uns den Zimmermann der damaligen Zeit kaum als Möbeltischler, sondern eher als Baumeister der kleinen Vorbauten vor den Höhlenwohnungen vorstellen müssen, versucht die Tradition, eine entsprechende Werkstatt zu lokalisieren. Die Skulptur stellt Josef als älteren, beschützenden Mann mit Maria und Jesus dar.
+#end_deutch#
+
+

@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+The Basilica of the Annunciation.
+#end_english#
+#italiano#
+Nazaret 
+La Basilica dell'Annunciazione.
+#end_italiano#
+#espanol#
+Nazaret -- Basílica de la Anunciación
+Vista de la fachada principal (4) 
+#end_espanol#
+#francais#
+Nazareth
+L'Eglise de l'Annonciation.
+[Une vue de la façade(4)].
+#end_francais#
+#deutch#
+Nazareth - Westansicht der Verkündigungsbasilika
+Hier befindet sich der Haupteingang zur Verkündigungsbasilika. Hinter den kleinen Toren treten Besucher und Besucherinnen zunächst in einen umlaufenden Hof, an dessen Außenwänden bereits zahlreiche der Mariendarstellungen aus aller Welt zu betrachten sind. Die eigentliche Westfassade mit Spitzgiebel ist kunstvoll ausgestaltet und wird von der massiven Oberkirche mit ihrer Kuppel überragt.
+#end_deutch#
+
+

@@ -1,0 +1,36 @@
+#BIBLE#
+NONE
+NONE
+NONE
+2.1-11;4.46-54;21.2-3
+#end_BIBLE#
+#english#
+CANA OF GALILEE 
+Kfar Kanna -- General view of the village.
+Kafr Kanna is located 7 km from Nazareth. It is here that the Franciscans since 1881, commemorate the First miracle that Jesus performed at the Wedding feast. 
+However, the real and historical Cana of Galilee is to be found elsewhere. This place has been since the fourth century. Some interesting remains still may be seen there. The actual church of Kafr Kana is built over the ruins of a Jewish synagogue. There are remains of the synagogue and also an interesting Aramaic inscription from the fourth century. None of the three archaeological excavations that were carried out in  1880, 1969 and 1997, on this site have ever revealed any sign or remains of a Christian presence.
+#end_english#
+#italiano#
+CANA DI GALILEA  
+Kafr Kanna --  La città.
+A 7 km. da Nazaret si trova Kafr Kanna. In questo villaggio i francescani dal 1881 fanno memoria del primo miracolo operato da Gesù alle nozze di Cana.
+In verità, il luogo storico, Cana di Galilea, si trova altrove, abbandonato da quattro secoli, dove esistono delle rovine interessanti. L'attuale chiesa di Kafr Kanna sorge nel luogo dove c'era una sinagoga giudaica, della quale si conservano alcuni resti e una preziosa iscrizione aramaica del secolo IV. Nessuna delle tre successive operazioni di scavi archeologici infatti (1880, 1969, 1997) ha trovato tracce o segni di presenza cristiana.
+#end_italiano#
+#espanol#
+CANA DE GALILEA  
+Kafr Kanna -- Panorámica del pueblo.
+A 7 Km de Nazaret está Kafr Kanna, donde los franciscanos conmemoran desde 1881 el primer milagro de Jesús en las Bodas de Caná, ya que el lugar histórico donde sucedió, Caná de Galilea, está abandonado y ruinoso desde hace 4 siglos. La iglesia actual de Kafr Kanna se levanta sobre una sinagoga judía, de la que se conservan restos y una interesante inscripción en arameo del siglo IV. Ninguna de las tres excavaciones arqueológicas que se han hecho en este lugar (1880, 1969 y 1997) ha encontrado algún signo o resto cristiano.
+#end_espanol#
+#francais#
+CANA DE GALILEE 
+Kafr Kanna -- Vue panoramique.
+À 7 km de Nazareth se trouve Kafr Kanna. Depuis 1881, dans ce village, les franciscains font mémoire du premier miracle effectué par Jésus durant les noces de Cana. À dire vrai, le lieu historique de Cana se situe ailleurs, dans un endroit abandonné depuis quatre siècles où on peut encore découvrir des ruines intéressantes. L'église actuelle de Kafr Kanna se dresse sur l'emplecement d'une sinagogue dont on conserve encore certains vestiges ainsi qu'une précieuse inscription araméenne du IV siècle. Aucune des trois opérations de fouille archéologique (1880, 1969, 1997) n'a jamais trouvé la trace d'une présence chrétienne.
+#end_francais#
+#deutch#
+Kana - Gesamtansicht des Dorfes
+9 Kilometer nordöstlich von Nazaret liegt das arabische Dörfchen Kafr Kanna. Auch wenn es nicht mit dem biblischen Kana identisch ist, bewahrt es doch dessen Namen und seit byzantinischer Zeit die Tradition dreier neutestamentlicher Begebenheiten. Vor allem wird mit Kana das erste Wunder Jesu, die Verwandlung von Wasser in Wein bei der sogenannten "Hochzeit von Kana" in Verbindung gebracht.
+Dieser Erzählung sind in Kafr Kanna eine römisch-katholische und eine griechisch-orthodoxe Kirche gewidmet.
+Darüber hinaus gilt Kana als der Ort der Heilung des Sohnes eines königlichen Beamten und als Heimat des Jüngers Natanael.
+#end_deutch#
+
+

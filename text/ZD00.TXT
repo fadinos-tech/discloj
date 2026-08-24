@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - St. Mary's Church
+Here, the Virgin Mary, mother of Christ, was buried before her Ascension. The church was built during the fifth century A.D.,and then detroyed by the Persians in 614 A.D. As it stands today, it was rebuilt by the Crusaders. It was in the hands of the Franciscans for three centuries until they were banished by the Turks, and the church was put in the custody of the Greek Orthodox.
+#end_english#
+#italiano#
+Monte degli Ulivi -- Chiesa di Santa Maria
+Qui la Vergine Maria, madre di Cristo è stata sepolta e dopo assunta. La chiesa fu costruita nel quinto secolo, nell'anno 614 e distrutta dai Persianil, è stata ricostruita dai Crociati in questa attuale forma. La chiesa fu nella custodia dei Francescani per 3 secoli finchè furono scacciati dai Turchi. Ora la chiesa è nella custodia dei Crecci Ortodossi. 
+#end_italiano#
+#espanol#
+Monte de los Olivos. Tumba de la Virgen 
+Según una tradición antiquísima, aquí fue depositado el cuerpo de la Virgen y tuvo lugar su Asunción a los cielos.
+La iglesia, construida en el siglo IV, fue destruida por los persas en 614 y reconstruida por los cruzados en su forma actual.
+Fue propiedad de los franciscanos hasta 1757, año en que pasó violentamente a manos de los ortodoxos.
+#end_espanol#
+#francais#
+Mont des Oliviers – L'église Ste Marie Assomption
+Ici la Vierge Marie, mère du Christ, a été ensevelie puis élevée au ciel. L'église a été construite pendant le cinquième siècle après J.C. puis détruite par les Perses en 614 après J.C, et reconstruite a nouveau par les Croisés selon la forme actuelle. Elle est restée dans les mains des Franciscains, pendant trois siècles, jusqu'à ce qu'ils soient chassés par les Turcs, L'église fut alors placée sous la garde des Grecs Othodoxes.
+#end_francais#
+#deutch#
+Der Ölberg - Die Marienkirche
+Nach orthodoxer Tradition wurde hier die Jungfrau Maria begraben und in den Himmel aufgenommen. Bereits im 5. Jh. n. Chr. wurde an dieser Stelle eine Kirche errichtet, aber 614 durch die Perser wieder zerstört. Die Kreuzfahrer bauten sie in der heutigen Form wieder auf. Drei Jahrhunderte lang war sie in Händen der Franziskaner, bis diese von den Osmanen vertrieben wurden und die Kirche in den Besitz der griechisch-orthodoxen Christen überging.
+#end_deutch#
+
+

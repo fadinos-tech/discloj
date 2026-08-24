@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+1.39-80
+NONE
+#end_BIBLE#
+#english#
+Ein Karem
+7 kilometers west of Jerusalem, this is the town where John the Baptist was born since his parents, Zachariah and Elisabeth (a relative of the Virgin Mary), lived here. There are two churches in Ein Karem, St. John's Church and the Church of the Visitation.
+#end_english#
+#italiano#
+Ain Karem
+Una città a 7 kilometri all'ovest di Gerusalemme,è la città natalizia di San Giovanni Battista.In questa città hanno vissuto Zaccaria e sua moglie Elisabetta, (La madre di Giovanni è una parente della Vergine Maria). In questa città ci sono due chiese. La chiesa di san Giovanni e la chiesa della Visitazione.
+#end_italiano#
+#espanol#
+Ain Karem.
+A 7 km. al oeste de Jerusalén se encuentra la ciudad natal, según la tradición, de S. Juan Bautista. Aquí vivían Zacarías y su esposa Isabel, pariente de la Virgen María. Las iglesias de S. Juan y de la Visitación recuerdan dos episodios evangélicos: el nacimiento del Bautista y el encuentro de María con su prima Sta. Isabel.
+#end_espanol#
+#francais#
+Ein Karem 
+Une ville à 7 km a l'ouest de Jérusalem, c'est la ville natale de Jean Baptiste. Dans cette ville vivaient Zacharie et son épouse Elisabeth (la mère de Jean, cousine de la Vierge Marie). Il y a dans cette ville deux églises, l'église Saint Jean et l'église de la Visitation.
+#end_francais#
+#deutch#
+En Karem - Gesamtansicht
+En Karem ist heute ein idyllischer und waldreich gelegener Vorort Jerusalems 7 Kilometer westlich der antiken Stadt.
+Während Lukas nur von einer "Stadt im Bergland von Judäa" spricht, wird En Karem seit byzantinischer Zeit (4.-7. Jahrhundert) als Geburtsort Johannes des Täufers, als Wohnort seiner Eltern Elisabet und Zacharias und damit als Ort der Begegnung von Maria und ihrer Verwandten Elisabet verehrt. Archäologische Ausgrabungen weisen eine Besiedlung des Ortes zur Zeit Jesu und in den 2000 Jahren vorher nach. Die christliche Tradition hat in En Karem zahlreiche Kirchen hinterlassen, am bekanntesten die Johanneskirche (in der Bildmitte) und die Kirche der Heimsuchung.
+#end_deutch#
+
+

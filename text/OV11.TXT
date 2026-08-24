@@ -1,0 +1,37 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Via Dolorosa - Sixth Station of the Cross
+Veronica wipes the sweat from Jesus' face.
+The Church of St. Veronica, probably erected on the site of St. Veronicas house. To wipe the blood and dirt from Jesus' face, Veronica used her veil, and the imprint of Christ's face was left on it.
+["The Lord make his face shine upon thee and be gracious unto thee." Numbers 6:25]
+#end_english#
+#italiano#
+Via Dolorosa -- Sesta Stazione:
+"La Veronica asciuga il Volto di Gesù"
+La chiesa di S. Veronica nel convento delle "Piccole Sorelle di Gesù". Probabilmente è il luogo dove la tradizione situa la casa di S. Veronica che ha asciugato con il suo velo la sangue e la sporcizia dal volto di Gesù.
+( "Il Signore faccia risplendere su di te il suo Volto ." ) 
+( Numeri 6,25 )
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Sexta Estación:
+"La Verónica enjuga el rostro de Jesús".
+Este episodio tan popular, aunque no lo narran los Evangelios, viene rememorado en una columna situada en la calle. Una vieja tradición situaba aquí la casa de esta piadosa mujer. Dentro, una capilla de las Hermanitas de Jesús, bajo el nivel actual de la calle, y encima la iglesia greco-católica, conmemoran el mismo episodio ( "El Señor es justo y ama la justicia; los rectos contemplarán su rostro", Sal 11,7; "El Señor haga resplandecer su rostro sobre ti, y tenga de ti misercordia", Num 6,25)
+#end_espanol#
+#francais#
+Via Dolorosa – La sixième station du Chemin de la Croix
+Véronique essuie la sueur du visage de Jésus.
+L'église Ste. Véronique appartient aux petites Sœurs de Jésus. Elle se trouve sur l'emplacement, probable de la maison de Véronique, qui a essuyé le sang et la saleté du visage de Jésus avec son voile, qui en a gardé l'empreinte.
+(" Que le Seigneur fasse briller sur toi son visage et qu'Il te fasse grâce! ").
+#end_francais#
+#deutch#
+Die Via Dolorosa - Die sechste Station des Kreuzweges
+"Veronika reicht Jesus das Schweißtuch."
+Die Veronikakapelle gehört den Kleinen Schwestern Jesu. Nach der Tradition befindet sie sich am Ort des Hauses von Veronika, die mit ihrem Schleier Blut und Schmutz von Jesu Gesicht wischte, wobei dessen Abdruck darauf erhalten blieb.
+#end_deutch#
+
+

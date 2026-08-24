@@ -1,0 +1,27 @@
+#BIBLE#
+NONE
+NONE
+7.11-17
+NONE
+#end_BIBLE#
+#english#
+Nain
+The Church in Nain. 
+#end_english#
+#italiano#
+Naim - La Chiesa
+Qui Gesù ha risuscitato il figlio della vedova di Naim.
+#end_italiano#
+#espanol#
+Naím
+Iglesia de Naím, construida en 1881, en el mismo lugar donde ya había una iglesia en el siglo IV.
+#end_espanol#
+#francais#
+Naïm - L'église à Naïm.
+#end_francais#
+#deutch#
+Nain - Außenansicht der Kirche
+Die Lokalisierung der Auferweckung des "Jünglings von Nain" kann nicht auf eine lange Tradition zurückblicken. Erst in jüngerer Zeit errichteten Franziskaner am Ortsrand des Dörfchens Nain eine kleine Kirche.
+#end_deutch#
+
+

@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+2.8-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - Beth Sahour
+A cave the shepherds used for shelter during the night.
+#end_english#
+#italiano#
+Betlemme -- Beth Sahour
+Una grotta dove i pastori trascorrevano la notte per fare la guardia ai loro greggi.
+#end_italiano#
+#espanol#
+Belén - Beth Sahour
+Una cueva de los pastores usada como refugio durante la noche.
+#end_espanol#
+#francais#
+Betléhem - Beth Sahour
+Une grotte ou les bergers passaient la nuit tout en veillant sur leurs troupeaux.
+#end_francais#
+#deutch#
+Betlehem - Die Hirtenfelder bei Bet Sahour
+Im Gelände der "Kirche der Engel bei den Hirten" befinden sich mehrere der für die Gegend so typischen Höhlen im karstigen Kalkstein. In allen Zeiten waren sie für Hirten, die mit ihren Herden unterwegs waren, ein willkommener Unterstand in kalten Nächten. Eine dieser Höhlen wurde mit einer Eingangsfassade versehen und dient heute als Kapelle.
+#end_deutch#
+
+

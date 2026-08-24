@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+1.39-56
+NONE
+#end_BIBLE#
+#english#
+Ain Karem - Church of the Visitation
+It commemorates the visit of the Virgin Mary to her relative Elizabeth.
+The church was built in 1939 upon old Byzantine ruins. It is also called "Le Magnificat."
+#end_english#
+#italiano#
+Ain Karem -- Chiesa della Visitazione
+La chiesa commemora la visita della Vergine Maria alla sua parente Elisabetta.
+La chiesa è stata costruita nel 1939 sopra delle vecchie rovine Bizzantine. E'chiamata anche "la chiesa del Magnificat".
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de la Visitación
+La iglesia conmemora la Visitación de la Virgen María a su prima Sta. Isabel. La edificación actual data de 1939, obra del arquitecto y terciario franciscano A. Barluzzi, conservando parte de los restos de la primitiva iglesia bizantina. También se la conoce como "iglesia del Magníficat", por los mosaicos del patio que contienen el Cántico de María en diversas lenguas.
+#end_espanol#
+#francais#
+Ein Karem -- L'église de la Visitation. 
+Elle commémore la visite de la Vierge Marie à sa cousine Elisabeth.
+Cette église a été construite en 1939 sur d'anciennes ruines byzantines. Elle est aussi appelée " Le Magnificat ".
+#end_francais#
+#deutch#
+En Karem - Außenansicht der Kirche der Heimsuchung
+Am südlichen Berghang En Karems gelegen, thematisiert diese Kirche den Besuch Marias bei ihrer Verwandten Elisabet. Reste von Wohnhäusern aus der Zeit Jesu in der Unterkirche werden als Hinweis auf eine Wohnung interpretiert, in die sich Elisabet vor der Geburt zurückgezogen habe, während die hauptsächliche Wohnung von Zacharias und Elisabet bei der Johanneskirche im Dorfzentrum gesucht wird. Reste einer byzantinischen Basilika zeugen von einer langen christlichen Tradition an diesem Ort. Die Ruinen einer Kreuzfahrerkirche aus dem 13. Jahrhundert dienen als Fundament der heutigen Kirche. Deren Bau wurde 1939 begonnen und 1955 durch Antonio Barluzzi, den Baumeister, der die meisten Kirchen dieser Zeit in Israel-Palästina ausgeführt hat, fertiggestellt.
+#end_deutch#
+
+

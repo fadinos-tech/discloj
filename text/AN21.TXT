@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The Greek Orthodox Church of the Annunciation
+An old painting of the Annunciation of Jesus' birth to the Virgin Mary.
+#end_english#
+#italiano#
+Nazaret - La Chiesa Greca Ortodossa  dell'Annunciazione 
+Un'antica pittura mostra l'annuncio dell'Angelo Gabriele alla Vergine Maria che diventerà madre.
+#end_italiano#
+#espanol#
+Nazaret - Iglesia Greco-Ortodoxa de la Anunciación o de S. Gabriel.
+Antigua pintura que muestra al Arcángel S. Gabriel anunciando a la Virgen María su próxima maternidad.
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Grecque-Orthodoxe de l'Annonciation.
+Une ancienne peinture montrant l'Archange Gabriel annonçant à la Vierge Marie qu'Elle serait mère du Sauveur.
+#end_francais#
+#deutch#
+Nazareth
+Bild über dem Altar in der Krypta der griechisch-orthodoxen Verkündigungs- oder Gabrielskirche
+Dieses Gemälde stellt dar, wie der Engel Gabriel Maria mit erhobener linker Hand begrüßt. Der Inhalt seiner Botschaft wird in der Figur Marias sehr augenfällig deutlich: Auf oder in ihrem Körper ist bereits das Kind, eine kleine menschliche Figur mit leuchtendem Heiligenschein, zu sehen. Die gesamte Szene spielt sich unter den ausgebreiteten Händen Gottes ab.
+#end_deutch#
+
+

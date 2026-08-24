@@ -1,0 +1,33 @@
+#BIBLE#
+14.13-21
+6.30-44
+NONE
+6.1-13
+#end_BIBLE#
+#english#
+Tabgha 
+The Church of the First Feeding of the Multitude (Interior)
+The Byzantine mosaic of the loaves and fishes commemorates the miracle of the First Feeding of the Multitude.
+#end_english#
+#italiano#
+Tabgha
+La chiesa della prima moltipicazione del pane  [ Interno ]
+Il mosaico Bezantino del pane e i due pesci.
+#end_italiano#
+#espanol#
+Tabgha
+Iglesia de la Multiplicación de los Panes y los Peces. 
+Un mosaico bizantino reprentando un cesto de panes y dos peces,  rodea la roca del Milagro de la Multiplicación, bajo el altar.
+#end_espanol#
+#francais#
+Tabgha
+L'église de la Multiplication des Pains (intérieur, l'autel)
+La mosaïque byzantine des pains et des deux poissons commémorant le miracle de la première multiplication des pains.
+#end_francais#
+ #deutch#
+Tabgha
+Mosaik der Brote und Fische in der Kirche der Brotvermehrung
+Ein Brotkorb und zwei Fische im Mosaik des 6. Jahrhunderts thematisieren die Begebenheit, der die Rekonstruktion der Kirche der Brotvermehrung geweiht ist.
+#end_deutch#
+
+

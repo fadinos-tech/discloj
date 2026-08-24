@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth - Basilica of the Annunciation
+The altar in front of the Grotto of the Virgin Mary.
+#end_english#
+#italiano#
+Nazaret - La Basilica dell'Annunciazione
+L'Altare davanti alla Grotta della Vergine Maria.
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación 
+Altar de la Gruta o Casa de la Virgen.
+#end_espanol#
+#francais#
+Nazareth
+L'église de l'Annonciation. 
+[L'autel en face de la Grotte de la Vierge Marie.]
+#end_francais#
+#deutch#
+Nazareth - Unterkirche der Verkündigungsbasilika mit Verkündigungsgrotte
+Dieses Areal, das sich vertieft in der Mitte der Unterkirche befindet, bildet das Zentrum, auf das Ober- und Unterkirche baulich hingeordnet sind. Von der Oberkirche aus gibt eine große Öffnung den Blick und Lichteinfall nach unten frei; die Unterkirche ist durch bunte Glasfenster in dämmrige Beleuchtung getaucht. Im Hintergrund wird durch einen Torbogen eine mit einem Altar ausgestattete Höhle im Naturstein sichtbar. Dies ist der Raum, der seit alter Zeit als Ort der Verkündigung der Geburt Jesu an Maria verehrt wird. Mosaiken und Einritzungen in Stein lassen erkennen, dass bereits im dritten Jahrhundert Christen, die ursprünglich im Judentum verwurzelt waren, an dieser Stelle Gottesdienst feierten. Der vordere Altar, um den sich täglich zahllose Pilgergruppen versammeln, ruht auf Säulenbasen aus dieser Zeit und befindet sich innerhalb der Grundmauern der byzantinischen Kirche aus dem 5. Jahrhundert. Im Hintergrund ist links im Bild außerdem ein vieleckiger Pfeiler zu erkennen, der zum Kirchenbau der Kreuzfarerzeit gehört, auf dessen Grundmauern die heutige Basilika ruht.
+#end_deutch#
+
+

@@ -1,0 +1,35 @@
+#BIBLE#
+17.1-13
+9.2-13
+9.28-36
+NONE
+#end_BIBLE#
+#english#
+Mount Tabor - Basilica of Transfiguration
+R. Villani's mosaic of the Transfiguration inside the Basilica.
+The mosaic depicts Jesus, with Moses and Peter to his left, and Elijah, James and John to his right. 
+#end_english#
+#italiano#
+Monte Tabor - Basilica della Trasfigurazione
+Il Mosaico della trasfigurazione dentro la Basilica ,del mosaista  R. Villani .
+Nel mosaico vediamo Gesù , alla sua sinistra appare Mose e Pietro.
+Alla sua destra Elia , Giacomo e Giovanni.
+#end_italiano#
+#espanol#
+Monte Tabor
+Basílica de la Transfiguración.
+Altar superior con el magnífico mosaico de la Transfiguración, obra de R. Villani: Jesús en el centro con Moisés y Elías en el aire, y los Apóstoles Pedro, Santiago y Juan.
+#end_espanol#
+#francais#
+Mont Thabor - Basilique de la Transfiguration.
+Mosaïque de la Transfiguration a l'intérieur de la basilique, par R.Villani.
+Sur la mosaïque, nous pouvons voir Jésus, a sa gauche apparaissent Moïse et Pierre à sa droite, Elie, Jacques et Jean.
+#end_francais#
+#deutch#
+Der Berg Tabor
+Apsismosaik in der römisch-katholischen Verklärungsbasilika
+Die zentralen Motive des Evangeliums der Verklärung Jesu kommen in der naiven Darstellung des beherrschenden Apsismosaiks deutlich zum Ausdruck: der hohe Berg, Mose und Elija, das helle Licht, die drei verschreckten Jünger Petrus, Jakobus und Johannes. Berge sind für das Alte wie für das Neue Testament immer hervorragende Orte der Gottesbegegnung. Mose empfing auf einem Berg die Weisung Gottes, die beiden Tafeln der Zehn Gebote. Elija erlebte Gott auf einem Berg als den alle Naturgewalten und menschlichen Kategorien Übersteigenden und kämpfte auf einem anderen Berg mit Gottes Hilfe gegen die Baalspriester. Mose und Elija sind aber auch die Prototypen von "Gesetz" und "Prophetie". Indem Jesus in seiner Verklärung mit ihnen zusammentrifft, steht er ganz in der Gottestradition seines Volkes. Auch das Motiv des Lichtes findet sich in alttestamentlichen Gottesbegegnungen. Gott erscheint den Menschen als Licht; sein Licht geht auf die Menschen über, die sich ihm nähern.
+Im Verklärungsevangelium wird das gesteigert, indem eine Stimme aus der lichten Wolke den Menschen Jesus als Gottes Sohn deklariert. Die Jünger Jesu sehen darin die Endzeit angebrochen und wollen Hütten für das endzeitliche Laubhüttenfest bauen, wenn alle Völker zum Berg des Herrn ziehen.
+#end_deutch#
+
+

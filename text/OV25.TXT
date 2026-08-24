@@ -1,0 +1,28 @@
+#BIBLE#
+28.1-20
+16.1-20
+24.1-12
+20.1-31
+#end_BIBLE#
+#english#
+Via Dolorosa - Fifteenth Station of the Cross
+Christ has risen.
+#end_english#
+#italiano#
+Via Dolorosa -- Quattordicesima Stazione.
+Cristo  risorto.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Decimoquinta Estación:
+La Resurrección del Señor.
+Para coronar el Via Crucis se celebra como 15ª Estación la gloriosa Resurrección de Jesús, sin la cual no tendría sentido ni su Pasión ni su Muerte. "Jesucristo resucitó de ESTE Sepulcro. Aleluya".
+#end_espanol#
+#francais#
+Via Dolorosa – La quatorzième station du Chemin de la Croix Christ est Ressuscité.
+#end_francais#
+#deutch#
+Via Dolorosa - Die vierzehnte Station des Kreuzweges
+"Christus ist auferstanden."
+#end_deutch#
+
+

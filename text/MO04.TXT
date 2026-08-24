@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+10.38-42
+11.1-44
+#end_BIBLE#
+#english#
+Bethany - The Church of Lazarus
+The altar has a sculpture of the tomb of Lazarus. The painting above it shows Jesus being met by Martha on his arrival, four days after Lazarus' death.
+#end_english#
+#italiano#
+Betania -- La chiesa di Lazzaro
+L'altare ha una scultura della Tomba di Lazzaro, la pittura soprastante rappresenta Gesù mentre incontra Marta quattro giorni dopo la morte di Lazzaro.
+#end_italiano#
+#espanol#
+Betania -- Iglesia de la resurrección de Lázaro
+El relieve del altar representa a dos ángeles mostrando el sepulcro vacío de Lázaro. El mosaico muestra el encuentro de Jesús con Marta y María, cuando Lázaro llevaba cuatro días muerto, y las palabras de Jesús: "Yo soy la Resurrección y la Vida".
+#end_espanol#
+#francais#
+Béthanie - L'église de Lazare.
+L'autel porte une sculpture de la tombe de Lazare, l'image peinte au dessus, montre Jésus, lorsqu'il rencontre Marthe a son arrivée quatre jours après la mort de Lazare.
+#end_francais#
+#deutch#
+Der Ölberg
+Altarraum der römisch-katholischen Lazaruskirche in Betanien
+Die Stirnseite der kreuzförmigen Lazaruskirche ist gänzlich dem Thema Auferstehung gewidmet. Der Altar aus grünem jordanischem Marmor ruht auf einem Sockel, auf dem ein geöffneter Sarg dargestellt ist. Das Wandmosaik darüber zeigt Jesus in göttlichem Weiß, als er auf dem Weg zu seinem toten Freund Lazarus am Ortseingang auf Marta trifft und mit ihr ein Gespräch über die Auferstehung beginnt. Dessen theologische Kernaussage wird in der lateinischen Bildunterschrift zitiert: "Ich bin die Auferstehung und das Leben."
+#end_deutch#
+
+

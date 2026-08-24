@@ -1,0 +1,36 @@
+#BIBLE#
+NONE
+NONE
+2.41-50
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church 
+A painted window depicts Joseph's last moments.
+(Joseph's death was not mentioned in the Bible. In fact, the last appearance of Joseph was in Luke 2,43 when Jesus was twelve years old. Jesus at the Temple - [Luke 2,41-50])
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+Sotto la chiesa, una finestra dipinta, gli ultimi momenti di Giuseppe.
+[ La morte di Giuseppe non è stata ricordata nella Bibbia, infatti l'ultimo ricordo di Giuseppe era in Luca 2,43 quando Gesù aveva dodici anni. 
+( Gesù nel Tempio, Luca 2,41-50 ) ]
+e Guiseppe, ( "... non temere di prendere con te Maria, tua sposa,.." Matteo 1,18-25 ) 
+#end_italiano#
+#espanol#
+Vidriera, bajo la iglesia, representando los últimos momentos de San José.
+[La muerte de José no viene mencionada en los Evangelios; la última vez que se le
+menciona es con ocasión de la visita al Templo, cuando Jesús tenía 12 años. 
+(Jesús en el Templo, Lucas 2,41-50).]
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Saint Joseph.
+En bas de l'église, une fenêtre peinte, Les derniers moments de Joseph.
+(Le décès de Joseph n'a pas été indiqué dans l'Evangile, en effet la dernière mention de Joseph se trouve en Luc 2,43 quand Jésus avait douze ans.
+(L'enfant Jésus au Temple, [Luc 2,41-50])
+#end_francais#
+#deutch#
+Nazareth - Fenster in der Krypta der Josefskirche
+Dieses Fenster stellt Josef bei seinem Tod in den Armen von Maria und Jesus dar. Der Tod Josefs wird in der Bibel nicht erwähnt; in der Episode vom zwölfjährigen Jesus im Tempel erscheint er zum letzten Mal.
+#end_deutch#
+
+

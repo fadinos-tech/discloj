@@ -1,0 +1,28 @@
+#BIBLE#
+20.29-34
+10.46-52
+18.35-42
+NONE
+#end_BIBLE#
+#english#
+Jericho - Road to Jerusalem
+Here, Jesus healed the blind beggar Bartimaeus, son of Timaeus. 
+#end_english#
+#italiano#
+Gerico -- La strada di Bartimeò
+Qui Gesù ha guarito il cieco mendico Bartimeò,(figlio di Timeò).
+#end_italiano#
+#espanol#
+Jericó -- El ciego Bartimeo.
+En la salida de Jericó hacia Jerusalén curó Jesús al ciego Bartimeo (el hijo de Timeo). Restos de la construcción de los cruzados (s. XII).
+#end_espanol#
+#francais#
+Jericho - route de Barthimée
+Ici Jésus a guéri l'aveugle Barthimée (Le fils de Thimée) 
+#end_francais#
+#deutch#
+Jericho - Römerstraße oberhalb des Wadi Qelt
+Eine der biblischen Erzählungen, die an einer Straße in der Nähe von Jericho spielt, ist die Heilung eines Blinden, der im Markusevangelium Bartimäus genannt wird. Das Bild zeigt die alte Straße, die sich seit der Zeit Jesu parallel zum Wadi Qelt hinauf nach Jerusalem windet.
+#end_deutch#
+
+

@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha
+The Sanctuary of the Primacy of Peter. 
+One of the bronze statues, sculpted by Fr. Martini, recalls the commissioning of Peter to the Primacy.
+#end_english#
+#italiano#
+Il Santuario del primato di Pietro. [Fuori] 
+Una statua artistica di bronzo guarda il mare, scolpita da P.Martini, ricorda l'incarico di Pietro al Primato.
+#end_italiano#
+#espanol#
+Tabgha.
+Santuario del Primado de Pedro. [exterior]
+Una artística escultura en bronce del franciscano A. Marini, al borde del lago, rememora la encomienda de Jesús a Pedro para cuidar de su Iglesia.
+#end_espanol#
+#francais#
+Tabgha
+Le Sanctuaire de la Primaute de Pierre [extérieur]
+Une des statues artistiques en bronze face à la mer, sculptée par Fr. Martini et rappelant le pouvoir de primauté de Pierre.
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Außenansicht)
+Eine der künstlerischen Bronzestatuen, die den See überblicken, wurde von Fr. Martini gestaltet und stellt die Übertragung des Primats an Petrus dar.
+#end_deutch#
+
+

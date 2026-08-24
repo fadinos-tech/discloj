@@ -1,0 +1,33 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+The Basilica of the Annunciation
+(Front view, (6))
+#end_english#
+#italiano#
+Nazaret 
+La Chiesa dell'Annunciazione
+[ Vista di fronte , (6) ]
+#end_italiano#
+#espanol#
+Nazaret
+Basílica dela Anunciación
+Vista del frente. (6)
+#end_espanol#
+#francais#
+Nazareth
+L'église de l'Annonciation.
+[Une vue de la façade(6)].
+#end_francais#
+#deutch#
+Nazareth
+Details der Flachreliefs an der Westfassade der Verkündigungsbasilika
+Oben Engel und Maria; unten zwei der vier Evangelisten; auf rotem Sandstein Schrift und kosmische Zeichen.
+#end_deutch#
+
+

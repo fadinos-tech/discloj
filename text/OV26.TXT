@@ -1,0 +1,30 @@
+#BIBLE#
+27.57-61
+15.42-47
+23.50-56
+19.38-42
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+In its entrance lies the stone of Unction. Here the Virgin Mary received the body of her son after he had been taken down from the Cross.
+#end_english#
+#italiano#
+Gerusalemme - Basilica del Santo Sepolcro
+All'ingresso della Basilica, la pietra dell'Unzione,dove è stato deposto il corpo di Gesù dopo la Crocifissione.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro.
+A la entrada de la Basílica, la Piedra de la Unción conmemora la recepción del
+cuerpo de Jesús por María su Madre, y la unción del cadáver con los ungüentos propios, según las costumbres judías.
+#end_espanol#
+#francais#
+Jérusalem -- Basilique du Saint Sépulcre.
+Pierre de l'Onction
+Juste a l'entrée; la pierre de l'onction où la Vierge Marie a reçu le corps de son fils, après qu'il ait été descendu de la Croix.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Direkt hinter dem Eingang befindet sich der "Salbungsstein". Nach griechisch-orthodoxer Tradition wird hier der Kreuzabnahme Jesu gedacht. Maria nahm den Leichnam ihres Sohnes entgegen, der anschließend mit einer Mischung aus Myrrhe, Aloe und wohlriechenden Ölen gesalbt wurde.
+#end_deutch#
+
+

@@ -1,0 +1,28 @@
+#BIBLE#
+27.20-26
+15.14-15
+NONE
+19.1-2
+#end_BIBLE#
+#english#
+Jerusalem - The Church of the Holy Sepulchre
+A part of a column called the " Whipping Column." Jesus was tied to this column and whipped by the Roman soldiers.
+#end_english#
+#italiano#
+Gerusalemme -- Basilica del Santo Sepolcro
+Una parte di una colonna chiamata la " Colonna della Flagellazione ",sulla quale Gesù è stato legato e flagellato dai soldati Romani.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+Fragmento de la Columna de la Flagelación, a la que, según una tradición testimoniada ya en el siglo VII, fue atado el Señor para recibir el tormento de la flagelación de manos de los soldados romanos.
+#end_espanol#
+#francais#
+Jérusalem -- Basilique du saint Sépulcre.
+Une partie de la colonne, appelée " Colonne de la flagellation ", où Jésus a été attaché et flagellé par les soldats Romains.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Dieser Säulenstumpf wird "Geißelungssäule" genannt und erinnert daran, daß Jesus durch römische Soldaten festgebunden und ausgepeitscht wurde.
+#end_deutch#
+
+

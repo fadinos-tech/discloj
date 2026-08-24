@@ -1,0 +1,27 @@
+#BIBLE#
+NONE
+NONE
+2.1-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity 
+#end_english#
+#italiano#
+Betlemme - La chiesa della Natività
+L'interno della chiesa - l'Altare.
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad
+Interior de la Iglesia. Al fondo, el iconostasio de los griegos.
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité
+Dans l'église, tout au fond se trouve l'autel.
+#end_francais#
+#deutch#
+Betlehem - Innenansicht der Geburtsbasilika
+Die niedrige Eingangstür führt zunächst in einen düsteren Narthex, einen Vorraum, dann in das Hauptschiff der alten fünfschiffigen Kirche mit seiner schlichten Pracht. In Blickrichtung ist in der Apsis die Ikonostase vor dem Hauptaltar zu sehen, der heute der griechisch-orthodoxen Gemeinde zur Verfügung steht. Kunsthistorisch wertvoller sind aber andere Ausstattungsgegenstände: Unter dem Steinfußboden befinden sich Reste des prachtvollen Mosaikfußbodens der konstantinischen Basilika. Auch die 44 monolithischen Säulen aus lokalem Stein stammen möglicherweise aus dem ersten Kirchenbau. Auf einigen von ihnen sind Malereien aus der Kreuzfahrerzeit erhalten, die interessanterweise nordische Heilige aus der Heimat der Kreuzfahrer abbilden. Auf den Wänden oberhalb der Säulen befinden sich Mosaiken aus dem 12. Jahrhundert, die unter anderem Beschlüsse und Stadtansichten der frühen Konzilien und einen Stammbaum Jesu darstellen. Auch ein Blick in den offenen Dachstuhl aus Zedernholz lohnt sich.
+#end_deutch#
+
+

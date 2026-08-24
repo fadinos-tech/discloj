@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+1.39-56
+NONE
+#end_BIBLE#
+#english#
+Ein Karem - Church of the Visitation
+It commemorates the visit of the Virgin Mary to her relative Elizabeth.
+The church was built in 1939 upon old Byzantine ruins. It is also called "Le Magnificat."
+#end_english#
+#italiano#
+Ain Karem -- Chiesa della Visitazione
+La chiesa commemora la visita della Vergine Maria alla sua parente Elisabetta.
+La chiesa è stata costruita nel 1939 sopra delle vecchie rovine Bizzantine. E'chiamata anche "la chiesa del Magnificat".
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de la Visitación
+La iglesia conmemora la Visitación de la Virgen María a su prima Sta. Isabel. La edificación actual data de 1939, obra del arquitecto y terciario franciscano A. Barluzzi, conservando parte de los restos de la primitiva iglesia bizantina.
+#end_espanol#
+#francais#
+Ein Karem -- L'église de la Visitation. 
+Elle commémore la visite de la Vierge Marie à sa cousine Elisabeth.
+Cette église a été construite en 1939 sur d'anciennes ruines byzantines. Elle est aussi appelée " Le Magnificat ".
+#end_francais#
+#deutch#
+En Karem - Westfassade der Kirche der Heimsuchung
+Ein Mosaik aus der Bauzeit der modernen Kirche (1939 bis 1955) illustriert auf der Westfassade den Weg Marias zu Elisabet entsprechend der biblischen Bildunterschrift "Maria aber machte sich in jenen Tagen auf und ging mit Eile in das Gebirge, in eine Stadt Judas". Maria reitet auf einem Esel und wird von drei Engeln zu Fuß sowie von drei fliegenden Engeln begleitet. Vor dem Tor der Stadt En Karem am rechten Bildrand, zu der sich der Weg hinaufschlängelt, wird sie von Elisabet erwartet.
+Durch die Begegnung von Maria und Elisabet wird einerseits die Geburt Jesu vorbereitet. Die Huldigung Elisabets macht deutlich, dass Maria zur Mutter des Herrn wird, dass Marias Kind ein so außergewöhnliches ist, dass sogar das Ungeborene in Elisabets Leib daran teilnimmt. Andererseits wird Maria durch diese Begegnung in die Reihe der biblischen und vor allem alttestamentlichen Frauen (beispielsweise Sara, Hanna oder eben Elisabet) gestellt, bei denen es aus biologischen Gründen, wegen ihres hohen Alters, wegen ihrer Unfruchtbarkeit oder wie bei Maria wegen ihrer Jungfräulichkeit, unmöglich scheint, dass sie ein Kind gebären, und bei denen das Unerwartete doch Wirklichkeit wird. Auch mit ihrer Antwort auf den Gruß Elisabets, mit dem sogenannten Loblied Marias, dem Magnificat, steht Maria in der Tradition der alttestamentlichen Psalmenbeter und -beterinnen. Dieses Lied, das seit alter Zeit täglich in der Vesper des kirchlichen Stundengebets gebetet wird, ist im Hof der Kirche der Heimsuchung auf Kacheln in verschiedenen Sprachen zu lesen.
+#end_deutch#
+
+

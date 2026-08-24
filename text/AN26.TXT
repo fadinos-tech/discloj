@@ -1,0 +1,37 @@
+#BIBLE#
+1.18-25;2.19-23
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - The St. Joseph's Church 
+A close view of the painting of the Holy Family that hangs above the altar.
+The birth of Jesus - [Matthew 1,18-25]
+The return to Nazareth - [Matthew 2,19-23]
+#end_english#
+#italiano#
+Nazaret - La chiesa di San Giuseppe
+La Santa Famiglia, pittura sopra l'altare .  
+Matteo 1,18-25 -- La nascita di Gesù
+Matteo 2,19-23 -- Il ritorno a Nazaret )
+#end_italiano#
+#espanol#
+Nazaret - Iglesia de S. José
+"La Sagrada Familia", pintura sobre el altar. 
+Mateo 1,18-25--El Nacimiento de Jesús
+Mateo 2,19-23--El Regreso a Nazaret )
+#end_espanol#
+#francais#
+Nazareth - L'Eglise Saint Joseph.
+Une peinture de la Sainte Famille au dessus de l'autel.
+(Un Ange du Seigneur apparaît a Joseph en rêve
+Mathieu 1,18-25 - La naissance de Jésus-Christ 
+Mathieu 2,19-23 - Le retour a Nazareth)
+#end_francais#
+#deutch#
+Nazareth - Apsisfresko der Josefskirche
+Die Darstellung der Heiligen Familie ist hier im Detail zu sehen. Beachtenswert sind die orientalische Landschaft und die einheimischen Hausformen am linken Bildrand.
+#end_deutch#
+
+

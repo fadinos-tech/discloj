@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+1.57-80
+NONE
+#end_BIBLE#
+#english#
+Ein Karem - St. John's Church 
+In the grotto beneath the Altar is a star that marks John's place of birth. It bears the inscription: "Here was born the predecessor of Christ."
+#end_english#
+#italiano#
+Ain Karem -- La chiesa di San Giovanni
+Nella Grotta ,sotto l'altare c'è la stella che indica il luogo della nascita di Giovanni: "Qui è nato il predecessore di Cristo".
+#end_italiano#
+#espanol#
+Ain Karem -- Iglesia de S. Juan
+En la pequeña gruta que hay en la nave izquierda de la iglesia, bajo el altar, una estrella señala el lugar del nacimiento de S. Juan Bautista: "Aquí nació el Precursor de Cristo".
+#end_espanol#
+#francais#
+Ein Karem – L'église Saint Jean 
+Dans la grotte, sous l'autel, une étoile marque l'emplacement de la naissance de Jean, où il est écrit " Ici est né le prédécesseur du Christ ".
+#end_francais#
+#deutch#
+En Karem
+Detail der Geburtsgrotte in der Johanneskirche
+Unter dem Altar der Geburtsgrotte ist auf dem Boden ein Stern zu sehen. So wie im Lukasevangelium die Erzählungen von Verheißung und Geburt Johannes des Täufers einerseits und Jesu andererseits Parallelen aufweisen, erinnert auch dieser steinerne Stern an den silbernen Stern in der Geburtsgrotte in Betlehem. Beide Sterne wollen durch ihre Inschrift mit einem betonten "hier" ein Ereignis der Heilsgeschichte an einem bestimmten Ort festmachen: "Hier ist der Vorläufer des Herrn geboren worden".
+#end_deutch#
+
+

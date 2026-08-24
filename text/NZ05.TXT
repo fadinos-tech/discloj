@@ -1,0 +1,36 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane
+From the Aramaic "gat semen," meaning: oil press.
+Gethsemane was the favourite place of retreat of Christ and his disciples. It became the site agony (the betrayal by Judas and Jesus' arrest). The Basilica of the Agony is also being called the Church of all Nations, because many countries contributed towards its reconstruction. Architect Antonio Barluzzi rebuilt the church in 1924.
+#end_english#
+#italiano#
+Monte degli Ulivi -- Getsemani
+La parola "gatsemane" è di origine aramaica, e significa "pressa d'olio".
+Il Getsemani era un luogo preferito da Gesù e dai suoi discepoli dove ritirarsi (L'arresto di Gesù). La chiesa dell'Agonia ,chiamata anche la Chiesa di tutte le Nazioni grazie al contributo di tanti paesi per costruirla. La chiesa è stata costruita nel 1924,dall'architetto Antonio Barluzzi.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní (1)
+Su nombre procede del arameo "gat semane", que significa "prensa de aceite".
+Getsemaní era un lugar de retiro frecuentado por Jesús y sus discípulos, en la falda del monte de los Olivos, junto al torrente Cedrón.
+En el Huerto de los Olivos se desarrolló la noche de la agonía de Jesús, la traición de Judas y el prendimiento del Señor la noche del Jueves Santo.
+La Basílica de la Agonía se llama también "de todas las naciones", por la contribución de muchos países en su construcción, obra de A. Barluzzi (1924).
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+Vient de l'araméen "Get semen " signifiant pressoir a olives.
+Gethsemani la retraite la plus fréquentée par Jésus et ses disciples, est devenue le lieu de l'agonie (la trahison de Judas et l'arrestation de Jésus). L'église de l'agonie est aussi appelée "Eglise de toutes les nations", car beaucoup de pays ont contribué à sa construction. L'église a été reconstruite en 1924, par l'architecte Antonio Barrluzzi.
+#end_francais#
+#deutch#
+Der Ölberg
+Gesamtansicht der Kirche der Nationen in Getsemani
+Diese Kirche befindet sich am unteren Ölberghang und damit unweit der Jerusalemer Altstadt. Sie liegt in einer Gegend, die verständlicherweise den Namen Getsemani, "gat schemen", "Ölpresse", trägt, da der Ölberg hier reich mit Olivenbäumen bestanden war und ist. Hier werden das Gebet Jesu in Todesangst nach dem Letzten Abendmahl, sein Verrat durch Judas und seine Verhaftung lokalisiert.
+Der Ort hat dabei konkrete und übertragene Bedeutung: Er liegt außerhalb der Stadt und kann daher gut der Platz gewesen sein, an den Jesus sich mit seinen Jüngern häufig zurückgezogen hat; er liegt an der Straße nach Betanien, von dem manche meinen, dass Jesus während seiner Jerusalemer Aufenthalte dort bei seinen Freunden Maria, Marta und Lazarus gewohnt habe. Im übertragenen Sinn aber ist der Ölberg der Ort der Entscheidung: Hier beginnt die Wüste, und wenn Jesus hätte fliehen wollen, wäre er in ihr bald unauffindbar gewesen.
+#end_deutch#
+
+

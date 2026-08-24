@@ -1,0 +1,31 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+The altar has been placed next to the exact spot where Jesus prayed before his arrest. That very spot is surrounded by a fence in the shape of a crown of thorns, with a cup in front and sorrowful birds on the corners. 
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+L'interno della chiesa, l'altare sopra la Roccia dove Gesù ha pregato prima di essere arrestato.
+La Roccia è circondata da una corona di spine in ferro battuto con un calice davanti e afflitti uccelli agli angoli.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní
+Interior de la iglesia. El altar está construido sobre la Roca de la Agonía, considerada la misma donde Jesús sudó sangre la noche del Jueves Santo. La roca está rodeada de una artística corona de espinas; en la parte central dos palomas recogen la sangre de Cristo en un cáliz.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+L'intérieur, le Rocher
+A l'intérieur de l'église, l'autel surplombe le sol où Jésus priait avant son arrestation. Le sol est entouré par une barrière en forme de couronne d'épines, avec devant une coupe au milieu et, aux coins, des oiseaux affliges.
+#end_francais#
+#deutch#
+Der Ölberg
+Altarraum der Kirche der Nationen in Getsemani
+Die Kirche der Nationen, die auch Kirche der Agonie, der Todesangst, genannt wird, beherbergt vor dem Altar den Naturstein, der schon im Zentrum des byzantinischen Vorgängerbaus des 4. Jahrhunderts stand und der an das dreimalige Gebet Jesu vor seiner Verhaftung erinnert. Den Namen "Kirche der Nationen" trägt sie wegen der finanziellen Unterstützung, mit der sich zahlreiche Länder an dem Neubau von 1919 bis 1924 beteiligten. 15 davon sind mit ihren Wappen in den 12 Kuppeln der Haupt- und Seitenschiffe und in den 3 Apsismosaiken verewigt. Der schmiedeeiserne Kranz um den "Todesangstfelsen", der eine Dornenkrone andeutet, wurde von Österreich gestiftet.
+#end_deutch#
+
+

@@ -1,0 +1,35 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha
+The Sanctuary of the Primacy of Peter (Southern side)
+On the stone steps seen in the photograph, a sign says: "This is holy ground."
+The steps as well as the rock (or "Mensa" meaning Table) inside the church remind us of the third apparition of Jesus to the Apostles after the Resurrection.
+#end_english#
+#italiano#
+Il Santuario del primato di Pietro. [Lato del sud  ]
+sulle scale di pietra che si vedono nella foto, un segno che dice "Questa è una terra santa".
+Le scale con la roccia ( o "Mensa" che significa Tavola ) dentro la chiesa ci ricordano della terza apparizione di Gesù agli Apostoli dopo la risurrezione.
+#end_italiano#
+#espanol#
+Tabgha
+Santuario del Primado de Pedro
+Sobre la escalera de piedra una inscripción dice: "Esta es tierra santa".
+En el interior de la iglesia, la "Mensa Christi" recuerda la tercera aparición de Jesús a los Apóstoles
+#end_espanol#
+#francais#
+Tabgha
+Le Sanctuaire de la Primauté de Pierre. [ côté sud ]
+Sur les marches en pierre que l'on voit sur la photo, il est signalé " ceci est une terre sainte ". 
+Les marches en avant, avec le rocher (ou "Mensa " qui signifie Table) a l'intérieur de l'église, nous rappellent la troisième apparition de Jésus aux apôtres après la Résurrection.
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Das Außengelände im Süden)
+Auf diesen Steinstufen, die schon im 4. Jh. n. Chr. von Pilgern beschrieben wurden, befindet sich eine Aufschrift: "Dies ist heiliger Boden". Die Stufen und der Felsen "Mensa Domini" (lateinisch = "Tisch des Herrn") innerhalb der Kirche erinnern an die Erscheinung des Auferstandenen bei seinen Jüngern am Ufer des Sees Genezareth.
+#end_deutch#
+
+

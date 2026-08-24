@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Tabgha
+The Sanctuary of the Primacy of Peter (Interior, the Mosaic)
+Framed mosaic depicting the visit of Paul VI, who was the first Pope to come to the Sanctuary, the first Pope to return to the "source."
+#end_english#
+#italiano#
+Il Santuario del primato di Pietro.  [Interno, il Mosaico]
+Un mosaico incorniciato che commemora la visita di Paulo VI al Santuario, il primo Papa che torna alle "radici".
+#end_italiano#
+#espanol#
+Tabgha
+Santuario del Primado de Pedro. 
+Mosaico conmemorativo de la visita que realizó en 1964 Pablo VI, el primer papa en regresar a la "fuente" del Primado.
+#end_espanol#
+#francais#
+Tabgha
+Le Sanctuaire de la Primauté de Pierre. [a l'intérieur, la mosaïque]
+Mosaïque encadrée qui commémore la visite de Paul VI au Sanctuaire, le premier Pape à revenir à la "source".
+#end_francais#
+#deutch#
+Tabgha - Die Primatskapelle (Das Innere)
+Ein gerahmtes Mosaik erinnert an den Besuch von Papst Paul VI. Er war der erste Papst, der "zu den Quellen" zurückkehrte.
+#end_deutch#
+
+

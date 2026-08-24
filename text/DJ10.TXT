@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+10.25-37
+NONE
+#end_BIBLE#
+#english#
+Jericho
+The road from Jerusalem to Jericho. 
+Jesus chose this road as the site of the parable of the Good Samaritan.
+#end_english#
+#italiano#
+Gerico
+La strada tra Gerusalemme e Gerico che Gesù usava prendere. 
+Gesù ha scelto questa strada per raccontare la parabola del buon Samaritano.
+#end_italiano#
+#espanol#
+Jericó
+Camino de Jerusalén, por el wadi Qelt, usado por Jesús .
+Por su peligrosidad fue elegido por Jesús como escenario de la parábola del buen samaritano, narrada en Lucas 10,25-37.
+#end_espanol#
+#francais#
+Jéricho
+La route entre Jérusalem et Jéricho que Jésus aurait prise.
+Jésus choisit cette route pour être le lieu de la parabole du bon samaritain, comme relatée en Luc (10,25-37).
+#end_francais#
+#deutch#
+Jericho - Wadi Qelt
+Die heute beliebte Wanderung durch die atemberaubende Landschaft des Wadi Qelt von Jerusalem nach Jericho kann auf zwei Wegen unternommen werden. Einer führt durch das im Frühjahr mit Wasser gefüllte Talbett; der hier abgebildete folgt dem Talverlauf auf halber Höhe.
+#end_deutch#
+
+

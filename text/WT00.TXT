@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+NONE
+21.1-25
+#end_BIBLE#
+#english#
+Tabgha - Lake Shore
+Tabgha is located on the north-western side of the Sea of Galilee, about 3 kms south of Capernaum. The name Tabgha is a corruption of the Greek HEPTAPEGON, which means the "Seven Springs".
+This picture was taken from the Sanctuary of the Primacy of Peter.
+#end_english#
+#italiano#
+Tabgha - La costa del lago
+Tabgha è situata al nord-ovest lato del lagho di Tiberiade  3 chilometri al sud di Cafarnao. Il nome Tabgha è un deformazione del nome Greco HEPTAPEGON, che significa le "sette sorgenti".
+Questa foto è scattata dal santuario del Primato di Pietro.   
+#end_italiano#
+#espanol#
+Tabgha - Lago Genesaret o Mar de Galilea.
+Tabgha está situada en el litoral noroeste del Lago Tiberíades, a 3 km. de Cafarnaúm. Su nombre es una deformación árabe del griego "Heptapegon", que significa "las Siete Fuentes". Vista del lago desde el Santuario del Primado.
+#end_espanol#
+#francais#
+Tibériade Tabgha- Rive du lac
+Tabgha est situé au nord ouest du lac de Tibériade, à environ 3 km au sud de Capharnaüm. Le nom Tabgha est une déformation du nom Grec Eptategoen qui signifie le sept source (Jean 21, 1-25) Cette photo a été prise depuis le Sanctuaire de la Primauté de Pierre.
+#end_francais#
+#deutch#
+Tabgha - Das Seeufer
+Tabgha liegt am Nordwestufer des Sees Genezareth, etwa 3 km südlich von Kapernaum. Sein Name ist eine Verstümmelung des griechischen "heptapegon", was "sieben Quellen" bedeutet. Dieses Bild wurde von der Primatskapelle aus aufgenommen.
+#end_deutch#
+
+

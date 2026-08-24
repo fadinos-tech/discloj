@@ -1,0 +1,31 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+A front view of the Basilica of the Annunciation.
+#end_english#
+#italiano#
+Nazaret 
+La Basilica dell'Annunciazione
+[ Vista di fronte, (5) ]
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación
+Vista de la fachada principal (5) 
+#end_espanol#
+#francais#
+Nazareth
+L'Eglise de l'Annonciation.
+[Une vue de la façade(5)].
+#end_francais#
+#deutch#
+Nazareth - Haupteingang und Westfront der Verkündigungsbasilika
+Unmittelbar neben verwinkelten Basarstraßen präsentiert sich der Eingang zur Verkündigungsbasilika: üppiges Grün und an der linken Seite ein Verkaufsstand mit den so typischen Olivenholzfiguren.
+Die Westfassade thematisiert die Menschwerdung Gottes und wird von einer 3 Meter hohen, bronzenen Christusstatue von Angelo Biancini gekrönt. In Christus wird Gott Mensch; für Menschen wird das greifbar in der Verkündigung des Engels an Maria, im Zeugnis der Evangelisten und im gesamten Kosmos. So sind im obersten Teil im Flachrelief links der Engel und rechts Maria zu sehen. Darunter befinden sich die vier Evangelisten mit ihren Symbolen, während vier rote Sandsteinbänder die vier Elemente darstellen. Auf zwei Schriftbändern ist auf lateinisch zu lesen: "Der Engel grüßte Maria" und "Das Wort ist Fleisch geworden und hat unter uns gewohnt". Gerahmt ist die Komposition durch zwei Verse aus dem Alten Testament (Gen 3,16 und Jes 7,14), die auf Christus hin gedeutet werden können.
+#end_deutch#
+
+

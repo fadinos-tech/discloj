@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Capernaum - The city of Jesus
+The ruins of the Byzantine church that was built upon the house of St. Peter.
+This picture was taken while the excavations were taking place.
+#end_english#
+#italiano#
+Cafarnao - La città di Gesù
+Le rovine della chiesa Bizantina che era costruita sopra la casa di San Pietro , 
+Questa foto è stata scattata durante gli scavi archeologici.
+#end_italiano#
+#espanol#
+Cafarnaúm - La ciudad de Jesús
+Ruinas de la iglesia bizantina construida en la Casa de S. Pedro. 
+Fotografía tomada durante las excavaciones arqueológicas.
+#end_espanol#
+#francais#
+Capharnaüm - La ville de Jésus
+Les ruines de l'église byzantine qui fut construite au-dessus de la maison de St. Pierre.
+Cette photo a été prise lors des fouilles.
+#end_francais#
+#deutch#
+Kafarnaum - Ruinen unter der Petruskirche
+Das Bild zeigt den oktogonalen Grundriß der byzantinischen Kirche aus der zweiten Hälfte des 5. Jahrhunderts, über der seit 1990 die moderne Petruskirche errichtet ist. Die Ausgrabungen haben ergeben, dass sich hier zur Zeit Jesu ein Wohnviertel befand, das in den folgenden Jahrhunderten Schritt für Schritt in eine Hauskirche umgewandelt und von der byzantinischen Kirche überbaut wurde.
+#end_deutch#
+
+

@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - St. Mary (The Tomb)
+Here, the Virgin Mary, mother of Christ, was buried before her Ascension.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Chiesa di Santa Maria ( La Tomba )
+Qui la Vergine Maria, madre di Cristo è stata sepolta e poi assunta.
+#end_italiano#
+#espanol#
+Monte de los Olivos. Tumba de la Virgen
+Según una tradición antiquísima, aquí fue depositado el cuerpo de la Virgen y tuvo lugar su Asunción a los cielos.
+#end_espanol#
+#francais#
+Mont des Oliviers 
+L'église Ste Marie (La Tombe de la Vierge Marie)
+Ici la Vierge Marie, Mère du Christ, a été déposée puis élevée au ciel.
+#end_francais#
+#deutch#
+Der Ölberg - Die Marienkirche (Das Grab)
+Nach orthodoxer Tradition wurde hier die Jungfrau Maria begraben und in den Himmel aufgenommen.
+#end_deutch#
+
+

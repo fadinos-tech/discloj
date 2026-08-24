@@ -1,0 +1,29 @@
+#BIBLE#
+NONE
+NONE
+NONE
+NONE
+#end_BIBLE#
+#english#
+Nazareth - Basilica of the Annunciation
+Beside the Basilica stands a small chapel used for baptisms.
+#end_english#
+#italiano#
+Nazaret - La Chiesa dell'Annunciazione .
+Vicino alla chiesa, una picolla capella per l'amministrazione del Battesimo.
+#end_italiano#
+#espanol#
+Nazaret - Basílica de la Anunciación
+Baptisterio, situado fuera de la iglesia, en el patio norte.
+#end_espanol#
+#francais#
+Nazareth
+L'église de l'Annonciation. 
+A côté de l'église, une petite chapelle utilisée pour les cérémonies baptismales.
+#end_francais#
+#deutch#
+Nazareth - Taufkapelle im Hof der Verkündigungsbasilika
+Von der Oberkirche aus führen zwei Türen in der Nordwand auf eine Plattform, die die freigelegten Überreste der Höhlensiedlung aus der Zeit Jesu überdeckt. Hier steht eine kleine Taufkapelle, das Baptisterium, das nach altkirchlichem Brauch ein von der Kirche getrenntes Gebäude ist. Die lichte Konstruktion wurde von dem deutschen Künstlerehepaar Hartmann-Lintel entworfen. Die mit Bronze und buntem Glas durchsetzten Glaswände erinnern an herabfließendes Taufwasser. Das Wandmosaik im Innern spielt mit den Farben gelber Felder und grüner Olivenhaine; darin sind in dunklen Farben der See Gennesaret und der Jordan zu erkennen, der auf dem Fußboden weitergeführt wird. Aus ihm erhebt sich ein bronzenes Taufbecken auf dem die Taufe Jesu durch Johannes im Jordan dargestellt ist.
+#end_deutch#
+
+

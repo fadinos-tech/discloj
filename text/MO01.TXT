@@ -1,0 +1,45 @@
+#BIBLE#
+26.6-13
+14.3-9
+10.38-42
+11.1-44;12.1-8
+#end_BIBLE#
+#english#
+Bethany
+A village on the farther side of the Mount of Olives, about 3 km from Jerusalem on the road to Jericho.
+This is where Jesus' friends Lazarus, Mary and Martha lived.
+It was here, where Jesus raised Lazarus from the dead and was later anointed by Lazarus' sister Mary.
+The death of Lazarus - [John 11,1-44; Luke 10,38-42] 
+Jesus anointed at Bethany - [Matthew 26,6-13; Mark 14,3-9; John 12,1-8] 
+#end_english#
+#italiano#
+Betania
+Un villaggio a circa 3 Km da Gerusalemme sulla strada di Gerico, sul lato più lontano del Monte degli ulivi.
+E il luogo dove abitavano gli amati amici di Gesù Lazzaro, Maria e Marta.
+E il villaggio dove Gesù ha risuscitato Lazzaro dalla morte e dove riceverà l'unzione da Maria la sorella di Lazzaro.
+( Giovanni 11,1-44 ; Luca 10,38-42 ) -- La morte di Lazzaro
+( Matteo 26,6-13 ; Marco 14,3-9 ; Giovanni 12,1-8 ) -- Gesù Unto a Betania
+#end_italiano#
+#espanol#
+Betania.
+El pueblo de los amigos de Jesús, Lázaro, Marta y María, está a unos 3 km de Jerusalén,
+camino de Jericó, en la ladera oriental del Monte de los Olivos.
+En Betania Jesús resucitó a Lázaro y recibió la unción de María.
+(Jn 11,1-44; Lc 10,38-42) -- Resurrección de Lázaro
+(Mt 26,6-13 ; Mc 14,3-9 ; Jn 12,1-8 ) -- Jesús ungido en Betania.
+#end_espanol#
+#francais#
+Béthanie
+Un village sur le côté le plus éloigné du mont des Oliviers, à environ 3 km de Jérusalem, sur la route de Jéricho.
+C'est là qu'habitaient les amis bien aimés de Jésus : Lazare, Marie et Marthe. 
+C'est le village où Jésus a ressuscité Lazare, et où, plus tard, il a été oint par Marie, la sœur de Lazare.
+La mort de Lazare (Jean 11,1-44; Luc 10,38-42)
+Jésus oint à Béthanie (Jean 12,1-8; Marc 14,3-9; Mathieu 26,6-13).
+#end_francais#
+#deutch#
+Der Ölberg - Gesamtansicht von Betanien
+Auf der der Stadt abgewandten Ölbergseite liegt an der Straße nach Jericho der arabische Vorort Jerusalems al Azarije. Der vom Wort "Lazarus" abgeleitete Name lässt erkennen, dass die christliche Tradition in dem 3.600-Einwohner-Dorf das biblische Betanien sieht, den Wohnort von Jesu Freunden Maria, Marta und Lazarus. Hier werden dementsprechend Jesu Besuch bei Maria und Marta, die Auferweckung des Lazarus und die Salbung Jesu durch Maria lokalisiert.
+Im Bildvordergrund ist die rot bekuppelte griechisch-orthodoxe Lazaruskirche zu sehen. Links dahinter kennzeichnet ein Minarett den Ort, an dem das Grab des Lazarus gezeigt wird, und wiederum unmittelbar links dahinter befindet sich die moderne römisch-katholische Lazaruskirche mit eckigem Turm. Das Dorf erstreckt sich im Hintergrund bis zu den Ausläufern der judäischen Wüste in ihrem eigenartigen Licht. Am Horizont erhebt sich das jordanische Hochplateau jenseits des Jordans und der politischen Grenze.
+#end_deutch#
+
+

@@ -1,0 +1,28 @@
+#BIBLE#
+27.27-31
+15.16-20
+23.24-25
+19.17-17
+#end_BIBLE#
+#english#
+Via Dolorosa - Near the Second Station of the Cross (5)
+The prison of Christ.
+#end_english#
+#italiano#
+Via Dolorosa -- Presso la Seconda Stazione. (5)
+Prigione di Cristo.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Cerca de la Segunda Estación (5).
+Prisión de Cristo. Pasado el Arco y la iglesia del Ecce Homo está el Pretorio de los griegos. Conserva restos romanos, también de grandes losas, como en el Litóstrotos, bajo la iglesia del Ecce Homo, y en la Capilla de la Condena. Una parte es llamada "Prisión de Cristo".
+#end_espanol#
+#francais#
+Via Dolorosa – Près de la deuxième station du Chemin de la Croix (5)
+Le prison du Christ 
+#end_francais#
+#deutch#
+Die Via Dolorosa
+In der Nähe der zweiten Station des Kreuzweges befindet sich das "Gefängnis Christi."
+#end_deutch#
+
+

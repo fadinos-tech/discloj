@@ -1,0 +1,29 @@
+#BIBLE#
+26.36-56
+14.32-52
+22.39-54
+18.1-14
+#end_BIBLE#
+#english#
+Mount of Olives - Gethsemane 
+Inside the church, a mosaic to the left of the altar depicts the arrest of Christ.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Getsemani
+Interno della chiesa, un mosaico alla sinistra dell'altare rappresenta l'arresto di Gesù.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Getsemaní 
+Interior de la Basílica. El Mosaico de la nave norte o izquierda representa el prendimiento del Señor.
+#end_espanol#
+#francais#
+Mont des Oliviers – Gethsemani
+Mosaïque de gauche.A l'intérieur de l'église, une mosaïque à gauche de l'autel, montrent l'arrestation de Jésus.
+#end_francais#
+#deutch#
+Der Ölberg
+Mosaik der rechten Apsis der Kirche der Nationen in Getsemani
+Das Geschehen, das in der von Mario Barberis gestalteten Apsis des rechten Seitenschiffs dargestellt ist, schließt sich szenisch unmittelbar an den Verrat durch Judas, der in ähnlicher Formensprache Thema der linken Seitenapsis ist, an. Die Dynamik hat sich aber vollständig gewandelt: Waren links bei dem feigen Verrat Judas und seine Begleiter die selbstbewußt Handelnden, wird diese Szene ausschließlich durch einen machtvollen Jesus bestimmt. Von ihm geht ein Strahlen aus, das sogar auf die starre Form eines Heiligenscheins verzichten kann. Judas im bräunlichen Gewand ist zu Boden gefallen und muß sich mit seiner Handbewegung vor Jesu Ausstrahlung schützen. Bei seinen Begleitern erinnert nur noch die erhobene Fackel an ihre ursprüngliche Selbstsicherheit. Auch die Jünger zur linken sind fassungslos, und sogar die Bäume biegen sich zur Seite. Das lateinische Zitat aus dem Johannesevangelium macht deutlich, dass Jesus auch sprachlich die Szene beherrscht: "Als er zu ihnen sagte: Ich bin es!, wichen sie zurück und stürzten zu Boden."
+#end_deutch#
+
+

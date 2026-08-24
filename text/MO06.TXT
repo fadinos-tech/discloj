@@ -1,0 +1,27 @@
+#BIBLE#
+NONE
+NONE
+NONE
+11.1-44
+#end_BIBLE#
+#english#
+Bethany - The entrance to the tomb of Lazarus
+The entrance to the tomb, on the left of the entrance to the church.
+#end_english#
+#italiano#
+Betania -- L'entrata alla Tomba di Lazzaro
+L'entrata alla Tomba, alla sinistra della chiesa cattolica.
+#end_italiano#
+#espanol#
+Betania  -- Entrada a la tumba de Lázaro.
+A la izquierda de la tumba está la iglesia católica de la resurrección de Lázaro.
+#end_espanol#
+#francais#
+Béthanie -- L'entrée de la tombe de Lazare 
+L'entrée de la tombe, à gauche de l'église catholique.
+#end_francais#
+#deutch#
+Der Ölberg
+Eingang zum Lazarusgrab in Betanien
+Ursprünglich konnte das verehrte Grab unmittelbar vom Atrium der zweiten byzantinischen Kirche aus betreten werden. Dieser Zugang wurde im 16. Jahrhundert in die neu errichtete Moschee integriert und ist heute geschlossen. Stattdessen brachen die Franziskaner 1612 den abgebildeten neuen Eingang von außen in den Felsen. Hinter der engen Tür führen 24 Stufen in die Grabkammer hinunter, deren typische antike Form weniger zu erkennen ist als die kreuzfahrerischen Einbauten.
+#end_deutch#

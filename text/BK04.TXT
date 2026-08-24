@@ -1,0 +1,28 @@
+#BIBLE#
+NONE
+NONE
+1.39-56
+NONE
+#end_BIBLE#
+#english#
+Ein Karem - The well of Ein Karem
+It is said that the Virgin Mary used to draw water from this well during her stay at Elizabeth's house.
+#end_english#
+#italiano#
+Ain Karem --Fonte della Vergine
+Si racconta che la Vergine Maria attingeva l'acqua da questa fonte mentre stava nella casa di Elisabetta.
+#end_italiano#
+#espanol#
+Ain Karem -- Fuente de la Virgen
+La fuente pública de Ain Karem se conoce desde la Edad Media con el nombre de Fuente de la Virgen, sin duda para recordar el tiempo que María pasó ayudando a Isabel en su casa, y, por tanto, también haciendo uso de esta fuente.
+#end_espanol#
+#francais#
+Ein Karem – Le Puits d'Ein Karem 
+Il est dit que la Vierge Marie venait puiser l'eau ici pendant son séjour dans la maison d'Elisabeth.
+#end_francais#
+#deutch#
+En Karem - Die Marienquelle
+In der Mitte des alten Dorfzentrums von En Karem befindet sich eine der kräftigen Quellen der Region. Wie in Nazaret und überall im alten Orient war die Quelle oder der Brunnen eines Dorfes wichtiger Kommunikations- und Versammlungsort. So gibt es seit dem 14. Jahrhundert auch für En Karem die den lokalen Sitten entsprechende Tradition, dass Maria während ihres Aufenthalts bei Elisabet hier regelmäßig Wasser geholt habe. Diese Bedeutung ist auch in den arabischen Namen der Quelle übergegangen. Im 19. Jahrhundert wurde die Quelle von einer kleinen Moschee überbaut, die aber heute nicht mehr benutzt wird.
+#end_deutch#
+
+

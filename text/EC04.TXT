@@ -1,0 +1,36 @@
+#BIBLE#
+NONE
+NONE
+NONE
+2.1-11;4.46-54;21.2-3
+#end_BIBLE#
+#english#
+CANA OF GALILEE 
+Kafr Kanna -- Panoramic view.
+Some 8 km from Sephoris and 14 from Nazareth, we find the remains of the Cana of Galilee that was mentioned in he Gospel. As the most recent archaeological studies show and as the name of the place still manifests (The Ruins of Qana). Here we can see a crypt, with graffiti and inscriptions. This place was already known during the crusader period. Three km form here we find Kaukab, Jesus had relatives here, this fact being mentioned by Julius the African in the Second century. 
+This would then explain the presence of Jesus and his mother at the wedding feast.
+#end_english#
+#italiano#
+CANA DI GALILEA 
+Khirbet Qana - Vista del posto.
+A 8 km. da Sefforis e 14 da Nazaret si incontrano i resti della evangelica Cana de Galilea, come dimostrano i più recenti studi storici e lo stesso nome mantenuto dal luogo (Rovine di Qana). In questo posto si trova una cripta, con iscrizioni e graffitti, conosciuta già all'epoca dei crociati. A 3 km. si trova Kaukab, il villaggio dove Gesù aveva dei parenti, secondo quanto afferma Giulio Africano nel secolo II. 
+Questo spiegherebbe la presenza di Gesù e di Maria alle nozze.
+#end_italiano#
+#espanol#
+CANA DE GALILEA 
+Khirbet Qana - Panorámica
+A 8 km. de Séforis y 14 de Nazaret se encuentras la ruinas de la evangélica Caná de Galilea, como han demostrado los más recientes estudios históricos, y cuyo nombre aún mantiene ( Ruinas de Qana).
+Se conserva una cripta con inscripciones y grafitos, conocida desde la época de los cruzados. A 3 Km. está Kaukab, el pueblo donde Jesús tenía parientes, según dice Julio Africano en el s. II, lo que explica la presencia de Jesús y su Madre en las bodas.
+#end_espanol#
+#francais#
+CANA DE GALILEE 
+Khirbet Qana -- Vue d'ensemble.
+À 8 km. de Séphoris et à 14 km. de Nazareth se trouvent les restes de la Cana évangelique, comme le démontrent les plus récents études historiques ainsi que le prope nom maintenu par le lieu (Ruine de Qana). 
+À 3 km. se trouve Kaukab, le village dans lequel Jésus avait de la famille, si l'on s'en tient à ce qu'affirme Jules l'Africain au II siècle, cela explique la présence de Jésus et de Marie lors des noces.
+#end_francais#
+#deutch#
+Kana - Der Ruinenhügel Khirbet Qana
+Das heutige arabische Dorf Kafr Kanna hat zwar den biblischen Namen Kana bewahrt; archäologische Untersuchungen gaben aber keinerlei Hinweise auf seine damalige Existenz. Der Ort, der hingegen mit großer Wahrscheinlichkeit das Dorf Kana der Zeit Jesu war, ist heute ein unbebauter Ruinenhügel 14 Kilometer nordwestlich von Nazaret und 8 Kilometer nördlich des damals bedeutenderen Sepphoris. Ausgrabungen von Resten einer Kirche weisen darauf hin, dass möglicherweise auch die Kreuzfahrer hier das biblische Kana lokalisiert haben.
+#end_deutch#
+
+

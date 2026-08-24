@@ -1,0 +1,28 @@
+#BIBLE#
+27.15-26
+15.1-15
+23.13-25
+18.38-40
+#end_BIBLE#
+#english#
+Via Dolorosa - Near the Second Station of the Cross (6)
+The prison of Barabbas.
+#end_english#
+#italiano#
+Via Dolorosa -- Presso la Seconda Stazione. (6)
+Prigione di Barabba.
+#end_italiano#
+#espanol#
+Vía Dolorosa -- Cerca de la segunda Estación. (6)
+Prisión de Barrabás.
+#end_espanol#
+#francais#
+Via Dolorosa – Près de la deuxième station du Chemin de la Croix (6) 
+Le prison du Barabbas 
+#end_francais#
+#deutch#
+Die Via Dolorosa
+In der Nähe der zweiten Station des Kreuzweges befindet sich das "Gefängnis des Barabbas."
+#end_deutch#
+
+

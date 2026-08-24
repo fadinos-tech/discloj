@@ -1,0 +1,29 @@
+#BIBLE#
+28.1-7
+16.1-8
+24.1-12
+20.1-10
+#end_BIBLE#
+#english#
+Jerusalem - Church of the Holy Sepulchre
+The entrance to the Holy Tomb, Chapel of the Angel.
+#end_english#
+#italiano#
+Gerusalemme -- Basilica del Santo Sepolcro
+L'entrata alla Santa Tomba, Capella dell' Angelo.
+#end_italiano#
+#espanol#
+Jerusalén -- Basílica del Santo Sepulcro
+La Capilla del Angel es la primera cámara del Edículo de la Resurrección.
+En el centro de la Capilla hay un relicario de mármol conteniendo un fragmento de la piedra que sellaba la tumba, sobre la que se sentó el ángel la mañana de Pascua anunciando a las mujeres que Jesús había resucitado.
+#end_espanol#
+#francais#
+Jérusalem - Basilique du Saint Sépulcre.
+A l'entrée du tombeau est la chapelle de l'Ange.
+#end_francais#
+#deutch#
+Jerusalem - Die Anastasis oder Grabeskirche
+Der Vorraum des Heiligen Grabes wird Engelskapelle genannt.
+#end_deutch#
+
+

@@ -1,0 +1,32 @@
+#BIBLE#
+NONE
+NONE
+1.26-38
+NONE
+#end_BIBLE#
+#english#
+Nazareth 
+The Basilica of the Annunciation
+(A view of the dome from the inside)
+#end_english#
+#italiano#
+Nazaret
+La Chiesa dell'Annunciazione.
+[ L'interno della chiesa , La cupola  ]
+#end_italiano#
+#espanol#
+Nazaret
+Basílica de la Anunciación
+Interior de la iglesia. La cúpula 
+#end_espanol#
+#francais#
+Nazareth
+L'église de l'Annonciation. 
+[Une vue du dôme de l'intérieur de l'église.] 
+#end_francais#
+#deutch#
+Nazareth - Inneres der Kuppel der Verkündigungsbasilika
+Der Blick von unten in die Kuppel der Oberkirche lässt die Größe und Wucht der Verkündigungsbasilika erahnen. Die Kegelspitze ist vom Boden der Unterkirche 60 Meter entfernt. Die Kuppel ist als umgedrehte Lilienblüte gestaltet, die aus dem Himmel nach unten wächst und sich 18 Meter weit ausbreitet. Einerseits steht das Motiv der Lilie für die Reinheit Marias; andererseits wird das Wort "Nazareth" aus dem Hebräischen "Nezer", "Blüte" oder "Spross", abgeleitet. Darüber hinaus spielen die 16 zweiteiligen Blütenblätter mehrfach mit der antiken Zahlensymbolik von 32 (Vollkommenheit Gottes) und 23 (Mensch als Ebenbild Gottes), was dazu führt, dass im Innern der Kuppel insgesamt 736mal der Buchstabe M für Maria steht. An der Kegelspitze fällt tagsüber durch 16 Fenster Licht ins Kircheninnere; nachts leuchten von dort aus Lampen hell über die Stadt.
+#end_deutch#
+
+

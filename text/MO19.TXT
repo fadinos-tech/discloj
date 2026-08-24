@@ -1,0 +1,29 @@
+#BIBLE#
+6.9-13
+NONE
+11.2-4
+NONE
+#end_BIBLE#
+#english#
+Mount of Olives - The Convent of the Pater Noster
+In the cloisters and inside the church, the Lord's Prayer is written on the walls in over 80 languages. On the left is the entrance to the church.
+#end_english#
+#italiano#
+Monte Degli Ulivi -- Chiesa del Pater Noster
+Nei corridoi è dentro la chiesa, la Preghiera del Signore è scritta sui muri in più di 80 lingue. Sulla sinistra l'entrata nella chiesa.
+#end_italiano#
+#espanol#
+Monte de los Olivos -- Iglesia del Pater Noster
+El Padre Nuestro, escrito en más de 80 lenguas, cubre las paredes del claustro e iglesia del actual convento de monjas carmelitas.
+#end_espanol#
+#francais#
+Mont des Oliviers -- Eglise du "Notre Père"
+Dans le cloître et a l'intérieur de l'église, la prière du Notre père est inscrite sur les murs en plus de 80 langues. 
+#end_francais#
+#deutch#
+Der Ölberg
+Innenansicht des Kreuzgangs der Eleona-Kirche
+Dieser Kreuzgang vom Ende des 19. Jahrhunderts greift die kreuzfahrerzeitliche Tradition auf, in der Nähe der Grotte der Lehrreden der Verkündigung des Vaterunsers zu gedenken. In über 100 Sprachen ist das Vaterunser hier zu lesen. Links hinter der äthiopischen und einer fernöstlichen Version befindet sich der Eingang zur neuzeitlichen Kirche.
+#end_deutch#
+
+

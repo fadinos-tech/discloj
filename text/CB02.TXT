@@ -1,0 +1,30 @@
+#BIBLE#
+NONE
+NONE
+2.1-20
+NONE
+#end_BIBLE#
+#english#
+Bethlehem - The Church of the Nativity 
+The entrance to the church: A small door that cannot be entered without bending the head.
+#end_english#
+#italiano#
+Betlemme - La chiesa della Nascita
+L'ingresso della chiesa, è una piccola porta. Vi si può entrare soltanto curvandosi.
+#end_italiano#
+#espanol#
+Belén - Basílica de la Natividad
+La entrada a la iglesia se hace por una minúscula puerta, que obliga a inclinarse
+para entrar (puerta de la humildad). Esta puerta data del período turco, y se modificó en esta forma para evitar que los musulmanes entraran con sus caballos en la misma Basílica.
+(La historia del nacimiento de Jesús es narrada por Lucas 2,1-20)
+#end_espanol#
+#francais#
+Bethléem – L'église de la Nativité
+L'entrée de l'église est une petite porte, par où on ne peut passer sans se baisser.
+#end_francais#
+#deutch#
+Betlehem
+Der niedrige Haupteingang in der Westfassade der Geburtsbasilika; darüber der Spitzbogen der Kreuzfahrerzeit, rechts daneben der Türpfosten der justinianischen Basilika. ( Weitere Informationen: siehe voriges Bild )
+#end_deutch#
+
+
