@@ -1,5 +1,5 @@
 // Discover the Land of Jesus — app & website (single-page, hash routed, live Firestore content)
-import { store, startStore, subscribe, mediaUrl, photosOfPlace, placeById, photoById, videoByCode } from "./store.js";
+import { store, startStore, subscribe, mediaUrl, photosOfPlace, placeById, photoById, videoByCode, IS_NATIVE } from "./store.js";
 import { LANGS, lang, setLang, savedLang, t, L, fmtRef } from "./i18n.js";
 import { loadGospel, passage, splitRefs } from "./bible.js";
 import { DEFAULT_PAGES } from "./pages-default.js";
@@ -285,6 +285,32 @@ async function openPassage(g, refStr) {
   } catch (e) { console.error(e); body.innerHTML = `<div class="empty">${esc(t("pageEmpty"))}</div>`; }
 }
 
+// ---------- app update check (native apps; managed in adminos -> App Version) ----------
+const cmpVer = (a, b) => { const A = String(a || "0").split("."), B = String(b || "0").split("."); for (let i = 0; i < 3; i++) { const d = (+A[i] || 0) - (+B[i] || 0); if (d) return d; } return 0; };
+let updateShown = false;
+function checkAppUpdate() {
+  if (!IS_NATIVE || updateShown) return;
+  const u = store.settings?.appUpdate; if (!u) return;
+  const platform = globalThis.Capacitor?.getPlatform?.() === "ios" ? "ios" : "android";
+  const url = platform === "ios" ? u.iosUrl : u.androidUrl; if (!url) return;
+  const forced = u.minVersion && cmpVer(APP_VERSION, u.minVersion) < 0;
+  const soft = u.latestVersion && cmpVer(APP_VERSION, u.latestVersion) < 0;
+  if (!forced && !soft) return;
+  if (!forced && localStorage.getItem("discloj.skipVer") === String(u.latestVersion)) return;
+  updateShown = true;
+  const el = document.createElement("div"); el.className = "update-modal";
+  el.innerHTML = `<div class="box">
+    <div class="eyebrow">${esc(L(store.settings?.title) || "Discover the Land of Jesus")}</div>
+    <h2>${esc(t("updateTitle"))}</h2>
+    <p>${esc(forced ? t("updateForced") : t("updateBody"))}</p>
+    <p class="vers">v${esc(APP_VERSION)} \u2192 v${esc(u.latestVersion || u.minVersion)}</p>
+    <a class="go" href="${esc(url)}" target="_blank" rel="noopener">${esc(t("updateNow"))}</a>
+    ${forced ? "" : `<button class="later">${esc(t("updateLater"))}</button>`}
+  </div>`;
+  el.addEventListener("click", (e) => { if (e.target.closest(".later")) { localStorage.setItem("discloj.skipVer", String(u.latestVersion)); el.remove(); } });
+  document.body.appendChild(el);
+}
+
 // ---------- render ----------
 let lastKey = "";
 function render() {
@@ -350,6 +376,7 @@ document.addEventListener("keydown", (e) => {
 });
 window.addEventListener("hashchange", () => { closeVideo(); closeReader(); render(); });
 subscribe(render);
+subscribe(checkAppUpdate);
 
 // ---------- boot ----------
 if (savedLang()) setLang(savedLang());

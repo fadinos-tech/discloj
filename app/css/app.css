@@ -263,3 +263,12 @@ footer.site nav { display: flex; gap: 18px; flex-wrap: wrap; }
 .search-box { display: flex; align-items: center; gap: 8px; height: 42px; padding: 0 12px; border-radius: 21px; background: var(--paper); border: 1px solid var(--sand-3); color: var(--muted); }
 .search-box input { flex: 1; border: 0; outline: 0; font: inherit; font-size: 15px; color: var(--text); background: transparent; min-width: 0; }
 .results { margin-top: 12px; }
+
+/* app update modal */
+.update-modal { position: fixed; inset: 0; z-index: 90; background: rgba(20,10,5,0.72); display: flex; align-items: center; justify-content: center; padding: 24px; }
+.update-modal .box { width: 100%; max-width: 360px; background: var(--sand); border-radius: var(--radius); padding: 26px 24px; display: flex; flex-direction: column; gap: 10px; text-align: center; box-shadow: 0 20px 60px rgba(0,0,0,0.4); }
+.update-modal h2 { margin: 0; font-family: var(--font-display); font-size: 20px; color: var(--brown); }
+.update-modal p { margin: 0; font-size: 14px; line-height: 1.55; color: var(--brown-3); }
+.update-modal .vers { font-family: var(--font-display); font-size: 13px; letter-spacing: 0.08em; color: var(--gold); }
+.update-modal .go { display: flex; align-items: center; justify-content: center; height: 48px; margin-top: 8px; border-radius: 24px; background: var(--brown); color: var(--sand); font-size: 15px; font-weight: 600; }
+.update-modal .later { height: 40px; color: var(--muted); font-size: 13px; }

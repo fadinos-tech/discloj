@@ -65,7 +65,7 @@ function uploadError(e) {
 
 // ---------- shell ----------
 function shell(inner, r) {
-  const nav = [["places", "Places & Photos"], ["videos", "Videos"], ["pages", "Pages"], ["settings", "Settings"], ["tools", "Import / Export"]];
+  const nav = [["places", "Places & Photos"], ["videos", "Videos"], ["pages", "Pages"], ["settings", "Settings"], ["appversion", "App Version"], ["tools", "Import / Export"]];
   const cur = { place: "places", photo: "places", newphoto: "places", video: "videos", newvideo: "videos", page: "pages" }[r.view] || r.view;
   return `<header class="a-hdr"><span class="logo">JESUS<small>· ADMINOS v${APP_VERSION}</small></span>
     <nav>${nav.map(([v, n]) => `<a href="#/${v}" class="${cur === v ? "active" : ""}">${n}</a>`).join("")}</nav>
@@ -219,6 +219,23 @@ function viewSettings() {
   </form>`;
 }
 
+function viewAppVersion() {
+  const u = store.settings?.appUpdate || {};
+  return `<div class="a-title"><div><div class="eyebrow">Native apps (Android / iOS)</div><h1>App version management</h1></div><div class="actions"><button class="btn primary" id="saveAppVersion">Save</button></div></div>
+  <form id="f" onsubmit="return false" class="cols">
+    <div class="panel"><h3>Versions</h3>
+      ${input("appUpdate.latestVersion", u.latestVersion ?? APP_VERSION, "Latest version (older apps see a polite update suggestion)")}
+      ${input("appUpdate.minVersion", u.minVersion ?? "", "Minimum version (older apps are BLOCKED until they update — leave empty to never block)")}
+      <div class="hint">This admin/site code is <b>v${APP_VERSION}</b>. Version format: 2.0.4. The app compares its own version on every launch and offers the right store per device.</div>
+    </div>
+    <div class="panel"><h3>Store links</h3>
+      ${input("appUpdate.androidUrl", u.androidUrl ?? "https://play.google.com/store/apps/details?id=com.clicksolutionspro.discloj", "Google Play URL (Android)", "url")}
+      ${input("appUpdate.iosUrl", u.iosUrl ?? "", "App Store URL (iPhone) — fill in after the app is published", "url")}
+      <div class="hint">If a store URL is empty, devices of that platform are never prompted.</div>
+    </div>
+  </form>`;
+}
+
 function viewTools() {
   return `<div class="a-title"><h1>Import / Export</h1></div>
   <div class="cols">
@@ -243,7 +260,7 @@ function render() {
   if (user.uid !== ADMIN_UID) { $root.innerHTML = `<div class="login"><div class="box"><h1>Not authorised</h1><p class="hint">${esc(user.email)} is signed in but is not the admin account.<br>UID: <code>${esc(user.uid)}</code></p><button class="btn" id="signOut">Sign out</button></div></div>`; return; }
   const r = route();
   if (!store.ready && !store.places.length) { $root.innerHTML = shell(`<div class="loading">Loading content…</div>`, r); return; }
-  const views = { places: viewPlaces, place: viewPlace, photo: viewPhoto, newphoto: viewNewPhoto, videos: viewVideos, video: viewVideo, newvideo: viewNewVideo, pages: viewPages, page: viewPage, settings: viewSettings, tools: viewTools };
+  const views = { places: viewPlaces, place: viewPlace, photo: viewPhoto, newphoto: viewNewPhoto, videos: viewVideos, video: viewVideo, newvideo: viewNewVideo, pages: viewPages, page: viewPage, settings: viewSettings, appversion: viewAppVersion, tools: viewTools };
   $root.innerHTML = shell((views[r.view] || viewPlaces)(r), r);
   dirty = false;
 }
@@ -305,6 +322,7 @@ document.addEventListener("click", async (e) => {
 
   if (T.closest("#addPage")) { const id = prompt("Page id (letters only, e.g. contact):")?.trim().toLowerCase(); if (!id || !/^[a-z0-9-]{2,30}$/.test(id)) return; go("page", id); return; }
   if (T.closest("#savePage")) { const d = collect(document.getElementById("f")); await save("pages", r.a, d, "Page saved"); return; }
+  if (T.closest("#saveAppVersion")) { const d = collect(document.getElementById("f")); await save("settings", "site", d, "App version settings saved"); return; }
   if (T.closest("#saveSettings")) { const d = collect(document.getElementById("f")); d.languages = LANGS; await save("settings", "site", d, "Settings saved"); return; }
 
   if (T.closest("#impSite")) { try { const data = await (await fetch(SITE_ROOT + "data/content.json")).json(); await importContent(data); } catch (err) { toast("Could not load data/content.json: " + err.message, true); } return; }
