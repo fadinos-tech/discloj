@@ -211,7 +211,7 @@ function viewSettings() {
   <form id="f" onsubmit="return false" style="display:flex;flex-direction:column;gap:16px">
     <div class="panel"><h3>Site</h3>
       ${input("mediaBaseUrl", s.mediaBaseUrl ?? "https://clicksolutionspro.com/discloj/media/", "Media base URL (where photos/ and videos/ live)", "url")}
-      <div class="row3">${input("credits", s.credits ?? "by Fadi & Sami", "Credits")}${input("cover", s.cover ?? "cover.jpg", "Cover image (path or URL)")}${input("contactEmail", s.contactEmail ?? "", "Contact e-mail (optional)", "email")}</div>
+      <div class="row3">${input("credits", s.credits ?? "by Fadi & Sami", "Credits")}${input("cover", s.cover ?? "cover.jpg", "Cover image (path or URL)")}${input("homeCover", s.homeCover ?? "home.jpg", "Home screen cover (path or URL)")}${input("contactEmail", s.contactEmail ?? "", "Contact e-mail (optional)", "email")}</div>
       <div class="field"><label>Default language</label><select name="defaultLanguage">${LANGS.map((l) => `<option value="${l.code}" ${(s.defaultLanguage || "en") === l.code ? "selected" : ""}>${l.name}</option>`).join("")}</select></div>
     </div>
     <div class="panel"><h3>Title per language</h3><div class="lang-grid">${LANGS.map((l) => input("title." + l.code, s.title?.[l.code], l.name)).join("")}</div></div>

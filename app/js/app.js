@@ -64,11 +64,9 @@ function footer() {
 
 // ---------- views ----------
 function viewHome() {
-  const cover = mediaUrl(store.settings?.cover || "cover.jpg");
+  const cover = mediaUrl(store.settings?.homeCover || "home.jpg");
   return `<div class="home">
-    <div class="hero"><img src="${cover}" alt="">
-      <div class="title"><span class="eyebrow">Discover the land of</span><span class="big">JESUS</span><span class="credits">${esc(store.settings?.credits || "by Fadi & Sami")}</span></div>
-    </div>
+    <div class="hero"><img src="${cover}" alt="Discover the Land of Jesus"></div>
     <div class="choose">
       <div><div class="eyebrow" style="font-size:13px">${esc(t("chooseLanguage"))}</div><div class="rule"></div></div>
       <div class="lang-list">${LANGS.map((l, i) => `<button class="lang-btn ${l.code === (savedLang() || "en") ? "primary" : ""}" data-go-lang="${l.code}"><span style="display:flex;align-items:center;gap:12px"><span class="code">${l.code.toUpperCase()}</span>${l.name}</span>${I.chev}</button>`).join("")}</div>
