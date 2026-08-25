@@ -24,3 +24,4 @@ ios/App/Pods/
 ios/App/App/public/
 ios/App/output/
 android/app/src/main/assets/public/
+android/key.properties
