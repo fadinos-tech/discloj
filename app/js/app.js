@@ -192,7 +192,7 @@ function viewMap(route) {
   // display positions: push overlapping markers slightly apart (Nazareth/Cana/Tabor/Nain, Jerusalem/Bethlehem/Ein Karem)
   for (const k of clusters) { k.x = X(k.lng); k.y = Y(k.lat); }
   for (let it = 0; it < 30; it++) for (let i = 0; i < clusters.length; i++) for (let j = i + 1; j < clusters.length; j++) {
-    const a = clusters[i], b = clusters[j]; const minD = (a.places.length > 1 ? 3.2 : 2.6) + (b.places.length > 1 ? 3.2 : 2.6) + 1.2;
+    const a = clusters[i], b = clusters[j]; const minD = (a.places.length > 1 ? 3.2 : 2.6) + (b.places.length > 1 ? 3.2 : 2.6) + 3.2;
     let dx = b.x - a.x, dy = b.y - a.y; let d = Math.hypot(dx, dy); if (d >= minD) continue; if (d < 0.01) { dx = 1; dy = 0; d = 1; }
     const push = (minD - d) / 2; a.x -= (dx / d) * push; a.y -= (dy / d) * push; b.x += (dx / d) * push; b.y += (dy / d) * push;
   }
@@ -203,7 +203,7 @@ function viewMap(route) {
     const dir = DIR[lead.id] || DIR[k.places.find((p) => DIR[p.id])?.id] || "right";
     const x = k.x, y = k.y; const r = multi ? 3.2 : 2.6; const g = r + 1.4;
     const pos = { right: [x + g, y + 1.1, "start"], left: [x - g, y + 1.1, "end"], "right-up": [x + g * 0.8, y - g * 0.5, "start"], "right-down": [x + g * 0.8, y + g + 0.8, "start"], "up-left": [x - 1, y - g, "end"], up: [x, y - g + 0.6, "middle"], down: [x, y + g + 2, "middle"] }[dir];
-    return `<g class="marker ${i === sel ? "on" : ""}" data-cluster="${lead.id}"><circle class="halo" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r + 1.2}"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r}"/><text class="num" x="${x.toFixed(1)}" y="${(y + 1).toFixed(1)}" text-anchor="middle">${multi ? k.places.length : lead.order}</text><text class="lab" x="${pos[0].toFixed(1)}" y="${pos[1].toFixed(1)}" text-anchor="${pos[2]}">${esc(label)}</text></g>`;
+    return `<g class="marker ${i === sel ? "on" : ""}" data-cluster="${lead.id}" data-single="${multi ? "" : lead.id}"><circle class="hit" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${(r + 3.2).toFixed(1)}"/><circle class="halo" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r + 1.2}"/><circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r}"/><text class="num" x="${x.toFixed(1)}" y="${(y + 1).toFixed(1)}" text-anchor="middle">${multi ? k.places.length : lead.order}</text><text class="lab" x="${pos[0].toFixed(1)}" y="${pos[1].toFixed(1)}" text-anchor="${pos[2]}">${esc(label)}</text></g>`;
   }).join("");
   const svg = `<svg class="map-svg" viewBox="0 0 100 130" role="img" aria-label="${esc(t("map"))}">
     <defs>
@@ -318,7 +318,7 @@ function afterRender(route) {
     [photos[idx + 1], photos[idx - 1]].filter(Boolean).forEach((p) => { const im = new Image(); im.src = mediaUrl(p.image); });
   }
   if (route.view === "search") { const q = document.getElementById("q"); q?.focus(); q?.addEventListener("input", () => { searchQ = q.value; const r = parseHash(); document.getElementById("results").innerHTML = viewSearch(r).match(/<div class="results" id="results">([\s\S]*)<\/div><\/div><\/main>/)?.[1] || ""; }); }
-  if (route.view === "map" && route.a) document.querySelector(`#mp-${CSS.escape(route.a)}`)?.scrollIntoView({ block: "nearest", behavior: "smooth" });
+  if (route.view === "map" && route.a) setTimeout(() => document.querySelector(`#mp-${CSS.escape(route.a)}`)?.scrollIntoView({ block: "center", behavior: "smooth" }), 60);
 }
 function navPhoto(route, d) {
   const photos = photosOfPlace(route.a); const idx = Math.max(0, photos.findIndex((p) => p.code === route.b));
@@ -340,7 +340,7 @@ document.addEventListener("click", (e) => {
   const bb = e.target.closest("[data-bible]"); if (bb) { const [g, r] = bb.dataset.bible.split("|"); openPassage(g, r); return; }
   const nb = e.target.closest("[data-nav]"); if (nb && !nb.disabled) { navPhoto(parseHash(), +nb.dataset.nav); return; }
   const sb = e.target.closest("#strip [data-idx]"); if (sb) { const r = parseHash(); const p = photosOfPlace(r.a)[+sb.dataset.idx]; if (p) go("place", r.a, p.code); return; }
-  const mk = e.target.closest(".map-svg [data-cluster]"); if (mk) { go("map", mk.dataset.cluster); return; }
+  const mk = e.target.closest(".map-svg [data-cluster]"); if (mk) { if (mk.dataset.single) go("place", mk.dataset.single); else go("map", mk.dataset.cluster); return; }
 });
 document.addEventListener("keydown", (e) => {
   if (e.key === "Escape") { closeVideo(); closeReader(); }

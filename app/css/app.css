@@ -236,6 +236,7 @@ button.chip { cursor: pointer; } button.chip:hover { background: var(--brown-3);
 .map-svg .sea-label.small { font-family: var(--font-body); font-style: italic; font-size: 2.7px; letter-spacing: 0.04em; }
 .map-svg .compass text { font-family: var(--font-display); font-size: 3px; fill: #6b4a2a; }
 .map-svg .marker circle { fill: #d8b262; stroke: #3b2314; stroke-width: 0.55; cursor: pointer; }
+.map-svg .marker .hit { fill: rgba(0,0,0,0); stroke: none; }
 .map-svg .marker .halo { fill: rgba(59,35,20,0.18); stroke: none; }
 .map-svg .marker.on circle { fill: #3b2314; stroke: #d8b262; stroke-width: 0.9; }
 .map-svg .marker.on .halo { fill: rgba(216,178,98,0.45); }
