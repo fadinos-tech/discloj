@@ -226,7 +226,8 @@ function viewMap(route) {
     <rect x="0.4" y="0.4" width="99.2" height="129.2" fill="none" stroke="#6b4a2a" stroke-width="0.5"/><rect x="1.6" y="1.6" width="96.8" height="126.8" fill="none" stroke="#6b4a2a" stroke-width="0.2"/>
     ${markers}
   </svg>`;
-  const panel = `<div class="list">${clusters.map((k, i) => { const on = i === sel; return k.places.map((p) => { const ph = photoById(p.coverPhoto) || photosOfPlace(p.id)[0]; return `<a class="row ${on ? "on" : ""}" id="mp-${p.id}" href="${href("place", p.id)}"><span class="n">${p.order}</span><span class="thumb"><img src="${mediaUrl(ph?.thumb || ph?.image)}" alt="" loading="lazy"></span><span class="meta"><b>${esc(L(p.title))}</b><small>${photosOfPlace(p.id).length} ${esc(t("photos"))}</small></span>${I.chev.replace('class="icon"', 'class="icon" style="color:var(--gold)"')}</a>`; }).join(""); }).join("")}</div>`;
+  const ordered = sel >= 0 ? [clusters[sel], ...clusters.filter((_, i) => i !== sel)] : clusters;
+  const panel = `<div class="list">${ordered.map((k) => { const on = clusters.indexOf(k) === sel; return k.places.map((p) => { const ph = photoById(p.coverPhoto) || photosOfPlace(p.id)[0]; return `<a class="row ${on ? "on" : ""}" id="mp-${p.id}" href="${href("place", p.id)}"><span class="n">${p.order}</span><span class="thumb"><img src="${mediaUrl(ph?.thumb || ph?.image)}" alt="" loading="lazy"></span><span class="meta"><b>${esc(L(p.title))}</b><small>${photosOfPlace(p.id).length} ${esc(t("photos"))}</small></span>${I.chev.replace('class="icon"', 'class="icon" style="color:var(--gold)"')}</a>`; }).join(""); }).join("")}</div>`;
   return header(route, { title: t("map") }) + `<main><div class="page map-wrap">${svg}${panel}</div></main>` + footer() + tabbar(route);
 }
 
@@ -318,7 +319,7 @@ function afterRender(route) {
     [photos[idx + 1], photos[idx - 1]].filter(Boolean).forEach((p) => { const im = new Image(); im.src = mediaUrl(p.image); });
   }
   if (route.view === "search") { const q = document.getElementById("q"); q?.focus(); q?.addEventListener("input", () => { searchQ = q.value; const r = parseHash(); document.getElementById("results").innerHTML = viewSearch(r).match(/<div class="results" id="results">([\s\S]*)<\/div><\/div><\/main>/)?.[1] || ""; }); }
-  if (route.view === "map" && route.a) setTimeout(() => document.querySelector(`#mp-${CSS.escape(route.a)}`)?.scrollIntoView({ block: "center", behavior: "smooth" }), 60);
+  if (route.view === "map" && route.a) setTimeout(() => document.querySelector(`#mp-${CSS.escape(route.a)}`)?.scrollIntoView({ block: "center", behavior: "smooth" }), 200);
 }
 function navPhoto(route, d) {
   const photos = photosOfPlace(route.a); const idx = Math.max(0, photos.findIndex((p) => p.code === route.b));
