@@ -70,6 +70,7 @@ function viewHome() {
     <div class="choose">
       <div><div class="eyebrow" style="font-size:13px">${esc(t("chooseLanguage"))}</div><div class="rule"></div></div>
       <div class="lang-list">${LANGS.map((l, i) => `<button class="lang-btn ${l.code === (savedLang() || "en") ? "primary" : ""}" data-go-lang="${l.code}"><span style="display:flex;align-items:center;gap:12px"><span class="code">${l.code.toUpperCase()}</span>${l.name}</span>${I.chev}</button>`).join("")}</div>
+      ${IS_NATIVE ? "" : `<a class="play-badge" href="${esc(store.settings?.appUpdate?.androidUrl || "https://play.google.com/store/apps/details?id=com.clicksolutionspro.discloj")}" target="_blank" rel="noopener"><img src="icons/google-play-badge.png" alt="Get it on Google Play"></a>`}
       <div class="foot">${store.photos.length ? `${store.photos.length} ${t("photos")} · ${store.videos.length} ${t("videos").toLowerCase()} · ${t("bibleRefs")}` : "&nbsp;"}</div>
     </div>
   </div>`;
